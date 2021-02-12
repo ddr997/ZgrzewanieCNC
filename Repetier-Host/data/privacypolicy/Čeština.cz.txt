@@ -1,0 +1,692 @@
+﻿Platí následující zásady ochrany osobních údajů v angličtině. Pro snadnější orientaci jsme také přidali nekontrolovaný překlad z Překladače Google.
+
+We are very delighted that you have shown interest in our enterprise. Data protection is of a particularly high priority for the management of the Hot-World GmbH & Co. KG. The use of the Repetier software (Repetier-Host, Repetier-Server, Repetier-Informer) and Repetier websites (https://www.repetier.com, http://www.repetier-server.com, https://my.repetier.com, https://forum.repetier.com, http://www.repetier-apps.com, ...) managed by Hot-World GmbH & Co. KG are possible without any indication of personal data; however, if a data subject wants to use special enterprise services via our software, app or website, processing of personal data could become necessary. If the processing of personal data is necessary and there is no statutory basis for such processing, we generally obtain consent from the data subject.
+
+The processing of personal data, such as the name, address, e-mail address, device ID or telephone number of a data subject shall always be in line with the General Data Protection Regulation (GDPR), and in accordance with the country-specific data protection regulations applicable to the Hot-World GmbH & Co. KG. By means of this data protection declaration, our enterprise would like to inform the general public of the nature, scope, and purpose of the personal data we collect, use and process. Furthermore, data subjects are informed, by means of this data protection declaration, of the rights to which they are entitled.
+
+As the controller, the Hot-World GmbH & Co. KG has implemented numerous technical and organizational measures to ensure the most complete protection of personal data processed through the Repetier software, apps and websites, which are stored on dedicated web servers operated by Hot-World GmbH & Co. KG. However, Internet-based data transmissions may in principle have security gaps, so absolute protection may not be guaranteed.
+
+1. Definitions
+The data protection declaration of the Hot-World GmbH & Co. KG is based on the terms used by the European legislator for the adoption of the General Data Protection Regulation (GDPR). Our data protection declaration should be legible and understandable for the general public, as well as our customers and business partners. To ensure this, we would like to first explain the terminology used.
+
+In this data protection declaration, we use, inter alia, the following terms:
+
+a) Personal data
+Personal data means any information relating to an identified or identifiable natural person (“data subject”). An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+
+b) Data subject
+Data subject is any identified or identifiable natural person, whose personal data is processed by the controller responsible for the processing.
+
+c) Processing
+Processing is any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+
+d) Restriction of processing
+Restriction of processing is the marking of stored personal data with the aim of limiting their processing in the future.
+
+e) Profiling
+Profiling means any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects concerning that natural person's performance at work, economic situation, health, personal preferences, interests, reliability, behaviour, location or movements.
+
+f) Pseudonymisation
+Pseudonymisation is the processing of personal data in such a manner that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that such additional information is kept separately and is subject to technical and organisational measures to ensure that the personal data are not attributed to an identified or identifiable natural person.
+
+g) Controller or controller responsible for the processing
+Controller or controller responsible for the processing is the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law.
+
+h) Processor
+Processor is a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.
+
+i) Recipient
+Recipient is a natural or legal person, public authority, agency or another body, to which the personal data are disclosed, whether a third party or not. However, public authorities which may receive personal data in the framework of a particular inquiry in accordance with Union or Member State law shall not be regarded as recipients; the processing of those data by those public authorities shall be in compliance with the applicable data protection rules according to the purposes of the processing.
+
+j) Third party
+Third party is a natural or legal person, public authority, agency or body other than the data subject, controller, processor and persons who, under the direct authority of the controller or processor, are authorised to process personal data.
+
+k) Consent
+Consent of the data subject is any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.
+
+2. Name and Address of the controller
+Controller for the purposes of the General Data Protection Regulation (GDPR), other data protection laws applicable in Member states of the European Union and other provisions related to data protection is:
+
+Hot-World GmbH & Co. KG
+
+Knickelsdorf 42
+
+47877 Willich
+
+Germany
+
+Phone: +49 (0)2154 – 60 65 18
+
+Email: info@repetier.com
+
+Websites: https://www.repetier.com, http://www.repetier-server.com, https://my.repetier.com, https://forum.repetier.com, http://www.repetier-apps.com, ...
+
+3. Name and Address of the Data Protection Officer
+The Data Protection Officer of the controller is:
+
+Marcus Littwin
+Hot-World GmbH & Co. KG
+
+Knickelsdorf 42
+
+47877 Willich
+
+Germany
+
+Phone: +49 (0)2154 – 60 65 18
+
+Email: info@repetier.com
+
+Websites: https://www.repetier.com, http://www.repetier-server.com, https://my.repetier.com, https://forum.repetier.com, http://www.repetier-apps.com, ...
+
+Any data subject may, at any time, contact our Data Protection Officer directly with all questions and suggestions concerning data protection.
+
+4. Cookies
+The Internet pages of the Hot-World GmbH & Co. KG use cookies. Cookies are text files that are stored in a computer system via an Internet browser.
+
+Many Internet sites and servers use cookies. Many cookies contain a so-called cookie ID. A cookie ID is a unique identifier of the cookie. It consists of a character string through which internet pages and servers can be assigned to the specific Internet browser in which the cookie was stored. This allows visited Internet sites and servers to differentiate the individual browser of the dats subject from other Internet browsers that contain other cookies. A specific internet browser can be recognized and identified using the unique cookie ID.
+
+Through the use of cookies, the Hot-World GmbH & Co. KG can provide the users of this website with more user-friendly services that would not be possible without the cookie setting.
+
+By means of a cookie, the information and offers on our website can be optimized with the user in mind. Cookies allow us, as previously mentioned, to recognize our website users. The purpose of this recognition is to make it easier for users to utilize our website. The website user that uses cookies, e.g. does not have to enter access data each time the website is accessed, because this is taken over by the website, and the cookie is thus stored on the user's computer system. Another example is the cookie of a shopping cart in an online shop. The online store remembers the articles that a customer has placed in the virtual shopping cart via a cookie.
+
+The data subject may, at any time, prevent the setting of cookies through our website by means of a corresponding setting of the internet browser used, and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an internet browser or other software programs. This is possible in all popular Internet browsers. If the data subject deactivates the setting of cookies in the Internet browser used, not all functions of our website may be entirely usable.
+
+5. Collection of general data and information
+The websites and the Repetier API (Application Programming Interface) of the Hot-World GmbH & Co. KG collects a series of general data and information when a data subject or automated system calls up the website or API. This general data and information are stored in the server log files. Collected may be (1) the browser types and versions used, (2) the operating system used by the accessing system, (3) the website from which an accessing system reaches our website (so-called referrers), (4) the sub-websites, (5) the date and time of access to the Internet site, (6) an Internet protocol address (IP address), (7) the Internet service provider of the accessing system, and (8) any other similar data and information that may be used in the event of attacks on our information technology systems.
+
+When using these general data and information, the Hot-World GmbH & Co. KG does not draw any conclusions about the data subject. Rather, this information is needed to (1) deliver the content of our website correctly, (2) optimize the content of our website as well as its advertisement, (3) ensure the long-term viability of our information technology systems and website technology, and (4) provide law enforcement authorities with the information necessary for criminal prosecution in case of a cyber-attack. Therefore, the Hot-World GmbH & Co. KG analyzes anonymously collected data and information statistically, with the aim of increasing the data protection and data security of our enterprise, and to ensure an optimal level of protection for the personal data we process. The anonymous data of the server log files are stored separately from all personal data provided by a data subject.
+
+6. Registration on our website
+The data subject has the possibility to register on the websites of the controller with the indication of personal data. Which personal data are transmitted to the controller is determined by the respective input mask used for the registration. The personal data entered by the data subject are collected and stored exclusively for internal use by the controller, and for his own purposes. The controller may request transfer to one or more processors (e.g. a Apple or Google push message service) that also uses personal data for an internal purpose which is attributable to the controller. The controller will send an automatic confirmation e-mail to check the double opt-in procedure as to whether the owner of the specified e-mail address decided in favor of this option.
+
+By registering on the website of the controller, the IP address—assigned by the Internet service provider (ISP) and used by the data subject—date, and time of the registration are also stored. The storage of this data takes place against the background that this is the only way to prevent the misuse of our services, and, if necessary, to make it possible to investigate committed offenses. Insofar, the storage of this data is necessary to secure the controller. This data is not passed on to third parties unless there is a statutory obligation to pass on the data, or if the transfer serves the aim of criminal prosecution.
+
+The registration of the data subject, with the voluntary indication of personal data, is intended to enable the controller to offer the data subject contents or services that may only be offered to registered users due to the nature of the matter in question. Registered persons are free to change the personal data specified during the registration at any time, or to have them completely deleted from the data stock of the controller.
+
+The data controller shall, at any time, provide information upon request to each data subject as to what personal data are stored about the data subject. In addition, the data controller shall correct or erase personal data at the request or indication of the data subject, insofar as there are no statutory storage obligations. A Data Protection Officer particularly designated in this data protection declaration, as well as the entirety of the controller’s employees are available to the data subject in this respect as contact persons.
+
+7. Contact possibility via the website
+The website of the Hot-World GmbH & Co. KG contains information that enables a quick electronic contact to our enterprise, as well as direct communication with us, which also includes a general address of the so-called electronic mail (e-mail address). If a data subject contacts the controller by e-mail or via a contact form, the personal data transmitted by the data subject are automatically stored. Such personal data transmitted on a voluntary basis by a data subject to the data controller are stored for the purpose of processing or contacting the data subject. There is no transfer of this personal data to third parties.
+
+8. Comments function in the forum on the website
+The Hot-World GmbH & Co. KG offers users the possibility to leave individual comments on individual forum contributions on a forum, which is on the website of the controller. A forum is a web-based, publicly-accessible portal, through which one or more people may post articles or write down thoughts in so-called forum posts. Forum posts may usually be commented by third parties.
+
+If a data subject leaves a comment on the forum published on this website, the comments made by the data subject are also stored and published, as well as information on the date of the commentary and on the user's (pseudonym) chosen by the data subject. In addition, the IP address assigned by the Internet service provider (ISP) to the data subject is also logged. This storage of the IP address takes place for security reasons, and in case the data subject violates the rights of third parties, or posts illegal content through a given comment. The storage of these personal data is, therefore, in the own interest of the data controller, so that he can exculpate in the event of an infringement. This collected personal data will not be passed to third parties, unless such a transfer is required by law or serves the aim of the defense of the data controller.
+
+9. Subscription to comments in the forum on the website
+The comments made in the forum of the Hot-World GmbH & Co. KG may be subscribed to by third parties. In particular, there is the possibility that a commenter subscribes to the comments following his comments on a particular forum post.
+
+The option to subscribe to comments may be terminated at any time.
+
+10. Routine erasure and blocking of personal data
+The data controller shall process and store the personal data of the data subject only for the period necessary to achieve the purpose of storage, or as far as this is granted by the European legislator or other legislators in laws or regulations to which the controller is subject to.
+
+If the storage purpose is not applicable, or if a storage period prescribed by the European legislator or another competent legislator expires, the personal data are routinely blocked or erased in accordance with legal requirements.
+
+11. Rights of the data subject
+a) Right of confirmation
+Each data subject shall have the right granted by the European legislator to obtain from the controller the confirmation as to whether or not personal data concerning him or her are being processed. If a data subject wishes to avail himself of this right of confirmation, he or she may, at any time, contact our Data Protection Officer or another employee of the controller.
+
+b) Right of access
+Each data subject shall have the right granted by the European legislator to obtain from the controller free information about his or her personal data stored at any time and a copy of this information. Furthermore, the European directives and regulations grant the data subject access to the following information:
+
+the purposes of the processing;
+the categories of personal data concerned;
+the recipients or categories of recipients to whom the personal data have been or will be disclosed, in particular recipients in third countries or international organisations;
+where possible, the envisaged period for which the personal data will be stored, or, if not possible, the criteria used to determine that period;
+the existence of the right to request from the controller rectification or erasure of personal data, or restriction of processing of personal data concerning the data subject, or to object to such processing;
+the existence of the right to lodge a complaint with a supervisory authority;
+where the personal data are not collected from the data subject, any available information as to their source;
+the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) of the GDPR and, at least in those cases, meaningful information about the logic involved, as well as the significance and envisaged consequences of such processing for the data subject.
+Furthermore, the data subject shall have a right to obtain information as to whether personal data are transferred to a third country or to an international organisation. Where this is the case, the data subject shall have the right to be informed of the appropriate safeguards relating to the transfer.
+
+If a data subject wishes to avail himself of this right of access, he or she may at any time contact our Data Protection Officer or another employee of the controller.
+
+c) Right to rectification
+Each data subject shall have the right granted by the European legislator to obtain from the controller without undue delay the rectification of inaccurate personal data concerning him or her. Taking into account the purposes of the processing, the data subject shall have the right to have incomplete personal data completed, including by means of providing a supplementary statement.
+
+If a data subject wishes to exercise this right to rectification, he or she may, at any time, contact our Data Protection Officer or another employee of the controller.
+
+d) Right to erasure (Right to be forgotten)
+Each data subject shall have the right granted by the European legislator to obtain from the controller the erasure of personal data concerning him or her without undue delay, and the controller shall have the obligation to erase personal data without undue delay where one of the following grounds applies, as long as the processing is not necessary:
+
+The personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed.
+The data subject withdraws consent to which the processing is based according to point (a) of Article 6(1) of the GDPR, or point (a) of Article 9(2) of the GDPR, and where there is no other legal ground for the processing.
+The data subject objects to the processing pursuant to Article 21(1) of the GDPR and there are no overriding legitimate grounds for the processing, or the data subject objects to the processing pursuant to Article 21(2) of the GDPR.
+The personal data have been unlawfully processed.
+The personal data must be erased for compliance with a legal obligation in Union or Member State law to which the controller is subject.
+The personal data have been collected in relation to the offer of information society services referred to in Article 8(1) of the GDPR.
+If one of the aforementioned reasons applies, and a data subject wishes to request the erasure of personal data stored by the Hot-World GmbH & Co. KG, he or she may at any time contact our Data Protection Officer or another employee of the controller. The Data Protection Officer of the Hot-World GmbH & Co. KG or another employee shall promptly ensure that the erasure request is complied with immediately.
+
+Where the controller has made personal data public and is obliged pursuant to Article 17(1) to erase the personal data, the controller, taking account of available technology and the cost of implementation, shall take reasonable steps, including technical measures, to inform other controllers processing the personal data that the data subject has requested erasure by such controllers of any links to, or copy or replication of, those personal data, as far as processing is not required. The Data Protection Officer of the Hot-World GmbH & Co. KG or another employee will arrange the necessary measures in individual cases.
+
+e) Right of restriction of processing
+Each data subject shall have the right granted by the European legislator to obtain from the controller restriction of processing where one of the following applies:
+
+The accuracy of the personal data is contested by the data subject, for a period enabling the controller to verify the accuracy of the personal data.
+The processing is unlawful and the data subject opposes the erasure of the personal data and requests instead the restriction of their use instead.
+The controller no longer needs the personal data for the purposes of the processing, but they are required by the data subject for the establishment, exercise or defence of legal claims.
+The data subject has objected to processing pursuant to Article 21(1) of the GDPR pending the verification whether the legitimate grounds of the controller override those of the data subject.
+If one of the aforementioned conditions is met, and a data subject wishes to request the restriction of the processing of personal data stored by the Hot-World GmbH & Co. KG, he or she may at any time contact our Data Protection Officer or another employee of the controller. The Data Protection Officer of the Hot-World GmbH & Co. KG or another employee will arrange the restriction of the processing.
+
+f) Right to data portability
+Each data subject shall have the right granted by the European legislator, to receive the personal data concerning him or her, which was provided to a controller, in a structured, commonly used and machine-readable format. He or she shall have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided, as long as the processing is based on consent pursuant to point (a) of Article 6(1) of the GDPR or point (a) of Article 9(2) of the GDPR, or on a contract pursuant to point (b) of Article 6(1) of the GDPR, and the processing is carried out by automated means, as long as the processing is not necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.
+
+Furthermore, in exercising his or her right to data portability pursuant to Article 20(1) of the GDPR, the data subject shall have the right to have personal data transmitted directly from one controller to another, where technically feasible and when doing so does not adversely affect the rights and freedoms of others.
+
+In order to assert the right to data portability, the data subject may at any time contact the Data Protection Officer designated by the Hot-World GmbH & Co. KG or another employee.
+
+g) Right to object
+Each data subject shall have the right granted by the European legislator to object, on grounds relating to his or her particular situation, at any time, to processing of personal data concerning him or her, which is based on point (e) or (f) of Article 6(1) of the GDPR. This also applies to profiling based on these provisions.
+
+The Hot-World GmbH & Co. KG shall no longer process the personal data in the event of the objection, unless we can demonstrate compelling legitimate grounds for the processing which override the interests, rights and freedoms of the data subject, or for the establishment, exercise or defence of legal claims.
+
+If the Hot-World GmbH & Co. KG processes personal data for direct marketing purposes, the data subject shall have the right to object at any time to processing of personal data concerning him or her for such marketing. This applies to profiling to the extent that it is related to such direct marketing. If the data subject objects to the Hot-World GmbH & Co. KG to the processing for direct marketing purposes, the Hot-World GmbH & Co. KG will no longer process the personal data for these purposes.
+
+In addition, the data subject has the right, on grounds relating to his or her particular situation, to object to processing of personal data concerning him or her by the Hot-World GmbH & Co. KG for scientific or historical research purposes, or for statistical purposes pursuant to Article 89(1) of the GDPR, unless the processing is necessary for the performance of a task carried out for reasons of public interest.
+
+In order to exercise the right to object, the data subject may directly contact the Data Protection Officer of the Hot-World GmbH & Co. KG or another employee. In addition, the data subject is free in the context of the use of information society services, and notwithstanding Directive 2002/58/EC, to use his or her right to object by automated means using technical specifications.
+
+h) Automated individual decision-making, including profiling
+Each data subject shall have the right granted by the European legislator not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her, or similarly significantly affects him or her, as long as the decision (1) is not is necessary for entering into, or the performance of, a contract between the data subject and a data controller, or (2) is not authorised by Union or Member State law to which the controller is subject and which also lays down suitable measures to safeguard the data subject's rights and freedoms and legitimate interests, or (3) is not based on the data subject's explicit consent.
+
+If the decision (1) is necessary for entering into, or the performance of, a contract between the data subject and a data controller, or (2) it is based on the data subject's explicit consent, the Hot-World GmbH & Co. KG shall implement suitable measures to safeguard the data subject's rights and freedoms and legitimate interests, at least the right to obtain human intervention on the part of the controller, to express his or her point of view and contest the decision.
+
+If the data subject wishes to exercise the rights concerning automated individual decision-making, he or she may at any time directly contact our Data Protection Officer of the Hot-World GmbH & Co. KG or another employee of the controller.
+
+i) Right to withdraw data protection consent
+Each data subject shall have the right granted by the European legislator to withdraw his or her consent to processing of his or her personal data at any time.
+
+f the data subject wishes to exercise the right to withdraw the consent, he or she may at any time directly contact our Data Protection Officer of the Hot-World GmbH & Co. KG or another employee of the controller.
+
+12. Data protection for applications and the application procedures
+The data controller shall collect and process the personal data of applicants for the purpose of the processing of the application procedure. The processing may also be carried out electronically. This is the case, in particular, if an applicant submits corresponding application documents by e-mail or by means of a web form on the website to the controller. If the data controller concludes an employment contract with an applicant, the submitted data will be stored for the purpose of processing the employment relationship in compliance with legal requirements. If no employment contract is concluded with the applicant by the controller, the application documents shall be automatically erased two months after notification of the refusal decision, provided that no other legitimate interests of the controller are opposed to the erasure. Other legitimate interest in this relation is, e.g. a burden of proof in a procedure under the General Equal Treatment Act (AGG).
+
+13. Data protection provisions about the application and use of Facebook
+On this website, the controller has integrated components of the enterprise Facebook. Facebook is a social network.
+
+A social network is a place for social meetings on the Internet, an online community, which usually allows users to communicate with each other and interact in a virtual space. A social network may serve as a platform for the exchange of opinions and experiences, or enable the Internet community to provide personal or business-related information. Facebook allows social network users to include the creation of private profiles, upload photos, and network through friend requests.
+
+The operating company of Facebook is Facebook, Inc., 1 Hacker Way, Menlo Park, CA 94025, United States. If a person lives outside of the United States or Canada, the controller is the Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland.
+
+With each call-up to one of the individual pages of this Internet website, which is operated by the controller and into which a Facebook component (Facebook plug-ins) was integrated, the web browser on the information technology system of the data subject is automatically prompted to download display of the corresponding Facebook component from Facebook through the Facebook component. An overview of all the Facebook Plug-ins may be accessed under https://developers.facebook.com/docs/plugins/. During the course of this technical procedure, Facebook is made aware of what specific sub-site of our website was visited by the data subject.
+
+If the data subject is logged in at the same time on Facebook, Facebook detects with every call-up to our website by the data subject—and for the entire duration of their stay on our Internet site—which specific sub-site of our Internet page was visited by the data subject. This information is collected through the Facebook component and associated with the respective Facebook account of the data subject. If the data subject clicks on one of the Facebook buttons integrated into our website, e.g. the "Like" button, or if the data subject submits a comment, then Facebook matches this information with the personal Facebook user account of the data subject and stores the personal data.
+
+Facebook always receives, through the Facebook component, information about a visit to our website by the data subject, whenever the data subject is logged in at the same time on Facebook during the time of the call-up to our website. This occurs regardless of whether the data subject clicks on the Facebook component or not. If such a transmission of information to Facebook is not desirable for the data subject, then he or she may prevent this by logging off from their Facebook account before a call-up to our website is made.
+
+The data protection guideline published by Facebook, which is available at https://facebook.com/about/privacy/, provides information about the collection, processing and use of personal data by Facebook. In addition, it is explained there what setting options Facebook offers to protect the privacy of the data subject. In addition, different configuration options are made available to allow the elimination of data transmission to Facebook. These applications may be used by the data subject to eliminate a data transmission to Facebook.
+
+14. Data protection provisions about the application and use of Matomo
+On this website, the controller has integrated the Matomo component. Matomo is an open-source software tool for web analysis. Web analysis is the collection, gathering and evaluation of data on the behavior of visitors from Internet sites. A web analysis tool collects, inter alia, data on the website from which a data subject came to a website (so-called referrer), which pages of the website were accessed or how often and for which period of time a sub-page was viewed. A web analysis is mainly used for the optimization of a website and the cost-benefit analysis of Internet advertising.
+
+The software is operated on the server of the controller, the data protection-sensitive log files are stored exclusively on this server.
+
+The purpose of the Matomo component is the analysis of the visitor flows on our website. The controller uses the obtained data and information, inter alia, to evaluate the use of this website in order to compile online reports, which show the activities on our Internet pages.
+
+Matomo sets a cookie on the information technology system of the data subject. The definition of cookies is explained above. With the setting of the cookie, an analysis of the use of our website is enabled. With each call-up to one of the individual pages of this website, the Internet browser on the information technology system of the data subject is automatically through the Matomo component prompted to submit data for the purpose of online analysis to our server. During the course of this technical procedure, we obtain knowledge about personal information, such as the IP address of the data subject, which serves to understand the origin of visitors and clicks. Matomo uses only anonymous IP data. Matomo stores in the database each new visitor IP address (ipv4 or ipv6 format) with the last components removed to protect user’s privacy.
+
+The cookie is used to store personal information, such as the access time, the location from which access was made, and the frequency of visits to our website. With each visit of our Internet pages, these personal data, including the IP address of the Internet access used by the data subject, are transferred to our server. These personal data will be stored by us with IP anonymisation. We do not forward this personal data to third parties.
+
+The data subject may, as stated above, prevent the setting of cookies through our website at any time by means of a corresponding adjustment of the web browser used and thus permanently deny the setting of cookies. Such an adjustment to the used Internet browser would also prevent Matomo from setting a cookie on the information technology system of the data subject. In addition, cookies already in use by Matomo may be deleted at any time via a web browser or other software programs.
+
+In addition, the data subject has the possibility of objecting to a collection of data relating to a use of this Internet site that are generated by Matomo as well as the processing of these data by Matomo and the chance to preclude any such. For this, the data subject must set an opt-out cookie:
+
+The opt-out cookie that is set for this purpose is placed on the information technology system used by the data subject. If the cookies are deleted on the system of the data subject, then the data subject must call-up the link again and set a new opt-out cookie.
+
+With each setting of the opt-out cookie, however, there is the possibility that the websites of the controller are no longer fully usable for the data subject.
+
+Further information and the applicable data protection provisions of Matomo may be retrieved under https://matomo.org/privacy/.
+
+15. Data protection provisions about the application and use of Twitter
+On this website, the controller has integrated components of Twitter. Twitter is a multilingual, publicly-accessible microblogging service on which users may publish and spread so-called ‘tweets,’ e.g. short messages, which are limited to 140 characters. These short messages are available for everyone, including those who are not logged on to Twitter. The tweets are also displayed to so-called followers of the respective user. Followers are other Twitter users who follow a user's tweets. Furthermore, Twitter allows you to address a wide audience via hashtags, links or retweets.
+
+The operating company of Twitter is Twitter, Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, UNITED STATES.
+
+With each call-up to one of the individual pages of this Internet site, which is operated by the controller and on which a Twitter component (Twitter button) was integrated, the Internet browser on the information technology system of the data subject is automatically prompted to download a display of the corresponding Twitter component of Twitter. Further information about the Twitter buttons is available under https://about.twitter.com/de/resources/buttons. During the course of this technical procedure, Twitter gains knowledge of what specific sub-page of our website was visited by the data subject. The purpose of the integration of the Twitter component is a retransmission of the contents of this website to allow our users to introduce this web page to the digital world and increase our visitor numbers.
+
+If the data subject is logged in at the same time on Twitter, Twitter detects with every call-up to our website by the data subject and for the entire duration of their stay on our Internet site which specific sub-page of our Internet page was visited by the data subject. This information is collected through the Twitter component and associated with the respective Twitter account of the data subject. If the data subject clicks on one of the Twitter buttons integrated on our website, then Twitter assigns this information to the personal Twitter user account of the data subject and stores the personal data.
+
+Twitter receives information via the Twitter component that the data subject has visited our website, provided that the data subject is logged in on Twitter at the time of the call-up to our website. This occurs regardless of whether the person clicks on the Twitter component or not. If such a transmission of information to Twitter is not desirable for the data subject, then he or she may prevent this by logging off from their Twitter account before a call-up to our website is made.
+
+The applicable data protection provisions of Twitter may be accessed under https://twitter.com/privacy?lang=en.
+
+16. Data protection provisions about the application and use of YouTube
+On this website, the controller has integrated components of YouTube. YouTube is an Internet video portal that enables video publishers to set video clips and other users free of charge, which also provides free viewing, review and commenting on them. YouTube allows you to publish all kinds of videos, so you can access both full movies and TV broadcasts, as well as music videos, trailers, and videos made by users via the Internet portal.
+
+The operating company of YouTube is YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, UNITED STATES. The YouTube, LLC is a subsidiary of Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, UNITED STATES.
+
+With each call-up to one of the individual pages of this Internet site, which is operated by the controller and on which a YouTube component (YouTube video) was integrated, the Internet browser on the information technology system of the data subject is automatically prompted to download a display of the corresponding YouTube component. Further information about YouTube may be obtained under https://www.youtube.com/intl/en/yt/about/. During the course of this technical procedure, YouTube and Google gain knowledge of what specific sub-page of our website was visited by the data subject.
+
+If the data subject is logged in on YouTube, YouTube recognizes with each call-up to a sub-page that contains a YouTube video, which specific sub-page of our Internet site was visited by the data subject. This information is collected by YouTube and Google and assigned to the respective YouTube account of the data subject.
+
+YouTube and Google will receive information through the YouTube component that the data subject has visited our website, if the data subject at the time of the call to our website is logged in on YouTube; this occurs regardless of whether the person clicks on a YouTube video or not. If such a transmission of this information to YouTube and Google is not desirable for the data subject, the delivery may be prevented if the data subject logs off from their own YouTube account before a call-up to our website is made.
+
+YouTube's data protection provisions, available at https://www.google.com/intl/en/policies/privacy/, provide information about the collection, processing and use of personal data by YouTube and Google.
+
+17. Data protection provisions about the application and use of Google Cloud Messaging (CGM)
+In the android Repetier-Informer app, the controller has integrated components of Google. The android Repetier-Informer app uses Google Cloud Messaging (GCM) to provide information to mobile end devices, which can then use it in the Repetier-Informer app.
+
+The operating company of Google is Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, UNITED STATES.
+
+When setting up the Repetier-Informer app, an existing group with corresponding group ID is entered or a new group is created. Here we receive from Google the device ID to which we can send push messages.
+
+With each message we transmit the message text and if specified a link via GCM to a specific Google device ID, so that the Repetier-Informer app receives this data.
+
+Google's data protection provisions, available at https://www.google.com/intl/en/policies/privacy/, provide information about the collection, processing and use of personal data by Google.
+
+18. Data protection provisions about the application and use of Apple Push Notification service (APNs)
+In the iOS Repetier-Informer app, the controller has integrated components of Apple. The iOS Repetier-Informer app uses Apple Push Notification service (APNs) to provide information to mobile end devices, which can then use it in the Repetier-Informer app.
+
+The operating company of Apple is Apple, 1 Infinite Loop, Cupertino, CA 95014, UNITED STATES.
+
+When setting up the Repetier-Informer app, an existing group with corresponding group ID is entered or a new group is created. Here we receive from Apple the device ID to which we can send push messages.
+
+With each message we transmit the message text and if specified a link via APNs to a specific Apple device ID, so that the Repetier-Informer app receives this data.
+
+Apple’s data protection provisions, available at https://www.apple.com/privacy/, provide information about the collection, processing and use of personal data by Apple.
+
+19. Stop receiving push messages from Repetier-Informer
+The only aim of the Repetier-Informer app is that the programs like Repetier-Server and Repetier-Host, both developed by Hot-World GmbH & Co. KG, send status messages of your 3d printer via push message to your smartphones and / or tablets.
+
+If you do not want to receive push messages on your smartphone or tablet, you can delete the assigned groups in the app settings, you can uninstall the app or you can deactivate push messages in Repetier-Host and / or Repetier-Server.
+
+20. Payment Method: Data protection provisions about the use of PayPal as a payment processor
+On this website, the controller has integrated components of PayPal. PayPal is an online payment service provider. Payments are processed via so-called PayPal accounts, which represent virtual private or business accounts. PayPal is also able to process virtual payments through credit cards when a user does not have a PayPal account. A PayPal account is managed via an e-mail address, which is why there are no classic account numbers. PayPal makes it possible to trigger online payments to third parties or to receive payments. PayPal also accepts trustee functions and offers buyer protection services.
+
+The European operating company of PayPal is PayPal (Europe) S.à.r.l. & Cie. S.C.A., 22-24 Boulevard Royal, 2449 Luxembourg, Luxembourg.
+
+If the data subject chooses "PayPal" as the payment option in the online shop during the ordering process, we automatically transmit the data of the data subject to PayPal. By selecting this payment option, the data subject agrees to the transfer of personal data required for payment processing.
+
+The personal data transmitted to PayPal is usually first name, last name, address, email address, IP address, telephone number, mobile phone number, or other data necessary for payment processing. The processing of the purchase contract also requires such personal data, which are in connection with the respective order.
+
+The transmission of the data is aimed at payment processing and fraud prevention. The controller will transfer personal data to PayPal, in particular, if a legitimate interest in the transmission is given. The personal data exchanged between PayPal and the controller for the processing of the data will be transmitted by PayPal to economic credit agencies. This transmission is intended for identity and creditworthiness checks.
+
+PayPal will, if necessary, pass on personal data to affiliates and service providers or subcontractors to the extent that this is necessary to fulfill contractual obligations or for data to be processed in the order.
+
+The data subject has the possibility to revoke consent for the handling of personal data at any time from PayPal. A revocation shall not have any effect on personal data which must be processed, used or transmitted in accordance with (contractual) payment processing.
+
+The applicable data protection provisions of PayPal may be retrieved under https://www.paypal.com/us/webapps/mpp/ua/privacy-full.
+
+21. Data transmission of Repetier-Host
+Repetier-Host only connects to the web servers of Hot-World GmbH & Co. KG to check for updates or to download advertising contents. If the data subject uses a customized host version of a third party, the host may connect to a web server of a third party to check for updates. In the program are some links to web pages which can be opened in the standard browser by clicking on them.
+
+Repetier-Host can communicate with Repetier-Server instances, that may run on other computers, if they were explicitly connected. Repetier-Host can send and / or receive data to / from Repetier-Server like g-codes, models, images, printer information, information about all stored models, … to control 3d printers and manage stored data.
+
+Repetier-Host can send 3d status messages to the Repetier-Informer app, if the connection was explicitly configured.
+
+22. Data transmission of Repetier-Server
+Repetier-Server only connects to the web servers of Hot-World GmbH & Co. KG to check for updates and to validate an entered license key. If the data subject uses a customized Repetier-Server version of a third party, the server may connect to a web server of a third party to check for updates. In the program are some links to web pages which can be opened in the standard browser by clicking on them.
+
+Repetier-Server can communicate with Repetier-Host instances, that may run on other computers, if they were explicitly connected. Repetier-Server can send and / or receive data to / from Repetier-Host like g-codes, models, images, printer information, information about all stored models, … to control 3d printers and manage stored data.
+
+Repetier-Server can send 3d status messages to the Repetier-Informer app, if the connection was explicitly configured.
+
+Repetier-Server works like a web server and can be accessed by any recent web browser. Depending on the user’s network configuration, this can be internal only or globally. For this reason we highly recommend to enable user authentication in Repetier-Server.
+
+The data subject can connect Repetier-Server to the Repetier cloud services to get full access to connected Repetier-Server instances from everywhere to authorized users via https://my.repetier.com. To allow this functionality, the Repetier cloud services need to store additional data and also may cache server states, images and process data sent from the Repetier-Server.
+
+23. Legal basis for the processing
+Art. 6(1) lit. a GDPR serves as the legal basis for processing operations for which we obtain consent for a specific processing purpose. If the processing of personal data is necessary for the performance of a contract to which the data subject is party, as is the case, for example, when processing operations are necessary for the supply of goods or to provide any other service, the processing is based on Article 6(1) lit. b GDPR. The same applies to such processing operations which are necessary for carrying out pre-contractual measures, for example in the case of inquiries concerning our products or services. Is our company subject to a legal obligation by which processing of personal data is required, such as for the fulfillment of tax obligations, the processing is based on Art. 6(1) lit. c GDPR. In rare cases, the processing of personal data may be necessary to protect the vital interests of the data subject or of another natural person. This would be the case, for example, if a visitor were injured in our company and his name, age, health insurance data or other vital information would have to be passed on to a doctor, hospital or other third party. Then the processing would be based on Art. 6(1) lit. d GDPR. Finally, processing operations could be based on Article 6(1) lit. f GDPR. This legal basis is used for processing operations which are not covered by any of the abovementioned legal grounds, if processing is necessary for the purposes of the legitimate interests pursued by our company or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data. Such processing operations are particularly permissible because they have been specifically mentioned by the European legislator. He considered that a legitimate interest could be assumed if the data subject is a client of the controller (Recital 47 Sentence 2 GDPR).
+
+24. The legitimate interests pursued by the controller or by a third party
+Where the processing of personal data is based on Article 6(1) lit. f GDPR our legitimate interest is to carry out our business in favor of the well-being of all our employees and the shareholders.
+
+25. Period for which the personal data will be stored
+The criteria used to determine the period of storage of personal data is the respective statutory retention period. After expiration of that period, the corresponding data is routinely deleted, as long as it is no longer necessary for the fulfillment of the contract or the initiation of a contract.
+
+26. Provision of personal data as statutory or contractual requirement; Requirement necessary to enter into a contract; Obligation of the data subject to provide the personal data; possible consequences of failure to provide such data
+We clarify that the provision of personal data is partly required by law (e.g. tax regulations) or can also result from contractual provisions (e.g. information on the contractual partner). Sometimes it may be necessary to conclude a contract that the data subject provides us with personal data, which must subsequently be processed by us. The data subject is, for example, obliged to provide us with personal data when our company signs a contract with him or her. The non-provision of the personal data would have the consequence that the contract with the data subject could not be concluded. Before personal data is provided by the data subject, the data subject must contact our Data Protection Officer. Our Data Protection Officer clarifies to the data subject whether the provision of the personal data is required by law or contract or is necessary for the conclusion of the contract, whether there is an obligation to provide the personal data and the consequences of non-provision of the personal data.
+
+27. Existence of automated decision-making
+As a responsible company, we do not use automatic decision-making or profiling.
+
+This Privacy Policy has been generated by the Privacy Policy Generator of the External Data Protection Officer (https://dg-datenschutz.de/services/external-data-protection-officer/?lang=en) from DGD Deutsche Gesellschaft für Datenschutz GmbH, which has been developed in cooperation with WILDE BEUGER SOLMECKE | Lawyers (https://www.wbs-law.de/) and the used hardware dealer RC GmbH (http://remarketing.company/). The generated privacy policy has been changed and extended by Hot-World GmbH & Co. KG.
+
+Zde je nemodifikovaný překlad překladatelem Google:
+
+Jsme velice potěšeni, že jste projevili zájem o náš podnik. Ochrana dat je mimořádně vysoká priorita pro řízení Schengenského informačního systému Hot-World GmbH & Co. KG, Využívání Repetier software ( Repetier-Host, Repetier-Server, Repetier-Informer) a Repetier webové stránky (https://www.repetier.com, http://www.repetier-server.com, https://my.repetier.com, https://forum.repetier.com, http://www.repetier-apps.com, ...) spravovaný Hot-World GmbH & Co. KGJsou možné bez uvedení osobních údajů; Nicméně, v případě, že subjekt údajů chce využít speciální služby podniku prostřednictvím našeho software, aplikace nebo webové stránky, zpracování osobních údajů by mohlo být nezbytné. Je-li to nezbytné pro zpracování osobních údajů, a neexistuje žádný zákonný základ pro toto zpracování, jsme se obecně získat souhlas subjektu údajů.
+
+Zpracování osobních údajů, jako je jméno, adresa, e-mailová adresa, ID zařízení nebo telefonní číslo subjektu údajů musí být vždy v souladu s nařízením o obecné ochraně údajů (GDPR), a v souladu s touto zemí specifické předpisy na ochranu údajů použitelná na Hot-World GmbH & Co. KG, Prostřednictvím tohoto prohlášení o ochraně dat, náš podnik by chtěl informovat širokou veřejnost o povaze, rozsahu a účelu osobních údajů, které shromažďujeme, použití a procesu. Kromě toho subjekty údajů jsou informovány prostřednictvím tohoto prohlášení o ochraně dat, o právech, na něž mají nárok.
+
+Jako regulátor se Hot-World GmbH & Co. KG zavedla četné technické a organizační opatření k zajištění co nejúplnější ochranu osobních údajů zpracovávaných při Repetier software, aplikace a webové stránky, které jsou uloženy na vyhrazených internetových serverů provozovaných Hot-World GmbH & Co. KG, Nicméně, datové přenosy založené na Internetu může mít v zásadě bezpečnostní mezery, takže nelze zaručit absolutní ochranu.
+
+1. Definice
+Prohlášení o ochraně údajů z Hot-World GmbH & Co. KGje na základě pojmů, které používají evropský zákonodárce k přijetí obecného nařízení o ochraně údajů (GDPR). Naše prohlášení o ochraně údajů by mělo být čitelné a srozumitelné pro širokou veřejnost, stejně jako našich zákazníků a obchodních partnerů. Aby bylo zajištěno, to bychom chtěli nejprve vysvětlit terminologii užívanou.
+
+V tomto prohlášení o ochraně osobních údajů, používáme mimo jiné následující termíny:
+
+a) osobních údajů
+Osobními údaji rozumí veškeré informace týkající se identifikované nebo identifikovatelné fyzické osobě ( „subjekt údajů“). Identifikovatelnou fyzickou osobou je ten, kdo může být identifikována, přímo či nepřímo, zejména s odkazem na identifikátoru, jako je například jméno, identifikační číslo, lokalizační údaje, on-line identifikátor nebo na jeden či více zvláštních prvků fyzické, fyziologické, genetické, psychické, ekonomické, kulturní nebo sociální identity této fyzické osoby.
+
+b) Údaje
+Údaje je jakákoliv identifikované nebo identifikovatelné fyzické osoby, jejichž osobní údaje jsou zpracovávány řídicí jednotkou odpovědnou za zpracování.
+
+c) Zpracování
+Zpracování je jakýkoliv úkon nebo soubor operací, které jsou prováděny s osobními údaji nebo na sady osobních údajů, též pomocí automatizovaných postupů, jako je shromažďování, zaznamenávání, uspořádávání, strukturování, uchovávání, přizpůsobování nebo pozměňování, vyhledávání, konzultace, použití, sdělení prostřednictvím přenosu, šíření nebo jakékoli jiné zpřístupnění, srovnání či kombinování, omezení, výmaz nebo zničení.
+
+d) omezení zpracování
+Omezení zpracování je značení uložených osobních údajů za účelem omezení jejich zpracování v budoucnu.
+
+e) Profilování
+Profilování jakákoli forma automatizovaného zpracování osobních údajů sestávajících z nakládání s osobními údaji k vyhodnocení určitých osobních aspektů souvisejících s fyzickou osobou, zejména pro analýzu nebo předpovědět aspekty týkající že výkon fyzické osoby při práci, ekonomické situace, zdraví, osobních preferencí zájmy, spolehlivost, chování, umístění nebo hnutí.
+
+f) Pseudonymizaci
+Pseudonymizaci je zpracování osobních údajů v takovým způsobem, že osobní údaje již nemohou být přiřazeny ke konkrétnímu subjektu údajů bez použití dodatečných informací, za předpokladu, že takové dodatečné informace jsou uchovávány odděleně a je předmětem technických a organizačních opatření k zajištění že osobní údaje nejsou určité identifikované nebo identifikovatelné fyzické osobě.
+
+g) Regulátor nebo ovladač odpovědný za zpracování
+Regulátor nebo ovladač je odpovědný za vyřízení je fyzická nebo právnická osoba, orgán veřejné moci, agentura nebo jiný subjekt, který sám nebo společně s jinými určuje účel a prostředky zpracování osobních údajů; jsou-li účel a prostředky tohoto zpracování jsou určeny Unie nebo právem členského státu, může být za předpokladu, že správce nebo specifická kritéria pro jeho jmenování podle právních předpisů Unie nebo členského státu.
+
+h) Procesor
+Procesor je fyzická nebo právnická osoba, orgán veřejné moci, agentura nebo jiný subjekt, který zpracovává osobní údaje jménem správce.
+
+i) Příjemce
+Příjemce je fyzická nebo právnická osoba, orgán veřejné moci, agentura nebo jiný subjekt, kterému jsou osobní údaje sdělovány, ať se třetí stranou, nebo ne. Nicméně, veřejné správy, které může získat osobní údaje v rámci zvláštního šetření, v souladu s právem Unie nebo právem členského státu nesmějí být považovány za příjemce; zpracování těchto údajů ze strany orgánů veřejné správy musí být v souladu s platnými právními předpisy na ochranu osobních údajů v závislosti na účelu zpracování.
+
+j) třetí strany
+Třetí stranou je fyzická nebo právnická osoba, orgán veřejné moci, agentura nebo jakýkoli subjekt jiný než subjekt údajů, řadiče procesoru a osoby, které jsou pod přímým dohledem správce nebo zpracovatele, jsou oprávněny ke zpracování osobních údajů.
+
+k) Souhlas
+Souhlas subjektu údajů je jakýkoli svobodný, výslovný, informovaný a jednoznačný projevem vůle subjektu údajů, kterou on nebo ona, prohlášením nebo jasným afirmativní akce, znamená souhlas se zpracováním osobních údajů vztahujících se k němu nebo jí ,
+
+2. Jméno a adresa regulátoru
+Regulátor pro účely obecného nařízení o ochraně údajů (GDPR), dalšími zákony na ochranu osobních údajů platnými v členských státech Evropské unie a dalších předpisů týkajících se ochrany osobních údajů je:
+
+Hot-World GmbH & Co. KG
+
+Knickelsdorf 42
+
+47877 Willich
+
+Německo
+
+Telefon: +49 (0) 2154 - 60 65 18
+
+E-mailem: info@repetier.com
+
+Webové stránky: https://www.repetier.com, http://www.repetier-server.com, https://my.repetier.com, https://forum.repetier.com, http://www.repetier-apps.com, ...
+
+3. Jméno a adresa inspektora ochrany údajů
+Inspektor ochrany údajů regulátoru je:
+
+Marcus Littwin
+Hot-World GmbH & Co. KG
+
+Knickelsdorf 42
+
+47877 Willich
+
+Německo
+
+Telefon: +49 (0) 2154 - 60 65 18
+
+E-mailem: info@repetier.com
+
+Webové stránky: https://www.repetier.com, http://www.repetier-server.com, https://my.repetier.com, https://forum.repetier.com, http://www.repetier-apps.com...
+
+Jakýkoliv subjekt údajů může kdykoli kontaktovat inspektora ochrany údajů přímo se všemi dotazy a připomínky týkající se ochrany osobních údajů.
+
+4. Cookies
+Internetové stránky Poslanecké Hot-World GmbH & Co. KGPoužíváme cookies. Cookies jsou textové soubory, které jsou uloženy v počítačovém systému prostřednictvím internetového prohlížeče.
+
+Mnoho internetových stránek a servery používají cookies. Mnoho sušenky obsahují takzvané cookies ID. Cookie ID je jedinečný identifikátor souboru cookie. Skládá se z řetězce znaků, jehož prostřednictvím internetových stránek a serverů lze přiřadit konkrétní internetového prohlížeče, ve kterém byla uložena cookie. To umožňuje navštívené internetové stránky a servery odlišit jednotlivé prohlížeče ze DAT podléhajících od ostatních internetových prohlížečů, které obsahují jiné soubory cookie. Specifický internetový prohlížeč lze rozpoznat a identifikovat pomocí jedinečné ID souboru cookie.
+
+Díky využití cookies, na Hot-World GmbH & Co. KG může poskytnout uživatelům těchto internetových stránek s více uživatelsky přívětivé služby, které by nebylo možné bez nastavení cookie.
+
+Prostřednictvím cookie, informace a nabídky na našich webových stránkách může být optimalizován s ohledem na potřeby uživatelů. Cookies nám umožňují, jak již bylo zmíněno, aby uznaly našich uživatelů webových stránek. Účelem tohoto uznání je usnadnit uživatelům využít naše webové stránky. Uživatel webové stránky, která používá cookies, například nemusí zadávat přístup k datům pokaždé, když se webová stránka je přístupná, protože je převzata stránkách, a cookie je tak uložen na počítačovém systému uživatele. Dalším příkladem je cookie z nákupního košíku v internetovém obchodě. V internetovém obchodě si pamatuje články, které zákazník vložil do virtuálního nákupního košíku pomocí cookie.
+
+Subjekt údajů může kdykoli zabránit nastavení cookies prostřednictvím našich internetových stránek pomocí příslušného nastavení internetového prohlížeče používané, a může tak trvale popírají nastavení cookies. Kromě toho již nastavené soubory cookie mohou být smazány kdykoli prostřednictvím internetového prohlížeče nebo jiných softwarových programů. To je možné ve všech populárních internetových prohlížečů. V případě, že subjekt údajů deaktivuje nastavení cookies v internetovém prohlížeči použité, ne všechny funkce našich webových stránek může být zcela použitelné.
+
+5. Sběr obecných údajů a informací
+Webové stránky a Repetier API (Application Programming Interface) z Hot-World GmbH & Co. KGsbírá řadu obecných údajů a informací, pokud subjekt údajů nebo automatizovaný systém vyvolá webové stránky nebo API. Toto obecné údaje a informace jsou uloženy v souborech protokolu serveru. Shromažďovány mohou být (1) použité typy prohlížečů a verzí, (2) operační systém používaný zpřístupnění obsahu systému (3), na webových stránkách, na základě kterého přistupuje systém dosahuje naše webové stránky (tzv referrerů), (4) sub -websites, (5), datum a čas přístupu na internetové stránky (6), adresa internetového protokolu An (IP adresa), (7), poskytovatele internetových služeb o zpřístupnění obsahu systému, a (8) jakýmikoli jinými podobnými údaji a informace, které mohou být použity v případě útoků na našich informačních systémů.
+
+Při použití těchto obecných údajů a informací, Hot-World GmbH & Co. KGnevyvozuje žádné závěry o subjektu údajů. Poněkud, tyto informace je potřeba (1) poskytují obsah našich webových stránek správně, (2) optimalizovat obsah našich webových stránek, stejně jako jeho reklamu, (3) zajistí dlouhodobou životaschopnost našich systémů informačních technologií a tvorby webových stránek a (4) poskytují příslušné úřady informace nezbytné k trestnímu stíhání v případě kybernetického útoku. Proto je Hot-World GmbH & Co. KGAnalýza anonymně shromažďovány údaje a informace statisticky, s cílem zvýšení ochrany a bezpečnosti údajů našeho podnikání, a zajistit optimální úroveň ochrany osobních údajů, které zpracovávají. Anonymní údaje o souborech protokolu serveru jsou uloženy odděleně od všech osobních údajů, které poskytl subjektu údajů.
+
+6. Registrace na našich webových stránkách
+Subjekt údajů má možnost se zaregistrovat na internetových stránkách regulátoru s uvedením osobních údajů. Jaké osobní údaje jsou přenášeny do řídicí jednotky je dána příslušnou vstupní masku použitou při registraci. Osobní údaje zadané subjektu údajů jsou shromažďovány a ukládány výhradně pro vnitřní potřebu správce, a pro své vlastní účely. Řídicí jednotka může požádat o převod na jeden nebo více procesorů (např push zprávu služby Apple nebo Google), která rovněž používá osobní údaje pro interní účely, které lze přičíst k řadiči. Regulátor bude vysílat příkaz k automatickému potvrzovací e-mail pro kontrolu double opt-in řízení ohledně toho, zda majitel zadanou e-mailovou adresu rozhodl ve prospěch této možnosti.
+
+Registrací na internetových stránkách regulátoru, IP adresa, přidělené poskytovatelem internetových služeb (ISP) a používá datové předmětu datum a čas zápisu jsou také uloženy. Uchovávání těchto dat probíhá na pozadí, že toto je jediný způsob, jak zabránit zneužití našich služeb, a je-li to nezbytné, aby bylo možné zkoumat dopustili trestných činů. Do té míry, ukládání těchto údajů je nezbytné k zajištění regulátoru. Tyto údaje nejsou předávány třetím stranám, pokud existuje zákonná povinnost předávat data, nebo v případě, že přenos slouží cíl trestního stíhání.
+
+Registrace subjektu údajů, s dobrovolným uvedením osobních údajů, je určen k tomu, aby regulátor nabídnout obsah nebo služby subjektu údajů, které mohou být nabízeny pouze pro registrované uživatele vzhledem k povaze této záležitosti. Registrovaní osoby mají možnost změnit osobní údaje zadané při registraci kdykoliv, nebo nechat zcela odstraněny z datového skladu regulátoru.
+
+Správce je povinen kdykoli poskytnout informace na požádání každému subjektu údajů o tom, co jsou osobní data ukládána o subjektu údajů. Kromě toho musí správce údajů opravit nebo vymazat osobní údaje na žádost nebo označení subjektu údajů, pokud nejsou k dispozici žádné zákonné povinnosti skladování. Inspektora ochrany údajů zvláště určené v tomto prohlášení o ochraně osobních údajů, jakož i úplnosti zaměstnanců správce, jsou k dispozici subjektu údajů v tomto ohledu jako kontaktní osoby.
+
+7. Kontaktní možnost prostřednictvím internetových stránek
+Na webových stránkách Hot-World GmbH & Co. KGObsahuje informace, které umožňují rychlý elektronický kontakt pro našeho podnikání, stejně jako přímou komunikaci s námi, který zahrnuje také obecnou adresu takzvané elektronické pošty (e-mailová adresa). V případě, že údaje, na něž se dotýká regulátor e-mailem nebo prostřednictvím kontaktního formuláře jsou osobní údaje předávané subjektu údajů, jsou automaticky ukládány. Tyto osobní údaje, vysílané na dobrovolně subjektu údajů na zpracování údajů jsou uloženy za účelem zpracování nebo kontaktování subjektu údajů. Nedochází k převodu těchto osobních údajů třetím osobám.
+
+8. Poznámky funkce ve fóru na webových stránkách
+Hot-World GmbH & Co. KGnabízí uživatelům možnost opustit jednotlivé komentáře k jednotlivým příspěvkům fórum na fórum, které je na internetových stránkách regulátoru. Fórum je webový, veřejně přístupný portál, jehož prostřednictvím může jeden nebo více lidí psát články nebo zapisovat myšlenky v takzvaných fóra příspěvků. Příspěvky do diskusní skupiny mohou být obvykle komentoval třetími stranami.
+
+Je-li subjekt údajů zanechá komentář na fóru zveřejněné na těchto webových stránkách, připomínky ze strany subjektu údajů jsou také uloženy a zveřejněny, stejně jako informaci o datu komentáře a na uživatele (pseudonymem) zvoleného subjektu údajů , Kromě toho je také zaznamenána IP adresu přidělenou poskytovatelem internetových služeb (ISP) k subjektu údajů. Toto úložiště IP adresy probíhá z bezpečnostních důvodů, a v případě, že subjekt údajů porušuje práva třetích stran, nebo příspěvky nedovoleného obsahu prostřednictvím daného komentáře. Uchovávání těchto osobních údajů je tedy ve vlastním zájmu správce údajů, aby mohl omluvit v případě protiprávního jednání. To shromažďují osobní údaje nebudou předány třetím stranám,
+
+9. Subscription na připomínky ve fóru na webových stránkách
+K připomínkám vzneseným ve foru z Hot-World GmbH & Co. KGmohou být upsány pro třetí strany. Zejména je zde možnost, že komentátor hlásí k připomínky po jeho komentáře na konkrétní fórum post.
+
+Možnost přihlásit se k připomínkám může být ukončena kdykoli.
+
+10. Rutinní výmaz nebo blokování osobních údajů
+Správce je povinen zpracovávat a uchovávat osobní údaje subjektu údajů pouze po dobu nezbytnou k dosažení účelu uskladnění, nebo pokud to je poskytována evropským zákonodárcem nebo jiným zákonodárců v právních a správních předpisů, jimž správce podléhá na.
+
+Je-li účelem skladování není vhodné, nebo pokud uplyne doba skladování předepsané evropským zákonodárcem nebo jiným příslušným zákonodárcem, osobní údaje jsou stále blokovány nebo vymazány v souladu se zákonnými požadavky.
+
+11. Práva subjektu údajů
+a) Právo na potvrzení
+Každý subjekt údajů má právo udělené evropským zákonodárcem získat od správce potvrzení, zda osobní údaje, či nikoliv se ho týkají, nebo jí jsou zpracovávány. Je-li subjekt údajů přeje využít tohoto práva potvrzení, on nebo ona může kdykoli kontaktovat náš inspektora ochrany údajů nebo jiného zaměstnance regulátoru.
+
+b) Právo na přístup
+Každý subjekt údajů má právo udělené evropským zákonodárcem získat z informací řídícího volného o svých osobních údajů uložených kdykoliv a kopii těchto informací. Kromě toho, že evropské směrnice a nařízení umožnit přístup subjektu údajů k následujícím informacím:
+
+Pro účely zpracování;
+kategorií příslušných osobních údajů;
+příjemci nebo kategorie příjemců, kterým jsou osobní údaje byly nebo budou zpřístupněny, zejména příjemcům ve třetích zemí nebo mezinárodních organizací;
+kde je to možné, předpokládaná doba, po kterou jsou osobní údaje budou uloženy, nebo, pokud to není možné, že kritéria používaná pro určení tohoto období;
+existence práva požadovat od opravu regulátoru nebo výmaz osobních údajů, nebo omezení zpracování osobních údajů týkajících se subjektu údajů nebo vznést námitku proti takové zpracování;
+Existence právu podat stížnost orgánu dohledu;
+kde jsou osobní údaje nejsou shromažďovány od subjektu údajů, veškeré dostupné informace o původu údajů;
+existence automatizovaného rozhodování, včetně profilování, uvedeným v článku 22 (1) a (4) z GDPR a přinejmenším v těch případech, smysluplné informace o logice zapojeni, stejně jako význam a předpokládané následky toto zpracování pro subjekt údajů.
+Navíc má subjekt údajů má právo získat informace o tom, zda jsou osobní údaje předávány do třetí země nebo mezinárodní organizace. Kde je to váš případ, že subjekt údajů má právo být informován o vhodných ochranných opatření týkající se převodu.
+
+V případě, že subjekt údajů si přeje využít tohoto práva na přístup, on nebo ona může kdykoli kontaktovat náš inspektora ochrany údajů nebo jiného zaměstnance regulátoru.
+
+c) Právo na opravu
+Každý subjekt údajů má právo udělené evropským zákonodárcem se získat od správce bez zbytečného odkladu opravu nepřesných osobních údajů, které se ho týkají. Vezmeme-li v úvahu účely zpracování, subjekt údajů má právo na to, aby dokončil neúplné osobní údaje, a to i prostřednictvím poskytnutí dodatečné prohlášení.
+
+Je-li subjekt údajů přeje vykonávat toto právo na opravu, on nebo ona může kdykoli kontaktovat náš inspektora ochrany údajů nebo jiného zaměstnance regulátoru.
+
+d) Právo na výmaz (Právo být zapomenut)
+Každý subjekt údajů má právo udělené evropským zákonodárcem se získat od správce výmaz osobních údajů, které se ho týkají bez zbytečného odkladu, a řídící musí mít povinnost vymazat osobní údaje bez zbytečného odkladu, kde jeden z následujících důvodů týká se to tak dlouho, dokud zpracování není nutné:
+
+Tyto osobní údaje jsou již není nutné ve vztahu k účelům, pro které byly shromážděny nebo jinak zpracovány.
+Subjekt údajů stahuje souhlas, ke které je zpracování založeno podle bodu (a) článku 6 (1) v GDPR nebo bod (A) článku 9 (2) v GDPR, a tam, kde neexistuje žádná jiná právní důvod pro zpracování.
+Subjekt údajů má námitky proti zpracování v souladu s článkem 21 (1) v GDPR a neexistují žádné naléhavé oprávněné důvody pro zpracování, nebo údaje, které jsou předmětem objekty na zpracování podle článku 21 (2) z GDPR.
+Tyto osobní údaje byly zpracovány protiprávně.
+Osobní údaje musí být vymazány po splnění právní povinnosti v právu Unie nebo členského státu, ke kterému správce podléhá.
+Osobní údaje byly shromážděny v souvislosti s nabídkou služeb informační společnosti uvedené v článku 8 (1) na GDPR.
+Pokud je jedna z výše uvedených důvodů týká, a subjekt údajů chce požádat o vymazání osobních údajů uložených v paměti Hot-World GmbH & Co. KG, On nebo ona může kdykoli kontaktovat náš inspektora ochrany údajů nebo jiného zaměstnance regulátoru. Inspektor ochrany údajů z Hot-World GmbH & Co. KG nebo jiný zaměstnanec neprodleně zajistí, že žádost o výmaz je splněna okamžitě.
+
+V případě, že regulátor udělal dat veřejnosti osobní a je povinen v souladu s článkem 17 (1) K vymazání osobních údajů, než správce, s přihlédnutím k dostupné technologii a nákladům na provádění, přijme přiměřená opatření, včetně technických opatření, aby ostatní informovat řadiče, které zpracovávají osobní údaje, které subjekt údajů požadoval vymazání těmito regulátory jakýchkoliv vazeb, nebo kopírovat nebo replikace, těch osobních údajů, pokud není požadováno zpracování. Inspektor ochrany údajů z Hot-World GmbH & Co. KG nebo jiný zaměstnanec zařídí potřebná opatření v jednotlivých případech.
+
+e) Právo na omezení zpracování
+Každý subjekt údajů má právo udělené evropským zákonodárcem získat z omezení řadiče zpracování, kde platí jedna z následujících:
+
+Přesnost osobních údajů zpochybňuje subjektu údajů, na dobu potřebnou, aby správce ověřil správnost osobních údajů.
+Zpracování je nedovolené a subjekt údajů odmítá vymazání osobních údajů a žádostí namísto omezení jejich použití místo.
+Regulátor již nepotřebuje osobní údaje pro účely zpracování, ale musí subjekt údajů pro zjištění, výkon nebo obranu právních nároků před soudem.
+Subjekt údajů má námitky proti zpracování v souladu s článkem 21 (1) v GDPR čekající na ověření, zda jsou oprávněné důvody regulátoru potlačit ty subjektu údajů.
+Pokud je jedna z výše uvedených podmínek splněna, a subjekt údajů chce požádat o omezení zpracování osobních údajů uložených v paměti Hot-World GmbH & Co. KG, On nebo ona může kdykoli kontaktovat náš inspektora ochrany údajů nebo jiného zaměstnance regulátoru. Inspektor ochrany údajů z Hot-World GmbH & Co. KG nebo jiný pracovník zajistí omezení zpracování.
+
+f) Právo na přenositelnost údajů
+Každý subjekt údajů má právo udělený evropský zákonodárce, aby příjem osobních údajů se ho týkají, která byla poskytnuta na řadič, ve strukturované, běžně používaných a strojově čitelném formátu. On nebo ona bude mít právo předávat tyto údaje do jiného řadiče bez překážek z regulátoru, ke kterému byly poskytnuty osobní údaje, pokud je zpracování založeno na souhlasu podle bodu (a) článku 6 (1) ze dne GDPR nebo bod (a) článku 9 (2) v GDPR, nebo na smlouvy podle bodu (b) článku 6 (1) o GDPR, a zpracování se provádí za použití automatizovaných prostředků, pokud zpracování není nezbytné pro splnění úkolu prováděného ve veřejném zájmu nebo při výkonu veřejné moci, kterým je pověřen správce.
+
+Kromě toho při výkonu svého práva na přenositelnost údajů podle článku 20 (1) v GDPR subjekt údajů má právo na to, aby osobní údaje předané přímo z jednoho regulátoru do druhého, pokud je to technicky proveditelné a při tom není nepříznivě práv a svobod druhých.
+
+Aby bylo možné uplatnit právo na přenositelnost údajů, subjekt údajů může kdykoli kontaktu inspektor ochrany údajů, které určí Hot-World GmbH & Co. KG nebo jiný zaměstnanec.
+
+g) Právo objektu
+Každý subjekt údajů má právo udělené evropského zákonodárce na námitku z důvodů týkajících se jeho konkrétní situaci, a to kdykoliv, ke zpracování osobních údajů, které se ho týkají, který je založen na bodu (E) nebo (F ) článku 6 (1) v GDPR. To platí i pro profilování na základě těchto ustanovení.
+
+Hot-World GmbH & Co. KG již nebude zpracovávat osobní údaje v případě námitky, pokud se nám nepodaří prokázat přesvědčivé legitimní důvody pro zpracování údajů, které přednost před zájmy, práva a svobody subjektu údajů, nebo pro zjištění, výkon nebo obranu právních nároků před soudem.
+
+V případě, že Hot-World GmbH & Co. KGzpracovává osobní údaje pro účely přímého marketingu, subjekt údajů má právo vznést kdykoli se zpracováním osobních údajů, které se ho týkají, nebo ji pro takový trh. To platí pro profilování do té míry, že je v souvislosti s takovým přímého marketingu. V případě, že subjekt údajů má námitky proti Hot-World GmbH & Co. KG se zpracováním pro účely přímého marketingu, Hot-World GmbH & Co. KG již nebude zpracovávat osobní údaje pro tyto účely.
+
+Kromě toho, že subjekt údajů má právo, z důvodů týkajících se jeho konkrétní situaci, vznést námitky proti zpracování osobních údajů, které se ho týkají, nebo ji za Hot-World GmbH & Co. KG pro vědecké účely nebo historických, nebo pro statistické účely ve smyslu článku 89 (1) v GDPR, pokud je zpracování nezbytné pro splnění úkolu prováděného z důvodů veřejného zájmu.
+
+Aby bylo možné uplatnit právo vznést námitky, může subjekt údajů přímo kontaktovat inspektora ochrany údajů z Hot-World GmbH & Co. KGnebo jiný zaměstnanec. Kromě toho, že subjekt údajů je zdarma v souvislosti s používáním služeb informační společnosti, a bez ohledu na směrnici 2002/58 / ES, použít svého práva vznést pomocí automatizovaných pomocí technických specifikací.
+
+h) Automatizované individuální rozhodování, včetně profilování
+Každý subjekt údajů má právo udělený evropský zákonodárce nemá být předmětem rozhodnutí výlučně na základě automatizovaného zpracování, včetně profilování, které právní účinky se ho týkají, nebo podobně podstatně ovlivňuje ho nebo ji, pokud rozhodnutí (1), není je nutné uzavírat, nebo výkon, smlouvy mezi subjektem údajů a správcem údajů, nebo (2) není povoleno unie nebo členského státu, ke kterému podléhá správce a který rovněž upřesňuje se vhodná opatření k ochraně práv a svobod subjektu údajů a oprávněných zájmů, nebo (3), se neopírá o výslovného souhlasu subjektu údajů.
+
+Je-li toto rozhodnutí (1) nezbytné pro uzavření nebo plnění, smlouva mezi subjektem údajů a správcem údajů, nebo (2) je založena na výslovného souhlasu subjektu údajů se Hot-World GmbH & Co. KG zavede vhodná opatření k ochraně práv a svobod subjektu údajů a oprávněných zájmů, alespoň právo na lidský zásah ze strany správce, vyjádřit svůj názor a zpochybnit rozhodnutí.
+
+V případě, že subjekt údajů si přeje vykonávat práva týkající se automatizovaná individuální rozhodování, on nebo ona může kdykoli přímo kontaktovat inspektora ochrany údajů z Hot-World GmbH & Co. KG nebo jiný zaměstnanec regulátoru.
+
+i) právo odvolat souhlas ochranu osobních údajů
+Každý subjekt údajů má právo udělené evropským zákonodárcem odvolat svůj souhlas se zpracováním svých osobních údajů kdykoli.
+
+f subjekt údajů přeje uplatnit právo odstoupit od smlouvy souhlas, on nebo ona může kdykoli přímo kontaktovat inspektora ochrany údajů z Hot-World GmbH & Co. KG nebo jiný zaměstnanec regulátoru.
+
+12. Ochrana dat pro aplikace a aplikačních postupů
+Správce je povinen shromažďovat a zpracovávat osobní údaje žadatele pro účely zpracování řízení aplikace. Zpracování se může provádět také v elektronické podobě. To je případ zejména pokud žadatel předloží odpovídající aplikační dokumenty e-mailem nebo prostřednictvím webového formuláře na webových stránkách k regulátoru. V případě, že správce údajů uzavírá pracovní smlouvu s žadatelem, budou předložené údaje uchovávány za účelem zpracování pracovní poměr v souladu se zákonnými požadavky. Není-li pracovní smlouva uzavřená s žalobcem ze strany správce, aplikační dokumenty se automaticky vymažou dva měsíce po oznámení rozhodnutí o odmítnutí, za předpokladu, že žádné jiné oprávněné zájmy správce jsou proti vymazání.
+
+13. Ustanovení o ochraně údajů o zavádění a používání Facebooku
+Na těchto webových stránkách, regulátor má integrované složky podniku na Facebooku. Facebook je sociální síť.
+
+Sociální síť je místem pro společenská setkání na internetu, online komunity, která obvykle umožňuje uživatelům komunikovat mezi sebou a pracovat ve virtuálním prostoru. Sociální síť může sloužit jako platforma pro výměnu názorů a zkušeností, nebo povolit internetové komunity poskytovat osobní nebo obchodní související informace. Facebook umožňuje uživatelům sociálních sítí, aby zahrnovala vytváření soukromých profilů, nahrát fotky a sítě prostřednictvím žádostí o kamaráda.
+
+Provozní společnost Facebook je Facebook, Inc., 1 Hacker Way, Menlo Park, CA 94025, Spojené státy americké. Je-li člověk žije mimo území Spojených států a Kanady, je regulátor na Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irsko.
+
+S každým vyvolání k jednomu z jednotlivých stránkách tohoto internetového portálu, který je provozován regulátorem a do kterého součást Facebooku (Facebook plug-ins) byl integrován, webový prohlížeč na informačních technologií systému subjektu údajů automaticky vyzváni ke stažení zobrazení odpovídající Facebook složky z Facebooku skrz součást Facebook. Přehled všech Facebooku zásuvných modulech mohou být přístupné v rámcihttps://developers.facebook.com/docs/plugins/, Během tohoto technologického postupu, Facebook byl vědom toho, co konkrétní sub-site našich webových stránek byla navštívena subjektu údajů.
+
+Je-li přihlášeni zároveň na Facebooku subjekt údajů, Facebook zjistí při každém vyvolání našich webových stránek ze strany subjektu údajů-a po celou dobu jejich pobytu na našich internetových stránkách-kterou konkrétní sub-stránky našeho Internetu stránka byla navštívilo subjektu údajů. Tyto informace jsou shromažďovány přes komponentu na Facebooku a spojený s příslušnou Facebook účet subjektu údajů. V případě, že subjekt údajů klikne na jedno z tlačítek Facebook integrován do našich webových stránkách, například „Like“ tlačítko, nebo v případě, že subjekt údajů podá poznámku, pak Facebook zápasy těchto informací s osobním Facebook účtu uživatele subjektu údajů a ukládá osobní data.
+
+Facebook vždy obdrží prostřednictvím komponentu Facebook, informace o návštěvě našich internetových stránek ze strany subjektu údajů, kdykoli je přihlášen subjekt údajů ve stejnou dobu na Facebooku v době volání v návaznosti na našich webových stránkách. K tomu dochází bez ohledu na to, zda subjekt údajů klikne na komponentu Facebooku či nikoliv. Pokud je takový přenos informací na Facebook není žádoucí, aby byl subjektu údajů, pak on nebo ona může zabránit odhlášením ze svého účtu na Facebooku před vyvoláním na našich webových stránkách je vyroben.
+
+Pokyny pro ochranu údajů zveřejněné společností Facebook, které jsou k dispozici na adrese https://facebook.com/about/privacy/, poskytují informace o sběru, zpracování a používání osobních údajů prostřednictvím Facebooku. Kromě toho je vysvětleno, jaké možnosti nastavení Facebook nabízí k ochraně soukromí subjektu údajů. Navíc jsou k dispozici různé možnosti konfigurace, které umožňují odstranění přenosu dat na Facebook. Tyto aplikace mohou subjekt údajů použít k odstranění přenosu dat na Facebook.
+
+14. Ustanovení o ochraně údajů o zavádění a používání Matomo
+Na těchto webových stránkách, regulátor má integrované komponenty Matomo. Matomo je open-source softwarový nástroj pro webové analýzy. Web analýza je shromažďování, sběr a vyhodnocení údajů o chování návštěvníků z internetových stránek. Webový nástroj pro analýzu sbírá, mimo jiné údaje o webové stránky, ze kterých subjekt údajů přišel na webové stránky (tzv odkazujícím serveru), které stránky webové stránky byly přístupné, nebo jak často a pro něž doba sub-stránky byl zobrazit. Web analýza se používá hlavně pro optimalizaci webových stránek a analýzy nákladů a přínosů internetové reklamy.
+
+Tento software je provozován na serveru řadič, log soubory na ochranu citlivých na data jsou uložena výhradně na tomto serveru.
+
+Účelem složky Matomo je analýza návštěvníka proudí na našich webových stránkách. Regulátor využívá získaná data a informace, mimo jiné hodnotit používání této webové stránky za účelem sestavení on-line zprávy, které ukazují činnost na našich internetových stránkách.
+
+Matomo nastavuje cookie o informačních technologií systému subjektu údajů. Definice sušenek je vysvětleno výše. S nastavením cookie, je povoleno analýzu využití našich webových stránek. S každým vyvolání k jednomu z jednotlivých stránkách tohoto webu, internetový prohlížeč na informačních technologií systému subjektu údajů je automaticky přes součást Matomo vyzváni k předložení údajů pro účely on-line analýzy na našem serveru. Během tohoto technologického postupu, získáme poznatky o osobní informace, jako je IP adresa subjektu údajů, které slouží k pochopení původu návštěvníků a kliknutí. Matomo používá pouze anonymní data IP. Matomo ukládá do databáze každý nový návštěvník IP adres (IPv4 nebo IPv6 formát) s posledními složky byly odstraněny na ochranu soukromí uživatelů.
+
+Cookie se používá k ukládání osobních informací, jako je například doba přístupu, umístění, ze kterého byl vyroben přístup, a četnost návštěv na našich webových stránkách. S každou návštěvou našich internetových stránek, tyto osobní údaje, včetně adresy IP přístup k Internetu používá subjektu údajů, jsou převedeny na náš server. Tyto osobní údaje budou uloženy u nás s IP anonymizaci. Nechceme předávat tyto osobní údaje třetím stranám.
+
+Subjekt údajů může být, jak již bylo uvedeno výše, zabrání nastavení cookies na našich webových stránkách kdykoli prostřednictvím odpovídající úpravě webového prohlížeče používaného a tím trvale popírají nastavení cookies. Taková úprava použitého internetového prohlížeče by také zabránit Matomo z nastavení cookies na informačních technologií systému subjektu údajů. Kromě toho, cookies již používán Matomo mohou být odstraněny kdykoliv prostřednictvím webového prohlížeče nebo jiné programy.
+
+Navíc má subjekt údajů možnost námitky vůči shromažďování údajů týkajících se používání této internetové stránce, které jsou generované Matomo, jakož i při zpracování těchto údajů Matomo a možnost nevylučuje jakýkoliv takový. Za tímto účelem musí být subjekt údajů nastavit opt-out cookie:
+
+
+Opt-out cookie, který je nastaven pro tento účel je kladen na informační technologie systému používaného subjektu údajů. Jsou-li soubory cookie vymazány o systému subjektu údajů, pak subjekt údajů musí volat-up spojení znovu a vytvořil nový opt-out cookie.
+
+S každým nastavením opt-out cookie, však existuje možnost, že na internetových stránkách regulátoru již nejsou plně použitelné u subjektu údajů.
+
+Další informace a příslušná ustanovení o ochraně údajů Matomo mohou být vyvolány v rámci https://matomo.org/privacy/,
+
+15. Ustanovení o ochraně údajů o zavádění a používání Twitteru
+Na těchto webových stránkách, regulátor má integrované komponenty Twitter. Twitter je vícejazyčný, veřejně přístupné mikroblogovací službu, na které mohou uživatelé zveřejňovat a šířit takzvané ‚tweety‘ například krátkých textových zpráv, které jsou omezeny na 140 znaků. Tyto krátké zprávy jsou k dispozici pro každého, včetně těch, kteří nejsou přihlášeni k Twitteru. Tweety jsou zobrazeny také na takzvané následovníky příslušného uživatele. Následovníci jsou ostatní uživatelé Twitteru, kteří následují tweety uživatele. Kromě toho, Twitter umožňuje oslovit široké publikum pomocí hashtag, odkazy a retweety.
+
+Provozní společnost Twitter je Twitter, Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, Spojené státy americké.
+
+S každým vyvolání k jednomu z jednotlivých stránek těchto internetových stránkách, který je provozován regulátorem a na kterém Twitter komponent (Tlačítko Twitter) byl začleněn, internetový prohlížeč na informačních technologií systému subjektu údajů je automaticky vyzván stáhnout ukázku odpovídající Twitteru složky Twitter. Další informace o tlačítkách Twitter je k dispozici v rámcihttps://about.twitter.com/de/resources/buttons, Během tohoto technologického postupu, Twitter získá znalosti o tom, co konkrétní podstránka z našich webových stránek byla navštívena subjektu údajů. Smyslem integrace Twitter složky je opakovaný přenos obsahu této webové stránky umožňují našim uživatelům, aby zavedly tuto webovou stránku v digitálním světě a zvýšit naši návštěvnost.
+
+Je-li přihlášeni zároveň na Twitteru subjekt údajů, Twitter zjišťuje při každém vyvolání našich webových stránek ze strany subjektu údajů a po celou dobu jejich pobytu na našich internetových stránkách, které konkrétní podstránka z naší internetové stránky bylo navštívil subjektu údajů. Tyto informace jsou shromažďovány přes Twitter komponenty a spojený s příslušnou Twitter účet subjektu údajů. V případě, že subjekt údajů klikne na jednu z Twitteru tlačítek integrovaných na našich webových stránkách, pak Twitter přiřadí tuto informaci k osobním Twitter uživatelský účet subjektu údajů a ukládá osobní údaje.
+
+Twitter přijímá informace prostřednictvím součásti Twitter, že subjekt údajů navštívili naše webové stránky, za předpokladu, že subjekt údajů je zaznamenána na Twitteru v době volání v návaznosti na našich webových stránkách. K tomu dochází bez ohledu na to, zda osoba klikne na Twitteru komponentu, nebo ne. Pokud je takový přenos informací na Twitter není žádoucí, aby byl subjektu údajů, pak on nebo ona může zabránit odhlášením ze svého účtu na Twitteru před vyvoláním na našich webových stránkách je vyroben.
+
+Příslušná ustanovení o ochraně údajů z Twitteru mohou být přístupné v rámci https://twitter.com/privacy?lang=en,
+
+16. Ustanovení o ochraně údajů o zavádění a používání YouTube
+Na těchto webových stránkách, regulátor má integrované komponenty YouTube. YouTube je internetový videoportál, který umožňuje vydavatelům videa nastavit videoklipy a dalším uživatelům bezplatně, který také poskytuje bezplatné sledování, hodnocení a komentování na ně. YouTube umožňuje publikovat všechny druhy videa, takže můžete přistupovat obě plné filmy a televizní vysílání, stejně jako hudební videa, upoutávky a videa ze strany uživatelů prostřednictvím internetového portálu.
+
+Provozní společnost YouTube je YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, Spojené státy americké. YouTube, LLC je dceřinou společností Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, Spojené státy americké.
+
+S každým vyvolání k jednomu z jednotlivých stránek těchto internetových stránkách, který je provozován regulátorem a na které je součást YouTube (YouTube video) byl začleněn, internetový prohlížeč na informačních technologií systému subjektu údajů je automaticky vyzván stáhnout ukázku odpovídající komponentu YouTube. Další informace o službě YouTube mohou být získány v rámci https://www.youtube.com/intl/en/yt/about/, Během tohoto technologického postupu, YouTube a Google získat znalosti o tom, co konkrétní podstránka z našich webových stránek byla navštívena subjektu údajů.
+
+Je-li přihlášeni na YouTube, že subjekt údajů, YouTube rozpozná při každém hovoru v návaznosti na dílčí stránky, která obsahuje video na YouTube, které konkrétní podstránka našich internetových stránkách navštívilo subjektu údajů. Tyto informace jsou shromažďovány prostřednictvím YouTube a Google a přiřadí k příslušnému účtu YouTube subjektu údajů.
+
+YouTube a Google obdrží informace prostřednictvím komponentu YouTube, které subjekt údajů navštívili naše webové stránky, je-li přihlášeni na YouTube, že subjekt údajů v době volání našich webových stránkách; V tomto případě bez ohledu na to, zda tato osoba klikne na video na YouTube, nebo ne. Pokud je takový přenos těchto informací na server YouTube a Google není žádoucí, aby byl subjektu údajů, může být dodávka zabránit v případě, že subjekt údajů odhlásí ze svého vlastního účtu YouTube před call-up na našich webových stránkách je vyroben.
+
+ustanovení o ochraně údajů YouTube, k dispozici na adrese https://www.google.com/intl/en/policies/privacy/, Poskytnout informace o shromažďování, zpracovávání a používání osobních údajů YouTube a Google.
+
+17. Ustanovení o ochraně údajů o použití a využití služby Google Cloud Messaging (CGM)
+V android Repetier-Informerapp, regulátor má integrované součásti Google. android Repetier-Informer Aplikace využívá služby Google Cloud Messaging (GCM) o poskytnutí informací do mobilních koncových zařízení, které pak mohou použít v Repetier-Informer aplikace.
+
+Provozní společnost Google je Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043 - 1351, Spojené státy americké.
+
+Při nastavování Repetier-Informeraplikace, existující skupina s odpovídajícími ID skupiny je součástí, nebo je vytvořena nová skupina. Zde se dostáváme od Google ID zařízení, ke kterému můžeme posílat zprávy push.
+
+S každou zprávu předáváme text zprávy a pokud je zadán odkaz přes GCM k určitému Google ID zařízení, takže Repetier-Informer app přijímá tato data.
+
+ustanovení o ochraně údajů společnosti Google, k dispozici na adrese https://www.google.com/intl/en/policies/privacy/, Poskytnout informace o shromažďování, zpracovávání a používání osobních údajů společnosti Google.
+
+18. Ustanovení o ochraně údajů o zavádění a používání Apple Push Notification Service (názvů přístupových bodů)
+V iOS Repetier-Informerapp, regulátor má integrované komponenty Apple. iOS Repetier-Informer Aplikace využívá Apple Push Notification Service (APN) k poskytování informací do mobilních koncových zařízení, které pak mohou použít v Repetier-Informer aplikace.
+
+Provozní společnost Apple je Apple, 1 Infinite Loop, Cupertino, CA 95014, Spojené státy americké.
+
+Při nastavování Repetier-Informeraplikace, existující skupina s odpovídajícími ID skupiny je součástí, nebo je vytvořena nová skupina. Zde jsme obdrželi od společnosti Apple ID zařízení, ke kterému můžeme posílat zprávy push.
+
+S každou zprávu předáváme text zprávy a pokud je zadán odkaz přes APN na konkrétní Apple ID zařízení, takže Repetier-Informer app přijímá tato data.
+
+ustanovení o ochraně údajů společnosti Apple, k dispozici na adrese https://www.apple.com/privacy/, Poskytnout informace o shromažďování, zpracovávání a používání osobních údajů společnosti Apple.
+
+19. Zastavení přijímání zpráv push z Repetier-Informer
+Jediným cílem programu Repetier-Informer aplikace je, že programy líbí Repetier-Server a Repetier-Host, A to jak od Hot-World GmbH & Co. KG, Posílat zprávy o stavu vašeho 3D tiskárna přes Push zprávy do svých chytrých telefonů a / nebo tablet.
+
+Pokud si nepřejete přijímat push zprávy ve smartphonu nebo tabletu, můžete odstranit přiřazené skupiny v nastavení aplikace, můžete odinstalovat nebo můžete deaktivovat Push zprávy Repetier-Host a / nebo Repetier-Server,
+
+20. Platební metoda: Ustanovení o ochraně údajů o použití PayPal jako platební procesor
+Na těchto webových stránkách, regulátor má integrované komponenty PayPal. PayPal je internetový poskytovatel platebních služeb. Platby jsou zpracovávány pomocí takzvaných PayPal účty, které představují virtuální privátní nebo firemních účtů. PayPal je rovněž schopen zpracovávat virtuálních plateb prostřednictvím platebních karet, pokud uživatel nemá účet PayPal. Účet PayPal je řízena prostřednictvím e-mailové adresy, což je důvod, proč tam jsou žádná čísla klasické účtů. PayPal umožňuje spustit on-line platby třetím stranám nebo přijímat platby. PayPal také přijímá důvěryhodného funkce a nabízí služby pro ochranu kupujících.
+
+Evropská provozní společnost PayPal je PayPal (Europe) S.à.rl & Cie. SCA, 22-24 Boulevard Royal, 2449 Lucemburk, Lucembursko.
+
+V případě, že subjekt údajů si zvolí „PayPal“, jako možnost platby v internetovém obchodě v průběhu objednávkového procesu, automaticky předávat údaje subjektu údajů na PayPal. Výběrem této platební možnost, že subjekt údajů souhlasí s předáváním osobních údajů potřebných pro zpracování platby.
+
+Osobní údaje předávané PayPal je obvykle křestní jméno, příjmení, adresa, e-mailová adresa, IP adresa, telefonní číslo, číslo mobilního telefonu, nebo jiné údaje nezbytné pro zpracování plateb. Zpracování kupní smlouvy také požaduje, aby takové osobní údaje, které jsou v souvislosti s příslušnou objednávku.
+
+Přenos dat je zaměřen na zpracování plateb a předcházení podvodům. Regulátor bude předávat osobní údaje na PayPal, a to zejména, je-li dán oprávněný zájem na převodovce. Předávané osobní údaje mezi PayPal a řadič pro zpracování dat budou přenášeny prostřednictvím PayPal ekonomické úvěrových agentur. Tato převodovka je určena pro totožnost i solventnost kontrol.
+
+PayPal bude-li to nutné, předat osobní údaje poboček a poskytovatelů služeb nebo subdodavatelů do té míry, že je-li to nezbytné ke splnění smluvních závazků nebo údaje byly zpracovány v pořadí.
+
+Subjekt údajů má možnost odvolat souhlas k nakládání s osobními údaji kdykoliv od PayPal. O zrušení nesmí mít žádný vliv na osobní údaje, které musí být zpracovány, používány nebo předávány v souladu s (smluvní) zpracování plateb.
+
+Příslušná ustanovení o ochraně údajů PayPal mohou být vyvolány v rámci https://www.paypal.com/us/webapps/mpp/ua/privacy-full,
+
+21. Přenos dat z Repetier-Host
+Repetier-Host připojuje pouze na webové servery Hot-World GmbH & Co. KGzkontrolovat dostupnost aktualizací nebo stažení reklamní obsah. V případě, že subjekt údajů využívá personalizovaného hostitele verze třetí strany, hostitel může připojit k webovému serveru třetí strany pro kontrolu aktualizací. V programu jsou uvedeny některé odkazy na webové stránky, které mohou být otevřeny do standardního webového prohlížeče kliknutím na ně.
+
+Repetier-Host může komunikovat s Repetier-Server případy, které se mohou spustit na jiných počítačích, pokud byly výslovně spojeny. Repetier-Host můžete posílat a / nebo přijímat data na / z Repetier-Server jako g-kódy, modely, obrazy, informace o tiskárně, informace o všech uložených modelů ... ovládat 3D tiskárny a správu uložených dat.
+
+Repetier-Host může poslat 3d stavové zprávy do Repetier-Informer app, pokud bylo spojení explicitně nakonfigurován.
+
+22. Přenos dat z Repetier-Server
+Repetier-Server připojuje pouze na webové servery Hot-World GmbH & Co. KGzkontrolovat dostupnost aktualizací a ověřit zadaný licenční klíč. V případě, že subjekt údajů využívá uživatelsky Repetier-Serververze třetí osobě, může server připojit k webovému serveru třetí strany pro kontrolu aktualizací. V programu jsou uvedeny některé odkazy na webové stránky, které mohou být otevřeny do standardního webového prohlížeče kliknutím na ně.
+
+Repetier-Server může komunikovat s Repetier-Host případy, které se mohou spustit na jiných počítačích, pokud byly výslovně spojeny. Repetier-Server můžete posílat a / nebo přijímat data na / z Repetier-Host jako g-kódy, modely, obrazy, informace o tiskárně, informace o všech uložených modelů ... ovládat 3D tiskárny a správu uložených dat.
+
+Repetier-Server může poslat 3d stavové zprávy do Repetier-Informer app, pokud bylo spojení explicitně nakonfigurován.
+
+Repetier-Serverfunguje jako webový server a lze přistupovat pomocí libovolného nedávné webovém prohlížeči. V závislosti na konfiguraci sítě uživatele, může to být jen vnitřní nebo globálně. Z tohoto důvodu doporučujeme povolit ověřování uživatelů v Repetier-Server,
+
+Subjekt údajů se může připojit Repetier-Server na Repetier služby cloud získat plný přístup k připojen Repetier-Server příklady z celého světa, aby oprávněným uživatelům prostřednictvím https://my.repetier.com, Chcete-li povolit tuto funkci je Repetier služby cloud nutné ukládat další data a také může vyrovnávací server stavy, obrázky a zpracovávat data odeslaná z Repetier-Server,
+
+23. Právní základ pro zpracování
+Umění. 6 (1) svítí GDPR slouží jako právní základ pro zpracování operací, pro které získáme souhlas s konkrétním zpracování účel. Je-li to nezbytné pro splnění smlouvy, kde je subjekt údajů jednou ze stran zpracování osobních údajů, jako je tomu například, jsou nezbytné pro dodání zboží nebo poskytnutí jakékoli jiné služby při zpracování operací, zpracování je založená na článku 6 (1) rozsvícený b GDPR. Totéž platí i pro taková zpracování, které jsou nezbytné pro provedení pre-smluvních opatření, jako například v případě dotazů týkajících se našich produktů nebo služeb. Je naše společnost podléhá právní povinnosti, kterou je vyžadováno zpracování osobních údajů, jako je plnění daňových povinností, zpracování je na základě článku. 6 (1) svítí c GDPR. Ve vzácných případech, že zpracování osobních údajů může být nezbytné pro ochranu životně důležitých zájmů subjektu údajů nebo jiné fyzické osoby. To by byl případ, například v případě, že návštěvník byl zraněn v naší společnosti a jeho jméno, věk, daty zdravotního pojištění nebo jiné důležité informace by měly být předány na lékaře, nemocnici nebo jinou třetí stranou. Pak zpracování by byl založen na čl. 6 (1) svítí d GDPR. A konečně, operace zpracování by mohl být založen na článku 6 (1) rozsvícený f GDPR. Tento právní základ se používá pro zpracování operací, které nejsou zahrnuty v žádné z výše uvedených právních důvodů, je-li to nezbytné pro účely oprávněných zájmů naší společností nebo třetí osobou pro zpracování, výjimkou případů, kdy nad těmito zájmy převáží zájmy nebo základní práva a svobody subjektu údajů, které vyžadují ochranu osobních údajů. Takové zpracování, která jsou obzvláště přípustné, protože byly konkrétně uvedeny evropským zákonodárcem. On za to, že oprávněný zájem lze předpokládat v případě, že subjekt údajů je klient ovladače (bod 47 věta 2 GDPR).
+
+24. oprávněných zájmů správce nebo třetí osobou
+Jestliže se zpracování osobních údajů na základě článku 6 (1) rozsvícený f GDPR náš oprávněný zájem je vykonávat svou činnost ve prospěch blaha všech našich zaměstnanců a akcionářů.
+
+25. Doba, po kterou bude osobní údaje uchovávat
+Kritéria pro stanovení doby uchovávání osobních údajů je příslušná zákonná doba uchování. Po uplynutí této doby se odpovídající data se běžně odstraněna, pokud to již není nutné pro plnění smlouvy nebo zahájení smlouvy.
+
+26. Poskytnutí osobních údajů je zákonné nebo smluvní povinnosti; Požadavek nutné uzavřít smlouvu; Povinnost subjektu údajů poskytnout osobní údaje; možné důsledky neposkytnutí těchto údajů
+Jsme objasnit, že poskytnutí osobních údajů je částečně souladu se zákonem (například daňové předpisy), nebo může být také výsledkem smluvních ujednání (například informace o smluvního partnera). Někdy může být nutné uzavřít smlouvu, která nám poskytuje subjekt údajů s osobními údaji, které musí být následně zpracovány námi. Subjekt údajů je například povinen nám poskytnout osobní údaje, kdy naše firma podepsala smlouvu s ním nebo s ní. Non-poskytnutí osobních údajů bude mít za následek, že smlouva se subjektu údajů nemohla být uzavřena. Předtím, než osobní údaje poskytuje subjekt údajů musí subjekt údajů kontaktovat inspektora ochrany údajů.
+
+27. Existence automatizovaného rozhodování
+Jako odpovědná společnost, nepoužíváme automatické rozhodování nebo profilování.
+
+Tyto zásady ochrany soukromí byl vytvořen generátorem Ochrana osobních údajů z External Data Protection Officer (https://dg-datenschutz.de/services/external-data-protection-officer/?lang=en) z DGD Deutsche Gesellschaft für Datenschutz GmbH, Který byl vyvinut ve spolupráci s WILDE BEUGER SOLMECKE | Lawyers (https://www.wbs-law.de/) a used hardware dealer RC GmbH (http://remarketing.company/). Vygenerovaný zásady ochrany osobních údajů byla změněna a prodloužena Hot-World GmbH & Co. KG.

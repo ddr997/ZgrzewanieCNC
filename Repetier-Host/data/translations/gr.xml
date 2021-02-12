@@ -1,0 +1,1918 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation revision="10" language="Ελληνικά" languageInEnglish="Greek" author="Σαραντίδης Γιώργος">
+<t id="M_FILE" ver="1">Αρχείο</t>
+<t id="M_CONFIG" ver="1">Διαμόρφωση</t>
+<t id="M_SLICER" ver="1">Τεμαχιστής</t>
+<t id="M_TEMPERATURE" ver="1">Θερμοκρασία</t>
+<t id="M_PRINTER" ver="1">Εκτυπωτής</t>
+<t id="M_HELP" ver="1">Βοήθεια</t>
+<t id="M_LOAD_GCODE" ver="1">Φόρτωση Κώδικα G</t>
+<t id="M_SHOW_WORKDIRECTORY" ver="1">Εμφάνιση Καταλόγου Εργασίας</t>
+<t id="M_LANGUAGE" ver="1">Γλώσσα</t>
+<t id="M_PRINTER_SETTINGS" ver="1">Ρυθμίσεις Εκτυπωτή</t>
+<t id="M_EEPROM_SETTINGS" ver="1">Διαμόρφωση Firmware EEPROM</t>
+<t id="M_3D_VIEWER_CONFIGURATION" ver="1">Ρυθμίσεις Απεικόνισης 3D</t>
+<t id="M_REPETIER_SETTINGS" ver="1">Γενικές Ρυθμίσεις Repetier</t>
+<t id="M_TESTCASE_SETTINGS" ver="1">Έλεγχος Παραμέτρων Τεμαχισμού Case</t>
+<t id="M_SOUND_CONFIGURATION" ver="1">Διαμόρφωση ήχου</t>
+<t id="M_SHOW_EXTRUDER_TEMPERATURES" ver="1">Εμφάνιση Θερμοκρασίας Extruder</t>
+<t id="M_SHOW_HEATED_BED_TEMPERATURES" ver="1">Εμφάνιση Θερμοκρασίας Θερμαινόμενου Κρεβατιού</t>
+<t id="M_SHOW_TARGET_TEMPERATURES" ver="1">Εμφάνιση Επιθυμητών Θερμοκρασιών</t>
+<t id="M_SHOW_AVERAGE_TEMPERATURES" ver="1">Εμφάνιση Μέσων Θεροκρασιών</t>
+<t id="M_SHOW_HEATER_POWER" ver="1">Εμφάνιση Ισχύος Θερμαντήρα</t>
+<t id="M_AUTOSCROLL_TEMPERATURE_VIEW" ver="1">Αυτόματη Κύλιση Άποψης Θερμοκρασίας</t>
+<t id="M_TIMEPERIOD" ver="1">Περίοδος Χρόνου</t>
+<t id="M_TEMPERATURE_ZOOM" ver="1">Εστίαση</t>
+<t id="M_BUILD_AVERAGE_OVER" ver="1">Μέση τιμή για ...</t>
+<t id="M_30_SECONDS" ver="1">30 Δευτερόλεπτα</t>
+<t id="M_1_MINUTE" ver="1">1 Λεπτό</t>
+<t id="M_2_MINUTES" ver="1">2 Λεπτά</t>
+<t id="M_5_MINUTES" ver="1">5 Λεπτά</t>
+<t id="M_10_MINUTES" ver="1">10 Λεπτά</t>
+<t id="M_15_MINUTES" ver="1">15 Λεπτά</t>
+<t id="M_30_MINUTES" ver="1">30 Λεπτά</t>
+<t id="M_60_MINUTES" ver="1">60 Λεπτά</t>
+<t id="M_CONTINUOUS_MONITORING" ver="1">Συνεχής Παρακολούθηση</t>
+<t id="M_DISABLE" ver="1">Απενεργοποίηση</t>
+<t id="M_EXTRUDER_1" ver="1">Extruder 1</t>
+<t id="M_EXTRUDER_2" ver="1">Extruder 2</t>
+<t id="M_HEATED_BED" ver="1">Θερμαινόμενο Κρεβάτι</t>
+<t id="M_PRINTER_INFORMATION" ver="1">Πληροφορίες Εκτυπωτή</t>
+<t id="M_JOB_STATUS" ver="1">Κατάσταση Εργασίας</t>
+<t id="M_SD_CARD_MANAGER" ver="1">Διαχειριστής Κάρτας SD</t>
+<t id="L_SD_CARD_MANAGEMENT" ver="1">Διαχείρηση Κάρτας SD</t>
+<t id="M_TEST_CASE_GENERATOR" ver="1">Test Case Generator</t>
+<t id="M_SEND_SCRIPT_1" ver="1">Send Script 1</t>
+<t id="M_SEND_SCRIPT_2" ver="1">Send Script 2</t>
+<t id="M_SEND_SCRIPT_3" ver="1">Send Script 3</t>
+<t id="M_SEND_SCRIPT_4" ver="1">Send Script 4</t>
+<t id="M_SEND_SCRIPT_5" ver="1">Send Script 5</t>
+<t id="M_REPETIER_HOST_HOMEPAGE" ver="1">Αρχική Σελίδα Repetier-Host</t>
+<t id="M_REPETIER_HOST_DOWNLOAD_PAGE" ver="1">Λήψη Repetier-Host</t>
+<t id="M_MANUAL" ver="1">Εγχειρίδιο Repetier-Host</t>
+<t id="M_SLIC3R_HOMEPAGE" ver="1">Αρχική Σελίδα Slic3r</t>
+<t id="M_SKEINFORGE_HOMEPAGE" ver="1">Αρχική Σελίδα Skeinforge</t>
+<t id="M_REPRAP_WEBSITE" ver="1">Αρχική Σελίδα RepRap</t>
+<t id="M_REPRAP_FORUM" ver="1">Φόρουμ RepRap</t>
+<t id="M_THINGIVERSE_NEWEST" ver="1">Thingiverse Newest Things</t>
+<t id="M_THINGIVERSE_POPULAR" ver="1">Thingiverse Popular Things</t>
+<t id="M_ABOUT_REPETIER_HOST" ver="1">Σχετικά με το Repetier-Host</t>
+<t id="M_CHECK_FOR_UPDATES" ver="1">Έλεγχος Ενημερώσεων</t>
+<t id="L_DISCONNECT_PRINTER" ver="1">Αποσύνδεση Εκτυπωτή</t>
+<t id="L_CONNECT_PRINTER" ver="1">Σύνδεση Εκτυπωτή</t>
+<t id="M_DISCONNECT" ver="1">Αποσύνδεση</t>
+<t id="M_CONNECT" ver="1">Σύνδεση</t>
+<t id="M_QUIT" ver="1">Έξοδος</t>
+<t id="TAB_3D_VIEW" ver="1">Άποψη 3D</t>
+<t id="TAB_TEMPERATURE_CURVE" ver="1">Καμπύλη Θερμοκρασίας</t>
+<t id="TAB_OBJECT_PLACEMENT" ver="1">Τοποθέτηση Αντικειμένου</t>
+<t id="TAB_SLICER" ver="1">Τεμαχιστής</t>
+<t id="TAB_GCODE_EDITOR" ver="1">Επεξεργαστής Κώδικα G</t>
+<t id="TAB_MANUAL_CONTROL" ver="1">Χειροκίνητος Έλεγχος</t>
+<t id="M_EMERGENCY_STOP" ver="1">Επείγον Σταμάτημα</t>
+<t id="M_LOAD" ver="1">Φόρτωση</t>
+<t id="M_SAVE_JOB" ver="11">Αποθήκευση Εκτύπωσης</t>
+<t id="M_RUN_JOB" ver="11">Έναρξη Εκτύπωσης</t>
+<t id="M_PAUSE_JOB" ver="11">Παύση Εκτύπωσης</t>
+<t id="M_KILL_JOB" ver="11">Διαγραφή Εκτύπωσης</t>
+<t id="M_SD_CARD" ver="1">Κάρτα SD</t>
+<t id="M_TOGGLE_LOG" ver="1">Log</t>
+<t id="M_SHOW_FILAMENT" ver="1">Νήμα</t>
+<t id="M_HIDE_FILAMENT" ver="1">Νήμα</t>
+<t id="L_FILAMENT_VISUALIZATION_DISABLED" ver="1">Απενεργοποίηση Εμφάνισης Νήματος</t>
+<t id="L_FILAMENT_VISUALIZATION_ENABLED" ver="1">Ενεργοποίηση Εμφάνισης Νήματος</t>
+<t id="L_LOAD_FILE" ver="1">Φόρτωση Αρχείου</t>
+<t id="L_IMPORT_G_CODE" ver="1">Εισαγωγή Κώδικα G</t>
+<t id="L_SAVE_G_CODE" ver="1">Αποθήκευση Κώδικα G</t>
+<t id="L_ERROR" ver="1">Σφάλμα</t>
+<t id="L_PAUSE_MSG" ver="1">Πιέστε OK για συνέχεια.
+Μπορείτε να προσθέσετε παύσεις στο πρόγραμμά σας 
+@pause Some text like this</t>
+<t id="L_DISCONNECTED" ver="1">Αποσυνδεμένος</t>
+<t id="L_UPDATING..." ver="1">Ενημέρωση ...</t>
+<t id="L_SLICE_WITH" ver="1">Τεμάχισε με $1</t>
+<t id="L_EMERGENCY_STOP_MSG" ver="1">Στείλε επίγουσα διακοπή στον εκτυπωτή. Μπορεί να χρειαστεί να κάνετε reset στον εκτυπωτή για να επενεκκινήσει!</t>
+<t id="L_TRANSLATION:" ver="1">Μετάφραση</t>
+<t id="L_SCALE:" ver="1">Κλιμάκωση</t>
+<t id="L_ROTATE:" ver="1">Περιστροφή</t>
+<t id="L_STL_OBJECTS" ver="9">Αντικείμενα</t>
+<t id="B_SAVE_AS_STL" ver="9">Εξαγωγή</t>
+<t id="B_REMOVE_STL_OBJECT" ver="1">Απομάκρυνση Αντικειμένου</t>
+<t id="B_ADD_STL_OBJECT" ver="1">Προσθήκη Αντικειμένου</t>
+<t id="B_AUTOPOSITION" ver="1">Αυτόματη Τοποθέτηση</t>
+<t id="B_DROP_OBJECT" ver="1">Απόρριψη Αντικειμένου</t>
+<t id="B_COPY_OBJECTS" ver="1">Αντιγραφή Αντικειμένου(ων)</t>
+<t id="B_CENTER_OBJECT" ver="1">Κεντράρισμα Αντικειμένου</t>
+<t id="L_LOCK_ASPECT_RATIO" ver="1">Κλείδωσε τον λόγο των πλευρών</t>
+<t id="B_KILL_SLICING_PROCESS" ver="1">Διαγραφή Τεμαχισμού</t>
+<t id="B_SETUP_SKEINFORGE" ver="1">Ρύθμιση</t>
+<t id="B_SETUP_SLIC3R" ver="1">Ρύθμιση</t>
+<t id="B_CONFIGURE_SKEINFORGE" ver="1">Διαμόρφωση</t>
+<t id="B_CONFIGURE_SLIC3R" ver="1">Διαμόρφωση</t>
+<t id="B_ACTIVE" ver="1">Ενεργός</t>
+<t id="L_FILAMENT_SETTINGS" ver="1">Ρυθμίσεις Νήματος:</t>
+<t id="L_PRINTER_SETTINGS" ver="1">Ρυθμίσεις Εκτυπωτή:</t>
+<t id="L_PRINT_SETTINGS" ver="1">Ρυθμίσεις Εκτύπωσης:</t>
+<t id="L_PROFILE" ver="1">Προφίλ:</t>
+<t id="B_SEND" ver="1">Αποστολή</t>
+<t id="B_SIMULATE_OK" ver="1">OK</t>
+<t id="B_STOP_MOTOR" ver="1">Απενεργοποίηση Μοτέρ</t>
+<t id="B_PARK" ver="1">Παρκάρισμα</t>
+<t id="B_RETRACT" ver="1">Επαναφορά</t>
+<t id="B_EXTRUDE" ver="1">Εξώθηση</t>
+<t id="L_OUTPUT_PERCENT" ver="1">Έξοδος $1%</t>
+<t id="B_POWER" ver="1">Ισχύς</t>
+<t id="B_HEAT_EXTRUDER" ver="1">Θέρμανση Extruder</t>
+<t id="B_HEAT_PRINTBED" ver="1">Θέρμανση Κρεβατιού Εκτύπωσης</t>
+<t id="B_FAN" ver="1">Ανεμιστήρας</t>
+<t id="B_DEBUG_ERRORS" ver="1">Σφάλματα</t>
+<t id="B_DEBUG_ECHO" ver="1">Αντήχηση</t>
+<t id="B_DRY_RUN" ver="1">Dry Run</t>
+<t id="B_DEBUG_INFO" ver="1">Πληροφορίες</t>
+<t id="L_EXTRUDER" ver="1">Extruder</t>
+<t id="L_PRINTBED" ver="1">Κρεβάτι Εκτύπωσης</t>
+<t id="L_SPEED_MULTIPLY" ver="1">Πολλαπλασιασμός Ταχύτητας</t>
+<t id="L_EXTRUDE_MM" ver="1">Extrude [mm]</t>
+<t id="L_EXTRUDER_SPEED_MM_MIN" ver="1">Ταχύτητα [mm/min]</t>
+<t id="L_RETRACT_MM" ver="1">Επαναφορά [mm]</t>
+<t id="L_TEMP" ver="1">Θερμ.</t>
+<t id="L_CONNECTED" ver="1">Συνδέθηκε</t>
+<t id="L_HEATING_BED" ver="1">Θέρμανση Κρεβατιού</t>
+<t id="L_HEATING_EXTRUDER" ver="1">Θέρμανση Extruder</t>
+<t id="L_PRINT_JOB_KILLED" ver="1">Η Εκτύπωση Διαγράφηκε (Killed)</t>
+<t id="L_PRINT_JOB_PAUSED" ver="1">Η Εκτύπωση Σταμάτησε</t>
+<t id="L_PRINT_JOB_FINISHED" ver="1">Η Εργασία Εκτύπωσης Ολοκληρώθηκε</t>
+<t id="L_UPLOADING..." ver="1">ΑΝεβάζει ... $1%</t>
+<t id="L_PRINTING_JOB_ETA" ver="1"> ETA Εκτυπούμενης Εργασίας$1</t>
+<t id="L_IDLE" ver="1">Αδρανής</t>
+<t id="L_X_COMMANDS_WAITING" ver="1">$1 Αναμονή Εντολής</t>
+<t id="L_EXTRUDER:" ver="1">Extruder:</t>
+<t id="L_BED:" ver="1">Κρεβάτι:</t>
+<t id="L_OFF" ver="1">Απενεργοποιημένο</t>
+<t id="L_NOT_A_NUMBER" ver="1">Δεν είναι αριθμός</t>
+<t id="L_POSITIVE_NUMBER_REQUIRED" ver="1">Απαιτείται θετικός Αριθμός</t>
+<t id="L_NOT_AN_INTEGER" ver="1">Δεν είναι ακέραιος</t>
+<t id="L_RESET_OUTPUT" ver="1">Reset εξόδου. Μετά απο κάποια αναμονή έλαβα μόνο $1</t>
+<t id="L_RECEIVING_ONLY_ERRORS" ver="1">Λαμβάνει μόνο μηνύματας σφάλματος. Σταμάτημα επικοινωνίας.</t>
+<t id="L_PRINTING..ETA" ver="1">Εκτύπωση...ETA $1</t>
+<t id="L_LAYER_X/Y" ver="1"> Επίπεδο $1/$2</t>
+<t id="L_ERROR_SENDING_DATA:" ver="1">Σφάλμα Αποστολής Δεδομένων:</t>
+<t id="L_CONNECTION_ERROR" ver="1">Σφάλμα Σύνδεσης</t>
+<t id="L_SERIAL_COM_ERROR" ver="1">Σφάλμα σειριακής επικοιν.:</t>
+<t id="L_SHOW_IN_LOG" ver="1">Εμφάνιση στο αρχείο καταγραφής:</t>
+<t id="B_ACK" ver="1">ACK</t>
+<t id="B_AUTO_SCROLL" ver="1">Αυτόματη Κύλιση</t>
+<t id="B_COMMANDS" ver="1">Εντολές</t>
+<t id="B_LOG_ERRORS" ver="1">Σφάλματα</t>
+<t id="B_LOG_INFO" ver="1">Πληροφορίες</t>
+<t id="B_LOG_WARNINGS" ver="1">Προειδοποιήσεις</t>
+<t id="B_COPY" ver="1">Αντιγραφή</t>
+<t id="B_CLEAR_LOG" ver="1">Διαγραφή Log</t>
+<t id="L_COPY" ver="1">Αντιγραφή</t>
+<t id="L_CUT" ver="1">Αποκοπή</t>
+<t id="L_NEW_TEXT" ver="1">Νέο Κείμενο</t>
+<t id="L_SAVE" ver="1">Αποθήκευση</t>
+<t id="L_PASTE" ver="1">Επικόλληση</t>
+<t id="L_UNDO" ver="1">Αναίρεση</t>
+<t id="L_REDO" ver="1">Επαναφορά</t>
+<t id="L_AUTO_UPDATE_PREVIEW" ver="1">Αυτόματη Ενημέρωση Προεπισκόπησης</t>
+<t id="L_START_CODE" ver="1">Αρχή Κώδικα</t>
+<t id="L_END_CODE" ver="1">Τέλος Κώδικα</t>
+<t id="L_RUN_ON_KILL" ver="1">Εκτέλεση κατά την Διαγραφή</t>
+<t id="L_RUN_ON_PAUSE" ver="1">ΕΚτέλεση κατά την Παύση</t>
+<t id="L_SCRIPT_X" ver="1">Script $1</t>
+<t id="L_LAYER_X" ver="1">Επίπεδο $1</t>
+<t id="L_EXTRUDER_X" ver="1">Extruder $1</t>
+<t id="L_EDITOR_C" ver="1">C$1</t>
+<t id="L_EDITOR_R" ver="1">R$1</t>
+<t id="L_OVERWRITE" ver="1">Επανεγγραφή</t>
+<t id="L_INSERT" ver="1">Εισαγωγή</t>
+<t id="L_SYNTAX" ver="1">Σύνταξη</t>
+<t id="TAB_HELP" ver="1">Βοήθεια</t>
+<t id="TAB_VISUALIZATION" ver="1">Απεικόνιση</t>
+<t id="L_SHOW_COMPLETE_CODE" ver="1">Εμφάνιση πλήρους κώδικα</t>
+<t id="L_SHOW_LAYER_RANGE" ver="1">Εμφάνιση εύρους επιπέδων</t>
+<t id="L_SHOW_SINGLE_LAYER" ver="1">Εμφάνιση ενός επιπέδου</t>
+<t id="L_FIRST_LAYER" ver="1">Πρώτο Επίπεδο:</t>
+<t id="L_LAST_LAYER" ver="1">Τελευταίο Επίπεδο:</t>
+<t id="L_REALLY_DELETE_PRINTER" ver="1"> Θέλετε πραγματικά να διαγράψετε όλες τις ρυθμίσεις για το  $1?</t>
+<t id="L_SECURITY_QUESTION" ver="1">Ερώτημα Ασφάλειας</t>
+<t id="L_ADD_PRINTING_TIME" ver="1">Add to comp. Χρόνος Εκτύπωσης</t>
+<t id="L_BAUD_RATE" ver="1">Baud Rate:</t>
+<t id="L_CACHE_SIZE_HINT" ver="1">Στο Arduino 1 ο buffer λήψης μειώθηκε από 127 σε 63 bytes!</t>
+<t id="L_CHECK_EVERY_X" ver="1">Έλεγχος του κάθε $1 δευτερόλεπτα.</t>
+<t id="L_CONNECTION_INFO" ver="1">Οι ρυθμίσεις Εκτυπωτή πάντα αντιστοιχούν στον εκτυπωτή που είναι επιλεγμένος παραπάνω. 
+   Αποθηκεύονται με κάθε πίεση στα πλήκτρα OK ή Εφαρμογή. Για να δημιουργήσετε έναν νέο 
+   εκτυπωτή, απλώς βάλτε ένα νέο όνομα εκτυπωτή και πατείστε το πλήκτρο Εφαρμογή. Ο νέος 
+   εκτυπωτής ξεκινά με τις τελευταίες ρυθμίσεις που είχαν επιλεγεί.</t>
+<t id="L_DEFAULT_EXTRUDER_TEMPERATURE" ver="1">Προεπιλεγμένη Θερμοκρασία Extruder:</t>
+<t id="L_DEFAULT_HEATED_BED_TEMPERATURE" ver="1">Προεπιλεγμένη Θερμοκρ. Κρεβατιού:</t>
+<t id="L_DUMP_AREA_DEPTH" ver="1">Βάθος Περιοχής Αποτύπωσης:</t>
+<t id="L_DUMP_AREA_FRONT" ver="1">Αχρησιμοποίητη Περιοχή Εμπρός:</t>
+<t id="L_DUMP_AREA_LEFT" ver="1">Αχρησιμοποίητη Περιοχή Αριστερά:</t>
+<t id="L_DUMP_AREA_WIDTH" ver="1">Πλάτος Αχρησιμοποίητης Περιοχής:</t>
+<t id="L_FILTER_INFO" ver="1">Μπορείτε να εκτελέσετε ένα πρόγραμμα φιλτραρίσματος,
+μετά από κάθε ενέργεια τεμαχισμού. Το Φίλτρο εφαρμόζεται
+στον κώδικα-G που παράγεται από τον τεμαχιστή. 
+Χρησιμοποιείστε το #in και  #out για να εισάγετε
+τα ονόματα αρχείων εισόδου και εξόδου σαν παραμέτρους.</t>
+<t id="L_FILTER_PATH_PARAM" ver="1">Διαδρομή και παράμετροι φίλτρου:</t>
+<t id="L_PARITY" ver="1">Ισοτιμία:</t>
+<t id="L_PARK_POSITION" ver="1">Θέση Parking:</t>
+<t id="L_PORT" ver="1">Θύρα:</t>
+<t id="L_PRINT_AREA_DEPTH" ver="1">Βάθος Περιοχής Εκτύπωσης:</t>
+<t id="L_PRINT_AREA_HEIGHT" ver="1">Ύψος Περιοχής Εκτύπωσης:</t>
+<t id="L_PRINT_AREA_WIDTH" ver="1">Πλάτος Περιοχής Εκτύπωσης:</t>
+<t id="L_PRINTER" ver="1">Εκτυπωτής:</t>
+<t id="L_RECEIVE_CACHE_SIZE" ver="1">Μέγεθος Buffer Λήψης:</t>
+<t id="L_STOPBITS" ver="1">Stop Bits:</t>
+<t id="L_TRANSFER_PROTOCOL" ver="1">Πρωτόκολλο Μεταφοράς:</t>
+<t id="L_TRAVEL_FEED_RATE" ver="1">Ταχύτητα Πρόωσης:</t>
+<t id="L_ZFEED_RATE" ver="1">Ταχύτητα Πρόωσης Άξονα Z:</t>
+<t id="L_DISABLE_EXTRUDER_AFTER_JOB" ver="1">Απενεργοπ. τον Extruder μετά την Διαγραφή.</t>
+<t id="L_DISABLE_MOTORS" ver="1">Απενεργοπ. τα Μοτέρ μετά την Διαγραφή.</t>
+<t id="L_DISABLE_HEATED_BED_AFTER_JOB" ver="1">Απενεργοπ.  Κρεβάτι μετά την Διαγραφή</t>
+<t id="L_GO_PARK_POSITION" ver="1">Μετάβ. στη θέση Parking μετά τη Διαγραφή</t>
+<t id="L_HAS_DUMP_AREA" ver="1">Has Dump Area</t>
+<t id="L_HOME_X_MAX" ver="1">Home is at X Max</t>
+<t id="L_HOME_Y_MAX" ver="1">Home is at Y Max</t>
+<t id="L_HOME_Z_MAX" ver="1">Home is at Z Max</t>
+<t id="L_PING_PONG_MODE" ver="1">Χρησιμοποίησε επικοινωνία Ping-Pong (Αποστολή μόνο μετά από ok)</t>
+<t id="L_RUN_FILTER_EVERY_SLICE" ver="1">Τρέξε το φίλτρο μετά από κάθε Τεμαχισμό</t>
+<t id="L_CHECK_EXTRUDER_BED_TEMPERATURE" ver="1">Έλεγχος Extruder &amp;&amp; Θερμοκρασία Κρεβατιού</t>
+<t id="L_REMOVE_M105_REQUEST_LOG" ver="1">Απομάκρυνε τα αιτήματα θερμοκρασίας από το αρχείο Log</t>
+<t id="B_CANCEL" ver="1">Ακύρωση</t>
+<t id="B_APPLY" ver="1">Εφαρμογή</t>
+<t id="B_OK" ver="1">OK</t>
+<t id="B_DELETE_PRINTER_SETTINGS" ver="1">Διαγραφή Αυτής της Διαμόρφωσης του Εκτυπωτή</t>
+<t id="TAB_CONNECTION" ver="1">Σύνδεση</t>
+<t id="TAB_PRINTER" ver="1">Εκτυπωτής</t>
+<t id="TAB_PRINTER_SHAPE" ver="1">Σχήμα Εκτυπωτή</t>
+<t id="TAB_ADVANCED" ver="1">Προχωρημένα</t>
+<t id="W_PRINTER_SETTINGS" ver="1">Ρυθμίσεις Εκτυπωτή</t>
+<t id="L_POST_SLICE_FILTER" ver="1">Φίλτρο Μετά τον Τεμαχισμό</t>
+<t id="L_Z_MIN" ver="1">Z-Min</t>
+<t id="W_PRINT_PAUSED" ver="1">Η Εκτύπωση Σταμάτησε</t>
+<t id="L_PAUSE_HINT" ver="1">Συμβουλή: Επιτρέπεται να μετακινήσετε τον extruder
+    εδώ και εκεί και να εξωθήσετε το νήμα που βρίσκεται μέσα,
+    ώστε να αλλάξετε νήμα ή να ξαναγεμίσετε το στόμιο, εάν
+    παρουσιάστηκε διαρροή. Ο υπολογιστής θα επαναφέρει για
+    λογαριασμό σας το στόμιο στη θέση έναρξης της παύσης.
+</t>
+<t id="B_CONTINUE_PRINTING" ver="1">Συνέχισε την εκτύπωση</t>
+<t id="W_REPETIER_HOST_UPDATE_CHECK" ver="1">Έλεγχος Ενημέρωσης Repetier-Host</t>
+<t id="B_DOWNLOAD" ver="1">Κατέβασμα</t>
+<t id="B_REMIND_ME_LATER" ver="1">Υπενθύμισέ το αργότερα</t>
+<t id="B_SKIP_VERSION" ver="1">Παράβλεψε αυτή την Έκδοση</t>
+<t id="L_AVAILABLE_VERSION" ver="1">Διαθέσιμη Έκδοση:</t>
+<t id="L_INSTALLED_VERSION" ver="1">Εγκατεστημένη Έκδοση:</t>
+<t id="L_INFORMATION_ON_UPDATE" ver="1">Πληροφορίες σχετικά με την ενημέρωση</t>
+<t id="L_NO_NEW_UPDATES" ver="1">Δεν υπάρχουν νέες ενημερώσεις.
+   Χρησιμοποιείτε την τελευταία έκδοση.</t>
+<t id="L_UPDATE_STATUS" ver="1">Κατάσταση Ενημέρωσης</t>
+<t id="W_SLICING_INFO" ver="1">Πληροφορίες Τεμαχισμού</t>
+<t id="L_ACTION:" ver="1">Ενέργεια:</t>
+<t id="L_DURATION:" ver="1">Διάρκεια:</t>
+<t id="L_SLICER:" ver="1">Τεμαχιστής:</t>
+<t id="L_START_JOB_AFTER_SLICING" ver="1">Ξεκίνα την εργασία μετά τον τεμαχισμό</t>
+<t id="W_ABOUT_REPETIER_HOST" ver="1">Σχετικά με τον Repetier-Host</t>
+<t id="L_LICENCE_AND_LIBRARIES" ver="1">Άδεια και Βιβλιοθήκες</t>
+<t id="L_REPETIER_INFO" ver="1">Αυτό το software αναπτύχθηκε για τον έλεγχο εκτυπωτών 3D, όπως ο εκτυπωτής-RepRapr. 
+Χρησιμοποιείται καλύτερα με Repetier-Firmware, το οποίο υποστηρίζει όλα τα χαρακτηριστικά. Άλλα firmware εκτυπωτών, όπως το Marlin, Teacup, Sprinter ή ο 5D διερμηνευτής GCode θα πρέπει να λειτουργούν, εφ' όσον γίνουν οι σωστές ρυθμίσεις.</t>
+<t id="W_COPY_MARKED_OBJECTS" ver="1">Αντιγραφή Σημαδεμένων Αντικειμένων</t>
+<t id="L_NUMBER_OF_COPIES:" ver="1">Αριθμός Αντιγράφων:</t>
+<t id="L_AUTO_POSITION_AFTER_COPY" ver="1">Αυτόματη Τοποθέτηση μετά την Προσθήκη Αντικειμένων</t>
+<t id="L_PRINTING_LAYER_X_OF_Y" ver="1">Επίπεδο Εκτύπωσης $1 από $2</t>
+<t id="L_BUILDING_PRINT_JOB..." ver="1">Κατασκευή εργασίας Εκτύπωσης...</t>
+<t id="L_PRINTING..." ver="1">Εκτυπώνει ...</t>
+<t id="L_JOB_KILLED" ver="1">Διαγραφή Εργασίας</t>
+<t id="L_PRINTJOB_FINISHED_AT" ver="1">Η εκτύπωση ολοκληρώθηκε σε $1 δευτερόλεπτα</t>
+<t id="L_PRINTING_TIME:" ver="1">Χρόνος Εκτύπωσης: $1</t>
+<t id="L_LINES_SEND:X" ver="1">Γραμμές που εστάλησαν: $1</t>
+<t id="L_FINISHED_IN" ver="1">Ολοκληρώθηκε σε $1</t>
+<t id="L_TIME_H:" ver="1">$1h:</t>
+<t id="L_TIME_M:" ver="1">$1m:</t>
+<t id="L_TIME_S" ver="1">$1s</t>
+<t id="W_FIRMWARE_EEPROM_SETTINGS" ver="1">Ρυθμίσεις Firmware EEPROM</t>
+<t id="W_GCODE_NOT_FOUND" ver="1">Ο Δημιουργημένος κώδικας-G δεν βρέθηκε</t>
+<t id="L_EXPECTED_FILENAME_AND_LOCATION" ver="1">Αναμενόμενο όνομα Αρχείου και Τοποθεσία</t>
+<t id="L_GCODE_NOT_FOUND_INFO" ver="1">Δεν μπορώ να βρώ το αρχείο κώδικα-G.
+Πιθανά αίτια:
+- ο τεμαχιστής είχε κάποιο σφάλμα και δεν ολοκλήρωσε τον τεμαχισμό. 
+  Ελέγξτε το αρχείο καταγραφής.
+- ο τεμαχιστής αποθήκευσε το αρχείο με ένα απρόσμενο όνομα αρχείου.</t>
+<t id="B_CLOSE" ver="1">Κλείσιμο</t>
+<t id="W_REPETIER_SETTINGS" ver="1">Ρυθμίσεις Repetier</t>
+<t id="L_BEHAVIOUR" ver="1">Συμπεριφορά</t>
+<t id="L_FILES_AND_DIRECTORIES" ver="1">Αρχεία και Κατάλογοι</t>
+<t id="L_GUI" ver="1">GUI</t>
+<t id="L_INFO_WORKDIR" ver="1">Το αρχείο καταγραφής και τα προσωρινά αρχεία τεμαχισμού, αποθηκεύονται στον κατάλογο εργασίας. Εάν επιτραπεί
+η καταγραφή, θα υπάρχει, μετά το κλείσιμο του προγράμματος, ένα αρχείο repetier.log. Το ξεκίνημα του προγράμματος θα διαγράψει το 
+παλιό αρχείο καταγραφής. Το αρχείο καταγραφής περιέχει όλη την επικοινωνία με τον εκτυπωτή, ακόμη και εάν έχει απενεργοποιηθεί 
+στην απεικόνιση του log. Οι αλλαγές στην καταγραφή είναι ενεργές μετά την επόμενη εκκίνηση.</t>
+<t id="L_LOG_SESSION" ver="1">Καταγραφή (Log) Περιόδου</t>
+<t id="REDUCE_TOOLBAR_SIZE" ver="1">Μείωση Μεγέθους Εργαλειοθήκης</t>
+<t id="L_DISABLE_QUALITY_REDUCTION" ver="1">Ανενεργοποίηση Περιορισμού Ποιότητας</t>
+<t id="L_EXISTING_WORKDIR_REQUIRED" ver="1">Απαιτείται υπαρκτός κατάλογος εργασίας!</t>
+<t id="L_WORKDIR:" ver="1">Κατάλογος Εργασίας:</t>
+<t id="B_BROWSE" ver="1">Εμφάνισε...</t>
+<t id="L_SELECT_WORKING_DIRECTORY" ver="1">Επιλογή Καταλόγου Εργασίας</t>
+<t id="L_PAST_60_MINUTES" ver="1">Παρήλθαν 60 Λεπτά</t>
+<t id="W_3D_VISUALIZATION_SETTINGS" ver="1">Ρυθμίσεις Απεικόνισης 3D</t>
+<t id="L_COLORS" ver="1">Χρώματα</t>
+<t id="L_EDITOR" ver="1">Επεξεργαστές</t>
+<t id="L_VISUALIZATION" ver="1">Απεικόνιση:</t>
+<t id="L_AMBIENT_COLOR" ver="1">Χρώμα Περιβάλλοντος:</t>
+<t id="L_BACKGROUND" ver="1">Υπόβαθρο:</t>
+<t id="L_DIFFUSE_COLOR" ver="1">Diffuse Color:</t>
+<t id="L_DRAW_METHOD" ver="1">Μέθοδος Σχεδίασης:</t>
+<t id="L_EDGES" ver="1">Ακμές:</t>
+<t id="L_EXTRUDER_X:" ver="1">Extruder $1:</t>
+<t id="L_FACES" ver="1">Επιφάνειες:</t>
+<t id="L_FILAMENT_VISUALIZATION_INFO" ver="1">The shape of the filament is computed either by layer height and width over thickness or from the
+filament diameter, width over thickness and E values in the G-Code. The second version gives
+better results, if the layer height changes, which can happen in newer Skeinforge versions.</t>
+<t id="L_FILAMENT_VISUALIZATION" ver="1">Απεικόνιση Νήματος:</t>
+<t id="L_HOT_FILAMENT" ver="1">Θερμό Νήμα:</t>
+<t id="L_HOT_FILAMENT_LENGTH" ver="1">Μήκος Θερμού Νήματος:</t>
+<t id="L_LIGHT_X" ver="1">Φως $1</t>
+<t id="L_OBJECTS_OUTSIDE_PRINTBED" ver="1">Αντικείμενα έξω από το Κρεβάτι Εκτύπωσης:</t>
+<t id="L_PRINTER_BASE" ver="1">Βάση Εκτυπωτή:</t>
+<t id="L_SELECTED_FACES" ver="1">Επιλεγμένες Επιφάνειες:</t>
+<t id="L_SELECTED_FILAMENT" ver="1">Επιλεγμένο Νήμα:</t>
+<t id="L_SPECULAR_COLOR" ver="1">Specular Color:</t>
+<t id="L_WIDTH_OVER_THICKNESS" ver="1">Πλάτος Σχετικά με το Πάχος:</t>
+<t id="L_X_DIRECTION" ver="1">X Κατεύθυνση:</t>
+<t id="L_Y_DIRECTION" ver="1">Y Κατεύθυνση:</t>
+<t id="L_Z_DIRECTION" ver="1">Z Κατεύθυνση:</t>
+<t id="L_DISABLE_FILAMENT_VISUALIZATION" ver="1">Απενεργοποίηση Απεικόνισης Νήματος</t>
+<t id="L_ENABLE_LIGHT" ver="1">Ενεργοποίηση Φωτισμού</t>
+<t id="L_SHOW_EDGES" ver="1">Εμφάνιση Ακμών</t>
+<t id="L_SHOW_FACES" ver="1">Εμφάνιση Επιφανειών</t>
+<t id="L_SHOW_PRINTBED" ver="1">Εμφάνιση Κρεβατιού Εκτύπωσης</t>
+<t id="L_PULSE_OBJECT_IF_NOT_PRINTABLE" ver="1">Pulse εάν το αντικείμενο δεν είναι εκτυπώσιμο</t>
+<t id="TAB_GENERAL" ver="1">Γενικά</t>
+<t id="TAB_FILAMENT" ver="1">Νήμα</t>
+<t id="TAB_MODEL" ver="1">Μοντέλο</t>
+<t id="TAB_LIGHTS" ver="1">Φωτισμοί</t>
+<t id="L_LAYER_HEIGHT" ver="1">Ύψος Επιπέδου:</t>
+<t id="L_FILAMENT_DIAMETER" ver="1">Διάμετρος Νήματος:</t>
+<t id="L_DRAW_METHOD_AUTODETECT" ver="1">Αυτόματη Ανίχνευση Καλύτερου</t>
+<t id="L_DRAW_METHOD_VBOS" ver="1">VBOs (Ταχύτερο)</t>
+<t id="L_DRAW_METHOD_ARRAYS" ver="1">Πίνακες (Μεσαίο)</t>
+<t id="L_DRAW_METHOD_IMMEDIATE" ver="1">Άμεσο (Αργό)</t>
+<t id="W_JOB_STATUS" ver="1">Κατάσταση Εργασίας</t>
+<t id="L_ETA:" ver="1">ETA:</t>
+<t id="L_FINISH_TIME:" ver="1">Χρόν. Ολοκλ.:</t>
+<t id="L_LINES_SEND:" ver="1">Σταλμέν. Γραμ.:</t>
+<t id="L_START_TIME:" ver="1">Χρόν. Έναρξ.:</t>
+<t id="L_STATUS:" ver="1">Κατάσταση:</t>
+<t id="L_TOTAL_LINES:" ver="1">Συν. Αριθμ. Γραμ.:</t>
+<t id="L_NO_JOB_DEFINED" ver="1">Δεν καθορίστ. καμμία Εργασ.</t>
+<t id="L_RUNNING..." ver="1">Εκτελείται ...</t>
+<t id="L_FINISHED" ver="1">Ολοκληρώθηκε</t>
+<t id="L_ABORTED" ver="1">Απορρίφθηκε</t>
+<t id="W_PRINTER_INFO" ver="1">Πληροφορίες Εκτυπωτή</t>
+<t id="L_CONNECTION_INFORMATION" ver="1">Πληροφορίες Σύνδεσης</t>
+<t id="L_PRINTER_DATA" ver="1">Δεδομένα Εκτυπωτή</t>
+<t id="L_BYTES_SEND:" ver="1">Σταλμένα Bytes:</t>
+<t id="L_ERRORS_RECEIVED:" ver="1">Ληφθέντα Σφάλματα:</t>
+<t id="L_FIRMWARE:" ver="1">Firmware:</t>
+<t id="L_FIRMWARE_URL:" ver="1">Firmware URL:</t>
+<t id="L_MACHINE_TYPE:" ver="1">Τύπος Μηχανής:</t>
+<t id="L_NUMBER_EXTRUDER:" ver="1">Πλήθος Extruder:</t>
+<t id="L_PROTOCOL:" ver="1">Πρωτόκολλο:</t>
+<t id="L_NOT_VALID_83_FILENAME" ver="1">Μη έγκυρο 8.3 όνομα αρχείου.</t>
+<t id="W_SD_CARD_UPLOAD" ver="1">Ανέβασμα κάρτας SD</t>
+<t id="L_UPLOADED_FILENAME:" ver="1">Όνομα Ανεβασμένου Αρχείου:</t>
+<t id="L_INCLUDE_JOB_FINISHED_COMMANDS" ver="1">Συμπερίληψη Εντολών Ολοκλήρωσης Εργασίας</t>
+<t id="L_INCLUDE_START_END_CODE" ver="1">Συμπερίλαβε κώδικα "Start" και"End"</t>
+<t id="L_UPLOAD_EXTERNAL_FILE" ver="1">Ανέβασμα Εξωτερικού Αρχείου</t>
+<t id="L_UPLOAD_CURRENG_GCODE" ver="1">Ανέβασμα Τρέχοντος Κώδικα-G</t>
+<t id="L_FILE:" ver="1">Αρχείο:</t>
+<t id="W_SAVE_GCODE_DIRECT_PRINT" ver="1">Αποθήκευση Κώδικα-G για Απευθείας Εκτύπωση</t>
+<t id="L_SAVE_DIRECT_INFO" ver="1">Αυτή η λειτουργία αποθήκευσης προορίζεται για τη δημιουργία αρχείων κώδικα-G τα οποία μπορούν να τρέξουν από μία κάρτα sd. 
+Για τον λόγο αυτό μπορεί να προσθέσει τον κώδικα έναρξης και τερματισμού, μαζί με τις κανονικές εντολές τερματισμού, όπως εκτελούνται από την απ' ευθείας εκτύπωση από τον Υπολογιστή.
+ΌλΑ τα σχόλια και οι εντολές του υπολογιστή σβήνονται!. Εάν θέλετε μόνο να αποθηκεύσετε τον κώδικα  G στον editor σας, χρησιμοποιείστε εκεί το εικονίδιο αποθήκευσης.</t>
+<t id="L_SAVE_AS_BINARY" ver="1">Αποθήκευση σε Δυαδική Μορφή (για Repetier-Firmware)</t>
+<t id="B_SAVE" ver="1">Αποθήκευση</t>
+<t id="W_SD_CARD_MANAGER" ver="1">Διαχειριστής Κάρτας SD</t>
+<t id="L_FILENAME" ver="1">Όνομα Αρχείου</t>
+<t id="L_SIZE" ver="1">Μέγεθος</t>
+<t id="L_UPLOAD_FILE" ver="1">Ανέβασμα Αρχείου</t>
+<t id="L_DELETE_FILE" ver="1">Διαγραφή Αρχείου</t>
+<t id="L_RUN_CONTINUE_UPLOAD" ver="1">Εκτέλεση Επιλεγμένου Αρχείου / Συνέχιση Προσωρινά Διακομένης Εκτύπωσης</t>
+<t id="L_STOP_UPLOAD" ver="1">Παύση/Διακοπή Εκτέλεσης Εκτύπωσης κάρτας SD</t>
+<t id="L_MOUNT_SD_CARD" ver="1">Εγκατάσταση Κάρτας SD</t>
+<t id="L_UNMOUNT_SD_CARD" ver="1">Απεγκατάσταση Κάρτας SD</t>
+<t id="L_PRINT_FINISHED" ver="1">Ολοκλήρωση Εκτύπωσης</t>
+<t id="L_UPLOAD_FINISHED" ver="1">Ολοκληρώθηκε το Ανέβασμα</t>
+<t id="L_SD_PRINTING..." ver="1">Εκτύπωση SD ...</t>
+<t id="L_UPLOAD_FAILED" ver="1">Αποτυχία Ανεβάσματος</t>
+<t id="L_FILE_DELETED" ver="1">Το Αρχείο Διαγράφηκε</t>
+<t id="L_DELETE_FAILED" ver="1">Αποτυχία Διαγραφής</t>
+<t id="L_UPLOADING_FILE..." ver="1">Ανέβασμα Αρχείου ...</t>
+<t id="L_FIRMWARE_NO_DELETE" ver="1">Το firmware σας δεν πραγματοποιεί διαγραφή αρχείου ή έχει άγνωστη πραγματοποίηση.</t>
+<t id="L_PRINT_ABORTED" ver="1">Η Εκτύπωση Απορρίφθηκε</t>
+<t id="L_PRINT_PAUSED" ver="1">Παύση Εκτύπωσης</t>
+<t id="L_REMOVE_SD_CARD" ver="1">Μπορείτε να απομακρύνετε την κάρτα sd.</t>
+<t id="L_INFORMATION" ver="1">Πληροφορία</t>
+<t id="L_REALLY_DELETE_X" ver="1">Αλήθεια να σβήσει το $1</t>
+<t id="SOUND_CONFIGURATION" ver="1">Διαμόρφωση Ήχου</t>
+<t id="L_SOUNDS" ver="1">Ήχοι</t>
+<t id="L_ERROR_SOUND" ver="1">Ήχηση σε Σφάλματα</t>
+<t id="L_PRINT_FINISHED_SOUND" ver="1">Ήχος κατά την Ολοκλήρωση Εκτύπωσης</t>
+<t id="L_PRINT_PAUSED_SOUND" ver="1">Ήχος κατά την Παύση Εκτύπωσης</t>
+<t id="L_SOUND_COMMAND_SOUND" ver="1">Ήχος για την Εντολή @sound</t>
+<t id="L_FILE:X" ver="1">Αρχείο: $1</t>
+<t id="L_SELECT_WAV_FILE_TO_PLAY" ver="1">Επιλογή Αρχείου WAV για Αναπαραγωγή</t>
+<t id="W_SLIC3R_SETUP" ver="1">Διαμόρφωση Slic3r</t>
+<t id="L_SLIC3R_SETUP" ver="1">Διαμόρφωση Slic3r</t>
+<t id="L_SLIC3R_BLANK_BUNDLE" ver="6">Αφήστε κενό για χρήση της ενσωματωμένης ή της έκδοσης συστήματος.</t>
+<t id="L_SLIC3R_CONFIG_DIR" ver="1">Κατάλογος Διαμόρφωσης του Slic3r</t>
+<t id="L_SLIC3R_EXECUTABLE" ver="1">Εκτελέσιμο του Slic3r</t>
+  <t id="L_SLIC3R_PE_CONFIG_DIR" ver="1">Κατάλογος Διαμόρφωσης του PrusaSlicer</t>
+  <t id="L_SLIC3R_PE_EXECUTABLE" ver="1">Εκτελέσιμο του PrusaSlicer</t>
+  <t id="L_SLIC3R_INFO" ver="1">Με αυτές τις ρυθμίσεις, μπορείτε να χρησιμοποιήσετε διαφορετικές εκδόσεις του Slic3r. Μπορείτε να πάρετε τις νέες εκδόσεις από το http://www.slic3r.org. Η ελάχιστη έκδοση που απαιτείται είναι η is 0.9.0. Αφήστε όλα τα πεδία κενά, για να απλοποιήσετε τη χρήση της ενσωματωμένης έκδοσης.</t>
+  <t id="L_SLIC3R_PE_INFO" ver="1">Με αυτές τις ρυθμίσεις, μπορείτε να χρησιμοποιήσετε διαφορετικές εκδόσεις του PrusaSlicer. Μπορείτε να πάρετε τις νέες εκδόσεις από το https://www.prusa3d.com/prusaslicer/. Η ελάχιστη έκδοση που απαιτείται είναι η is 0.9.0. Αφήστε όλα τα πεδία κενά, για να απλοποιήσετε τη χρήση της ενσωματωμένης έκδοσης.</t>
+  <t id="L_SLIC3R_BLANK_CONFIG" ver="1">Leave blank to use guessed location.</t>
+<t id="W_EEPROM_MARLIN" ver="1">Ρυθμίσεις EEPROM για Marlin Firmware</t>
+<t id="L_M_ACCELERATION" ver="1">Επιτάχυνση:</t>
+<t id="L_M_ADVANCED_VARIABLES" ver="1">Προχωρημένες Μεταβλητές:</t>
+<t id="L_M_HOMING_OFFSET" ver="1">Αποκλίσεις Homing:</t>
+<t id="L_M_MAX_ACCELERATION" ver="1">Μέγιστη Επιτάχυνση [mm/s²]:</t>
+<t id="L_M_MAX_FEEDRATE" ver="1">Μέγιστες Προώσεις [mm/s]:</t>
+<t id="L_M_MAX_XY_JERK" ver="1">Μέγιστο X-Y jerk [mm/s]</t>
+<t id="L_M_MAX_Z_JERK" ver="1">Μέγιστο Z jerk [mm/s]</t>
+<t id="L_M_MIN_FEEDRATE" ver="1">Ελάχιστη πρόωση [mm/s]</t>
+<t id="L_M_MIN_SEGMENT_TIME" ver="1">Ελάχιστος Χρόνος Τμήματος [ms]</t>
+<t id="L_M_MIN_TRAVEL_FEEDRATE" ver="1">Min πρόωση κίνησης[mm/s]</t>
+<t id="L_M_PID_SETTINGS" ver="1">Ρυθμίσεις PID:</t>
+<t id="L_M_STEPS_PER_MM" ver="1">Βήματα ανά mm:</t>
+<t id="L_M_RETRACT_ACCELERATION" ver="1">Επιτάχυνση Επιστροφής:</t>
+<t id="B_M_LOAD" ver="1">Επαναφόρτωση Διαμόρφωσης</t>
+<t id="B_M_RESTORE" ver="1">Επαναφορά Εργοστασιακών Ρυθμίσεων</t>
+<t id="B_M_SAVE" ver="1">Αποθήκευση στην EEPROM</t>
+<t id="L_M_CONFIRM_WRITE" ver="1">Οι ρυθμίσεις αποθηκεύτηκαν στο εκτελούμενο αρχείο διαμόρφωσης.
+Να γραφούν οι αλλαγές στην EEPROM?</t>
+<t id="L_M_SETTINGS_STORED" ver="1">Οι Ρυθμίσεις Αποθηκεύτηκαν</t>
+<t id="L_M_SAVE_RETIEVED" ver="1">Να Αποθηκευτούν οι Ανακτημένες στην EEPROM?</t>
+<t id="L_M_FACTORY_RETRIEVED" ver="1">Ανακτήθηκαν οι Εργοστασιακές Ρυθμίσεις</t>
+<t id="L_SLICING_STL_FILE..." ver="1">Τεμαχισμός Αρχείου STL...</t>
+<t id="L_SKEIN_STILL_RUNNING" ver="1">Η Τελευταία εργασία τεμαχισμού τρέχει ακόμα. Ο τεμαχισμός νέας εργασίας ακυρώθηκε.</t>
+<t id="L_SKEIN_KILLED" ver="1">$1 Η διαδικασία τεμαχισμού ακυρώθηκε μετά από αίτηση του χρήστη.</t>
+<t id="W_SKEIN_SETTINGS" ver="1">Ρυθμίσεις Skeinforge/SFACT</t>
+<t id="L_SKEIN_APPLICARTION" ver="1">Εφαρμοφή Skeinforge:</t>
+<t id="L_SKEIN_CRAFT" ver="1">Skeinforge Craft:</t>
+<t id="L_SKEIN_PROFDIR_INFO" ver="1">Επιλέξτε των υποκατάλογο των προφίλ, στον κατάλογο διαμόρφωσης του skeinforge. Κανονικά αυτός είναι HOME/.skeinforge/profiles. Για μερικές custom εκδόσεις όπως το SFACT η διαδρομή μπορεί να διαφέρει.</t>
+<t id="L_SKEIN_PROFILES_DIRECTORY" ver="1">Κατάλογος Προφίλ:</t>
+<t id="L_SKEIN_PYPY" ver="1">PyPy:</t>
+<t id="L_SKEIN_PYPY_INFO" ver="1">Εάν έχετε εγκατεστημένο το pypy, οι τεμαχισμοί του Skeinforge θα τρέχουν 3-4 με τέσσερεις φορές γρηγορότερα. Εάν δεν έχετε εγκατεστημένο το pypy, αφήστε το κενό και αντί γι΄αυτό θα χρησιμοποιηθεί ο διερμηνευτής της python. Μπορείτε να πάρετε το πιο πρόσφατο pypy στη διεύθυνση http://www.pypy.org/</t>
+<t id="L_SKEIN_PYTHON" ver="1">Διερμηνευτής Python:</t>
+<t id="L_SKEIN_WORKDIR_INFO" ver="1">Ο κατάλογος εργασίας καθορίζει που το SFACT θα αποθηκεύει τα προφίλ!</t>
+<t id="L_SKEIN_WORKING_DIRECTORY" ver="1">Κατάλογος Εργασίας:</t>
+<t id="L_SKEIN_OPEN_FILE" ver="1">Εφαρμογή Skeinforge</t>
+<t id="L_SKEIN_OPEN_PYTHON" ver="1">Διερμηνευτής Python</t>
+<t id="L_SKEIN_OPEN_CRAFT" ver="1">Εφαρμογή Skeinforge Craft</t>
+<t id="L_SKEIN_OPEN_PYPY" ver="1">Διερμηνευτής Pypy Python</t>
+<t id="L_SKEIN_SELECT_PROFILE_FOLDER" ver="1">Επιλογή Καταλόγου Προφίλ</t>
+<t id="L_SKEIN_SELECT_WORKING_FOLDER" ver="1">Επιλογή Καταλόγου Εργασίας</t>
+<t id="L_FEEDRATE:" ver="1">Πρόωση:</t>
+<t id="L_FLOWRATE:" ver="1">Ρυθμός Ροής:</t>
+<t id="L_UPDATE_NO_CONNECTION" ver="1">Δεν μπόρεσε να συνδεθεί με τον server ενημερώσεων!</t>
+<t id="L_MOVE_CAMERA" ver="1">Μετακίνησε την  Camera</t>
+<t id="L_MOVE_OBJECT" ver="1">Μετακίνηση</t>
+<t id="L_MOVE_VIEWPOINT" ver="1">Μετακίνηση Σημείου Παρατήρησης</t>
+<t id="L_RESET_VIEW" ver="1">Reset View</t>
+<t id="L_ROTATE" ver="1">Περιστροφή</t>
+<t id="L_TOP_VIEW" ver="1">Πάνω Άποψη</t>
+<t id="T_ZOOM_VIEW" ver="1">Μεγέθυνση</t>
+<t id="T_CLEAR_OBJECTS" ver="1">Καθαρισμός</t>
+<t id="L_DEBUG_OPTIONS" ver="2">Επιλογές Αποσφαλμάτωσης</t>
+<t id="L_X_MIN:" ver="3">X Min</t>
+<t id="L_X_MAX:" ver="3">X Max</t>
+<t id="L_Y_MIN:" ver="3">Y Min</t>
+<t id="L_Y_MAX:" ver="3">Y Max</t>
+<t id="L_BED_LEFT:" ver="3">Bed Left:</t>
+<t id="L_BED_FRONT:" ver="3">Bed Front:</t>
+<t id="L_SHAPE_INFO" ver="3">
+Οι ελάχιστες και μέγιστες τιμές καθορίζουν τη δυνατή περιοχή τιμών των 
+συντεταγμένων του extruder coordinates. Αυτές οι συντεταγμένες μπορεί 
+να είναι αρνητικές και έξω από το κρεβάτι εκτύπωσης. Τα Bed left/front
+καθορίζουν τις συντεταγμένες που ξεκινά αυτό καθαυτό το κρεβάτι. 
+Αλλάζοντας τις τιμές min/max μπορείτε ακόμη και να μετακινήσετε την αρχή
+στο κέντρο του κρεβατιού, εάν υποστηρίζεται από το firmware.</t>
+<t id="L_SELECTION_BOX" ver="3">Πλαίσιο Επιλογής:</t>
+<t id="L_FILAMENT_NONE" ver="3">None/Same as Extruder 1</t>
+<t id="L_REALLY_QUIT" ver="3">Η Εκτύπωση δεν Ολοκληρώθηκε.Να βγώ παρόλα αυτά?</t>
+<t id="M_DONATE" ver="3">Δωρεά μέσω PayPal</t>
+<t id="L_FAN" ver="4">Ανεμιστήρας</t>
+<t id="L_HOME_X:" ver="4">Home X:</t>
+<t id="L_HOME_Y:" ver="4">Home Y:</t>
+<t id="L_HOME_Z:" ver="4">Home Z:</t>
+<t id="L_MIN" ver="4">Min</t>
+<t id="L_MAX" ver="4">Max</t>
+<t id="L_PAUSED_FIRMWARE" ver="4">Ο Εκτυπωτής αιτήθηκε παύση.</t>
+<t id="L_CREATE_FOLDER" ver="4">Δημιούργησε Νέο Φάκελο</t>
+<t id="L_CREATE_FOLDER_INFO" ver="4">Εισαγωγή Ονόματος Φακέλου:</t>
+<t id="L_UPLOADING_TIME" ver="4">Χρόνος Ανεβάσματος: $1</t>
+<t id="L_FILAMENT_POS" ver="4">Fil: $1</t>
+<t id="L_TRAVEL_VISUALIZATION_DISABLED" ver="4">Απενεργοποίηση εικόνας γρήγορης  κίνησης</t>
+<t id="M_HIDE_TRAVEL" ver="4">Κίνηση</t>
+<t id="L_TRAVEL_VISUALIZATION_ENABLED" ver="4">Ενεργοποίηση εικόνας γρήγορης κίνησης</t>
+<t id="M_SHOW_TRAVEL" ver="4">Γρήγορα</t>
+<t id="L_TRAVEL_MOVES:" ver="4">Γρήγορες Κινήσεις:</t>
+<t id="L_DISABLE_TRAVEL_MOVES_VIS" ver="4">Απενεργοποίησε την εμφάνιση των γρήγορων κινήσεων</t>
+<t id="L_NUMBER_OF_EXTRUDER:" ver="5">Πλήθος Extruder:</t>
+<t id="L_NEW_FOLDER" ver="5">Νέος Φάκελλος</t>
+<t id="L_USE_PARALLEL_PROJECTION" ver="5">Χρήση Παράλληλης Προβολής</t>
+<t id="L_USE_RED_GREEN_SWITCH" ver="5">Χρησιμοποίησε τα κόκκινο/πρασινο μπουτόν (απαιτεί επενεκκίνηση)</t>
+<t id="L_LAST_SLICE_RUNNING" ver="6">Ο προηγούμενος τεμαχισμός είναι ακόμη σε εξέλιξη. Η νέα εργασία ακυρώθηκε</t>
+<t id="L_SLIC3R_NOT_FOUND" ver="6">Ο Slic3r δεν βρέθηκε.</t>
+<t id="L_ANALYSING_STL" ver="6">Ανάλυση Αρχείου STL ...</t>
+<t id="L_SLICING_STL" ver="6">Τεμαχισμός Αρχείου STL  ...</t>
+<t id="L_PYPY_NOT_FOUND" ver="6">Pypy ή Ο Διερμηνευτής Python δεν βρέθηκε.</t>
+<t id="L_SKEINCRAFT_NOT_FOUND" ver="6">Δεν βρέθηκε το Skeinforge craft.</t>
+<t id="L_PYTHON_NOT_FOUND" ver="6">Ο Διερμηνευτής Python δεν βρέθηκε.</t>
+<t id="L_SKEINFORGE_NOT_FOUND" ver="6">Το Skeinforge δεν βρέθηκε.</t>
+<t id="L_SKEINCRAFT_PROFILES_NOT_FOUND" ver="6">Ο κατάλογος των προφίλ Skeinforge/SFACT δεν βρέθηκε.</t>
+<t id="B_REFRESH_PORTS" ver="6">Ανανέωση Θυρών</t>
+<t id="L_ROS_PRINTABLE_HEIGHT:" ver="6">Εκτυπώσιμο Ύψος:</t>
+<t id="L_ROS_PRINTABLE_RADIUS:" ver="6">Εκτυπώσιμη Ακτίνα:</t>
+<t id="L_CARTESIAN_PRINTER" ver="6">Κλασικός Εκτυπωτής</t>
+<t id="L_CARTESIAN_PRINTER_DUMP" ver="6">Κλασικός Εκτυπωτής (με περιοχή dump)</t>
+<t id="L_ROSTOCK_CIRCLE" ver="6">Εκτυπωτής Rostock (κυκλικό σχήμα εκτύπωσης)</t>
+<t id="L_CORRECT_NORMALS" ver="7">Use correct normals (φαίνεται καλυτερα, χρειάζεται περισσότερη μνήμη)</t>
+<t id="L_WARNING" ver="8">Προειδοποίηση</t>
+<t id="L_HEATERS_ON_QUEST" ver="8">Μερικοί θερμαντήρες είναι ακόμη ενεργοποιημένοι. Να τους απενεργοποιήσω?</t>
+<t id="L_OBJECTS_OUTSIDE_SLICE_QUEST" ver="8">Τουλάχιστον ένα αντικείμενο είναι έξω από την εκτυπώσιμη περιοχή. Να απορριφθεί ο τεμαχισμός;</t>
+<t id="L_CNC_ROUTER" ver="8">CNC Router</t>
+<t id="L_SLIC3R_VERSION" ver="8">Έκδοση Slic3r</t>
+  <t id="L_SLIC3R_PE_VERSION" ver="8">Έκδοση PrusaSlicer</t>
+  <t id="L_MODEL_ERRORS" ver="9">Σφάλματα Μοντέλου:</t>
+<t id="L_SPLIT" ver="9">Διαχωρισμός</t>
+<t id="L_YES" ver="9">Ναι</t>
+<t id="L_NO" ver="9">Όχι</t>
+<t id="L_MODEL_CHANGED_RELOAD" ver="9"><![CDATA[Ένα ή περισσότερα αρχεία αντικειμένων αλλάξαν.
+Να ξαναφορτωθούν τα αντικείμενα;]]></t>
+<t id="L_FILES_CHANGED" ver="9">Τα Αρχεία Αλλάξαν</t>
+<t id="L_INNER_FACES" ver="9">Εσωτερικές Επιφάνειες:</t>
+<t id="L_BACKGROUND_TOP" ver="9">Φόντο Top:</t>
+<t id="L_BACKGROUND_BOTTOM" ver="9">Φόντο Bottom:</t>
+<t id="L_PRINTER_FRAME" ver="9">Πλαίσιο Εκτυπωτή:</t>
+<t id="L_ISOMETRIC_VIEW" ver="9">Ισομετρική Άποψη</t>
+<t id="L_BOTTOM_VIEW" ver="9">Κάτω Άποψη</t>
+<t id="L_LEFT_VIEW" ver="9">Αριστερή Άποψη</t>
+<t id="L_RIGHT_VIEW" ver="9">Δεξιά Άποψη</t>
+<t id="L_FRONT_VIEW" ver="9">Εμπρόσθια Άποψη</t>
+<t id="L_BACK_VIEW" ver="9">Οπίσθια Άποψη</t>
+<t id="M_VIEW" ver="9">Άποψη</t>
+<t id="M_SHOW_EDGES" ver="9">Εμφάνιση Ακμών</t>
+<t id="M_SHOW_FACES" ver="9">Εμφάνιση Επιφανειών</t>
+<t id="L_ANA_MODIFIED" ver="9">Τροποποιημένο:</t>
+<t id="L_ANA_MANIFOLD" ver="9">Manifold:</t>
+<t id="L_ANA_INTERSECTING_TRIANGLES" ver="9">Αλληλοτεμνόμενα Τρίγωνα:</t>
+<t id="L_ANA_NORMALS" ver="9">Normals:</t>
+<t id="L_ANA_LOOP_EDGES" ver="9">Loop Edges:</t>
+<t id="L_ANA_HIGHLY_CONNECTED" ver="9">Highly Connected Edges:</t>
+<t id="L_ANA_VERTICES" ver="9">Σημεία:</t>
+<t id="L_ANA_EDGES" ver="9">Ακμές:</t>
+<t id="L_ANA_FACES" ver="9">Επιφάνειες:</t>
+<t id="L_ANA_SHELLS" ver="9">Κελύφη:</t>
+<t id="L_ANA_ORIENTED" ver="9">Προσανατολισμένα</t>
+<t id="L_ANA_NOT_ORIENTED" ver="9">Μη Προσανατολισμένα</t>
+<t id="M_TOOLS" ver="9">Εργαλεία</t>
+<t id="M_BELT_CALCULATOR" ver="9">Υπολογιστής Ιμάντα</t>
+<t id="M_LEADSCREW_CALCULATOR" ver="9">Υπολογιστής Κοχλία</t>
+<t id="L_MOTOR_STEP_ANGLE" ver="9">Γωνία Βήματος</t>
+<t id="L_DRIVER_MICROSTEPPING" ver="9">Μικροβηματισμός Οδηγού</t>
+<t id="L_BELT_PITCH" ver="9">Βήμα Ιμάντα</t>
+<t id="L_TOOTH_COUNT" ver="9">Πλήθος Δοντιών</t>
+<t id="B_CALCULATE" ver="9">Υπολόγισε</t>
+<t id="L_STEPS_PER_MM" ver="9">Αριθμός βημάτων ανά mm</t>
+<t id="L_TOOTH_COUNT_MUST_INT" ver="9">Το πλήθος των δοντιών πρέπει να είναι ακέραιος</t>
+<t id="L_LEADSCREW_PITCH" ver="9">Βήμα κοχλία</t>
+<t id="L_GEAR_RATIO" ver="9">Λόγος Γραναζιών</t>
+<t id="L_SERIAL_CONNECTION" ver="9">Σειριακή Σύνδεση</t>
+<t id="L_VIRTUAL_CONNECTION" ver="9">Εικονικός Εκτυπωτής</t>
+<t id="L_REPETIER_SERVER_CONNECTION" ver="9">Repetier-Server</t>
+<t id="L_CONNECTOR" ver="9">Σύνδεση</t>
+<t id="L_DISABLED" ver="9">Απενεργοποιημένος</t>
+<t id="L_DTR_LOW_HIGH" ver="9">DTR high->low</t>
+<t id="L_DTR_LOW_HIGH_LOW" ver="9">DTR low->high->low</t>
+<t id="L_DTR_TOGGLE" ver="9">DTR toggle</t>
+<t id="L_RESET_ON_CONNECT" ver="9">Reset κατά τη Σύνδεση</t>
+<t id="L_RESET_ON_EMERGENCY" ver="9">Reset on Emergency</t>
+<t id="L_SEND_EMERGENCY_CMD" ver="9">Αποστολή Εντολής Επείγοντος</t>
+<t id="L_SEND_EMERGENCY_CMD_DTR_TOGGLE" ver="9">Αποστολή Εντολής Επείγοντος + DTR high->low</t>
+<t id="L_SEND_EMERGENCY_CMD_RECONNECT" ver="9">Αποστολή Εντολής Επείγοντος και Επανασύνδεση</t>
+<t id="L_FILE_ASSOCIATIONS" ver="9">Συσχετίσεις Αρχείων</t>
+<t id="L_ASSOCIATE_EXTENSIONS" ver="9">Συσχέτισε Επεκτάσεις</t>
+<t id="L_CONNECTION_FAILED" ver="9">Η σύνδεση απέτυχε με το παρακάτω σφάλμα: $1. Βεβαιωθείτε ότι ο εκτυπωτής είναι συνδεμένος, ενεργοποιημένος και οι ρυθμίσεις σύνδεσης σωστές. Να ανοίξω τις ρυθμίσεις του εκτυπωτή?</t>
+<t id="L_AUTOENABLE_PARALLEL_TOPVIEW" ver="9">Ενεργοποίηση παράλληλου τρόπου σε απόψεις από πάνω</t>
+<t id="L_RESET_DEFAULTS" ver="9">Επαναφορά στις Προεπιλογές</t>
+<t id="L_REMOVED_DEGENERATED" ver="9">Removed degenerated triangles:</t>
+<t id="L_REMOVED_ISOLATED" ver="9">Τα Απομονωμένα τρίγωνα Απομακρύνθηκαν:</t>
+<t id="L_REMOVED_DOUBLE" ver="9">Τα Διπλά τρίγωνα Απομακρύνθηκαν:</t>
+<t id="L_STARTING_ANALYSER" ver="9">Εκκίνηση Αναλυτή Αντικειμένου ...</t>
+<t id="L_ANALYSER_FINISHED" ver="9">Ολοκλήρωση Ανάλυσης.</t>
+<t id="L_LOADING_3D_FAILED" ver="9">Η φόρτωση των αρχείων 3d $1 απέτυχε.</t>
+<t id="L_OBJECT_INFORMATIONS" ver="9">Πληροφορίες Αντικειμένων</t>
+<t id="L_MINIMUM:" ver="9">Minimum:</t>
+<t id="L_MAXIMUM:" ver="9">Maximum:</t>
+<t id="L_SIZE:" ver="9">Μέγεθος:</t>
+<t id="L_VOLUME:" ver="9">Όγκος:</t>
+<t id="L_SURFACE:" ver="9">Επιφάνεια:</t>
+<t id="L_DIMENSIONS:" ver="9">Διαστάσεις:</t>
+<t id="L_SPLIT_OBJECT" ver="9">Διαχωρισμός Αντικειμένου</t>
+<t id="L_FIX_NORMALS" ver="9">Fix Normals</t>
+<t id="M_FIT_PRINTER" ver="9">Προσαρμογή Εκτυπωτή</t>
+<t id="M_FIT_OBJECTS" ver="9">Προσαρμογή Αντικειμένων</t>
+<t id="IMPORTING_1" ver="9">Εισαγωγή $1</t>
+<t id="L_LOADING..." ver="9">Φόρτωση ...</t>
+<t id="L_INTERSECTION_TESTS" ver="9">Έλεγχοι Διασταυρώσεων</t>
+<t id="L_FIXING_NORMALS" ver="9">Διόρθωση normals</t>
+<t id="L_ANA_FIXED_COLLINEAR_TRIANGLES" ver="9">Σταθερά συγγραμικά τρίγωνα:</t>
+<t id="L_ANA_CORRECTED_NORMAL_ORIENTATIONS" ver="9">Διορθωμένοι normal προσανατολισμοί:</t>
+<t id="L_OBJECT_IS_MANIFOLD" ver="9">Το αντικείμενο είναι manifold.</t>
+<t id="L_OBJECT_IS_NON_MANIFOLD" ver="9">Το αντικείμενο δεν είναι manifold. Ο τεμαχισμός μπορεί να παράγει λανθασμένα αποτελέσματα. Παρακαλούμε πρώτα να επιδιορθώσετε τα αρχείο του αντικειμένου.</t>
+<t id="L_SHOW_COMPASS" ver="9">Εμφάνιση Πυξίδας</t>
+<t id="L_CONFIRM_DELETE_JOB" ver="10">Είστε σίγουροι ότι θέλετε να διαγράψετε την εργασία $1?</t>
+<t id="L_PRINT_STATE_SAVED_SUCCESSFULLY" ver="10">Επιτυχής Αποθήκευση Κατάστασης</t>
+<t id="M_POSPONED_JOBS" ver="10">Αναβληθείσες Εργασίες</t>
+<t id="M_RESUME_JOB" ver="10">Συνέχισε</t>
+<t id="M_POSTPONE_JOB" ver="10">Αναβολή τρέχουσας εργασίας</t>
+<t id="W_POSTPONED_PRINT_JOBS" ver="10">Αναβληθείσα Εργασία Εκτύπωσης</t>
+<t id="M_POSTPONED_JOB_SELECT_JOB" ver="10">Συνέχισε την Εργασία</t>
+<t id="M_POSTPONED_JOB_KILL_JOB" ver="10">Διαγραφή Εργασίας</t>
+<t id="M_POSTPONED_JOB_RENAME_JOB" ver="10">Μετονόμασε την Εργασία</t>
+<t id="L_POSTPONED_JOB_NAME" ver="10">Όνομα Εργασίας</t>
+<t id="L_NAME_POSTPONED_JOB" ver="10">Παρακαλώ ονομάστε την εργασία</t>
+<t id="L_POSTPONED_JOB_DIALOG_DESCRIPTION" ver="10">Η κατάσταση της εργασίας θα αποθηκευτεί, μόλις ολοκληρωθεί το τρέχον επίπεδο. Μπορείτε επίσης να εξαναγκάσετε άμεση αποθήκευση της εργασίας ή να συνεχίσετε την εκτύπωση.</t>
+<t id="B_FORCE_SAVE_POSTPONED_JOB" ver="10">&amp;Δύναμη</t>
+<t id="B_RESUME_PRINTING_JOB" ver="10">&amp;Να Συνεχίσω</t>
+<t id="W_POSTPONED_JOB_DIALOG" ver="10">Αναβολή Εργασίας Εκτύπωσης</t>
+<t id="M_TOGGLE_PRINTER_ID" ver="10">Εναλλαγή Εικόνας Ταυτότητας Εκτυπωτή</t>
+<t id="L_PRINTER_ID" ver="10">ID Εκτυπωτή </t>
+<t id="L_BGCOLOR:" ver="10">Χρώμα Υποβάθρου:</t>
+<t id="L_EDIT_INSTANCE_NAME" ver="10">Επεξεργασία ταυτότητας (ID) εκτυπωτή</t>
+<t id="L_ANAYLSING" ver="10">Ανάλυση</t>
+<t id="L_NOT_TESTED" ver="10">Δεν Ελέγχθηκε</t>
+<t id="L_CONNECTOR:" ver="10">Σύνδεση:</t>
+<t id="L_NORMAL_CORRECTION_IMPOSSIBLE" ver="10">Normal correction δεν είναι δυνατή για μη manifold πλέγματα.</t>
+<t id="M_MED_HEIGHT_MAP" var="10">Χάρτης Ύψους Κρεβατιού</t>
+<t id="M_CREATE_HEIGHT_MAP" var="10">Δημιουργία Χάρτη Ύψους</t>
+<t id="B_MEASURE_HEIGHTS" ver="10">Μέτρηση Υψών</t>
+<t id="B_RESULT_TO_CLIPBOARD" ver="10">Αποτέλ. στο Clipboard</t>
+<t id="L_SCAN_AREA" ver="10">Σάρωση Περιοχής</t>
+<t id="L_SCAN_RESULTS" ver="10">Αποτελέσματα Σάρωσης</t>
+<t id="L_X_POINTS:" ver="10">X σημεία:</t>
+<t id="L_Y_POINTS:" ver="10">Y σημεία:</t>
+<t id="L_Z_MIN:" ver="10">Z min:</t>
+<t id="L_Z_MAX:" ver="10">Z max:</t>
+<t id="L_Z_AVG:" ver="10">Z avg:</t>
+<t id="L_Z_CENTER:" ver="10">Z Center</t>
+<t id="L_CUT_FACES" ver="10">Cut Objects</t>
+<t id="L_CUT_POSITION" ver="10">Θέσεις</t>
+<t id="L_CUT_INCLINATION" ver="10">Κλίση (Inclination)</t>
+<t id="L_CUT_AZIMUTH" ver="10">Αζιμούθιο</t>
+<t id="UNITS_OF_IMPORTED_OBJECTS" ver="10">Μονάδες Εισαγόμενων Αντικειμένων</t>
+<t id="OBJECTS_ARE_IN_MILLIMETER" ver="10">Τα Αντικείμενα είναι σε χιλιοστά</t>
+<t id="OBJECTS_ARE_IN_INCHES" ver="10">Τα Αντικείμενα είναι σε ίντσες</t>
+<t id="OBJECTS_ARE_IN_FOOT" ver="10">Τα Αντικείμενα είναι σε πόδια</t>
+<t id="OBJECTS_ARE_IN_METER" ver="10">Τα Αντικείμενα είναι σε μέτρα</t>
+<t id="B_RESET" ver="10">Reset</t>
+<t id="L_SLIC3RPE_INFO2" ver="10">Το PrusaSlicer είναι ένα ξεχωριστό, εξωτερικό πρόγραμμα, το οποίο μπορεί να ξεκινήσει ξεχωριστά. Για επιπλέον πληροφορίες, παρακαλούμε επισκεφτείτε την ακόλουθη ιστοσελίδα: https://www.prusa3d.com/prusaslicer/</t>
+  <t id="L_SLIC3R_INFO2" ver="10">Το Slic3r είναι ένα ξεχωριστό, εξωτερικό πρόγραμμα, το οποίο μπορεί να ξεκινήσει ξεχωριστά. Για επιπλέον πληροφορίες, παρακαλούμε επισκεφτείτε την ακόλουθη ιστοσελίδα: http://slic3r.org</t>
+  <t id="L_SKEINFORGE_INFO" ver="10">Το Skeinforge είναι ένα ξεχωριστό, εξωτερικό πρόγραμμα, το οποίο μπορεί να ξεκινήσει ξεχωριστά.Για επιπλέον πληροφορίες, παρακαλούμε επισκεφτείτε την ακόλουθη ιστοσελίδα: http://fabmetheus.crsndoo.com/</t>
+<t id="L_PRINT_SETTINGS:" ver="10">Ρυθμίσεις Εκτύπωσης:</t>
+<t id="L_PRINTER_SETTINGS:" ver="10">Ρυθμίσεις Εκτυπωτή:</t>
+<t id="L_OVERRIDE_SLIC3R_SETTINGS" ver="10">Αντικατάσταση των ρυθμίσεων του Slic3r</t>
+  <t id="L_OVERRIDE_SLIC3R_PE_SETTINGS" ver="10">Αντικατάσταση των ρυθμίσεων του PrusaSlicer</t>
+  <t id="B_COPY_PRINT_SETTINGS_TO_OVERRIDE" ver="10">Copy Print Settings to Override</t>
+<t id="L_ENABLE_SUPPORT" ver="10">Ενεργοποίηση Υποστύλωσης</t>
+<t id="L_ENABLE_COOLING" ver="10">Ενεργοποίηση Ψύξης</t>
+<t id="L_LAYER_HEIGHT:" ver="10">Ύψος Επιπέδου:</t>
+<t id="L_INFILL_DENSITY" ver="10">Πυκνότητα Γεμίσματος</t>
+<t id="L_INFILL_ANGLE" ver="10">Γωνία Γεμίσματος</t>
+<t id="L_INFILL_PATTERN:" ver="10">Σχέδιο Γεμίσματος:</t>
+<t id="L_SOLID_INFILL_PATTERN:" ver="10">Σχέδ. Συμπαγ.Γεμίσμ. (Solid Infill Pattern):</t>
+<t id="L_SHOW_EXTRUDER" ver="10">Εμφάνιση Extruder</t>
+<t id="L_SHOW_BED" ver="10">Εμφάνιση κρεβατιού</t>
+<t id="L_SHOW_OUTPUT" ver="10">Εμφάνιση Εξόδου</t>
+<t id="L_SHOW_TARGET_TEMPERATURES" ver="10">Επιθυμητή Θερμοκρασία</t>
+<t id="L_SHOW_AVERAGE_TEMPERATURES" ver="10">Μέση Θερμοκρασία</t>
+  <t id="L_NOT_VALID_SD_FILENAME" ver="10">Το όνομα του αρχείου περιέχει μη επιτρεπτούς χαρακτήρες ή είναι πολύ μεγάλο. Μη χρησιμοποιείτε περισσότερους από 26 χαρακτήρες.</t>
+  <t id="B_ADD_SLICER" ver="10">Προσθήκη τεμαχιστή</t>
+  <t id="B_DELETE" ver="10">Διαγραφή</t>
+  <t id="L_SLICER" ver="10">Τεμαχιστής</t>
+  <t id="L_CONFIGURATION:" ver="10">Διαμόρφωση:</t>
+  <t id="L_SETUP" ver="10">Setup</t>
+  <t id="L_SLICER_CONFIGURATIONS" ver="10">Διαμόρφωση Τεμαχιστή</t>
+  <t id="L_NAME" ver="10">Όνομα</t>
+  <t id="L_SLICER_MANAGER" ver="10">Διαχειριστής</t>
+  <t id="L_ASK_LOAD_GCODE" ver="10">Ο Τεμαχιστής δημιούργησε ένα νέο Αρχείο Κώδικα - g-code file.Να το φορτώσω?</t>
+  <t id="L_QUESTION" ver="10">Ερώτηση</t>
+  <t id="L_FILE_TYPES:" ver="10">Τύποι Αρχείων:</t>
+  <t id="L_WATCHDIRECTORY_INFO" ver="10">Ο Κατάλογος Παρατήρησης (watch directory) εμφανίζει του τύπους αρχείων που ορίστηκαν παραπάνω. 
+Διαχωρίστε τους διάφορους τύπους με άνω και κάτω τελεία όπως &quot;g;gcode&quot;. Κάθε εκτυπωτής έχει τις δικές του ρυθμίσεις καταλόγου, which gets watched. Εάν ένα αρχείο είναι νέο ή άλλαξε, όταν μεταβαίνετε στο Repetier-Host θα εμφανίσει και θα υπογραμμίσει τα αρχεία για γρήγορη εισαγωγή.</t>
+  <t id="B_LOAD" ver="10">Φόρτωσε</t>
+  <t id="L_CHANGED" ver="10">Μεταβλήθηκε</t>
+  <t id="L_NEW" ver="10">Νέο</t>
+  <t id="L_DIRECTORY:" ver="10">Κατάλογος:</t>
+  <t id="L_ACTION" ver="10">Ενέργεια</t>
+  <t id="L_FILE" ver="10">Αρχείο</t>
+  <t id="L_STATUS" ver="10">Κατάσταση</t>
+  <t id="L_SEND_ETA_DISPLAY" ver="10">Αποστολή ETA στον ενδείκτη του εκτυπωτή</t>
+  <t id="L_ETA_SHORT$1" ver="10">ETA $1</t>
+  <t id="L_ETE_SHORT$1" ver="10">ETE $1</t>
+  <t id="L_CACHING..." ver="10">Caching ... $1%</t>
+  <t id="M_MAKE_SCREENSHOT" ver="10">Αποθήκευση Στιγμιοτύπων Οθόνης</t>
+  <t id="PNG_FILTER" ver="10">PNG-Εικόνες|*.png</t>
+  <t id="L_INVALID_FILENAME" ver="10">Άκυρο Όνομα Αρχείου.</t>
+  <t id="L_EEPROM_IMPORT_FAILED" ver="10">Η εισαγωγή δεδομένων eeprom απέτυχε. Λανθασμένη μορφή δεδομένων.</t>
+  <t id="L_EXPORT_EEPROM_DATA" ver="10">Εξαγωγή Δεδομένων EEPROM</t>
+  <t id="L_IMPORT_EEPROM_DATA" ver="10">Εισαγωγή δεδομένων EEPROM</t>
+<t id="L_TIME_H" ver="10">$1h </t>
+<t id="L_TIME_M" ver="10">$1m </t>
+<t id="L_SHOW_OUTPUT_EXTRUDER" ver="10">Έξοδος Extruder</t>
+<t id="L_SHOW_OUTPUT_BED" ver="10">Έξοδος Κρεβατιού</t>
+<t id="M_SHOW_BED_POWER" ver="10">Εμφάνιση Ισχύος Κρεβατιού</t>
+  <t id="L_ENABLE_ANTI_ALIAS" ver="10">Ενεργοποιείστε το anti-aliasing εάν είναι δυνατόν (επιβραδύνει την απεικόνιση, απαιτείται επανεκκίνηση)</t>
+  <t id="L_MODEL_ERRORS_EDGE:" ver="10">Σφάλματα Μοντέλου (edge):</t>
+  <t id="L_CUT_FACES:" ver="10">Αποκοπή Επιφανειών:</t>
+  <t id="L_NOT_MANIFOLD_INFO" ver="11">Το αντικείμενο δεν είναι manifold. Αυτό ουσιαστικά σημαίνει ότι δεν είναι υδατοστεγές.
+Αυτό συνήθως δημιουργεί προβλήματα κατά τον τεμαχισμό, καταλλήγοντας σε ανεπιθύμητα αποτελέσματα.
+Συνιστούμε έντονα να επισκευάσετε το αρχείο. Μία δωρεάν υπηρεσία επισκευής είναι: https://tools3d.azurewebsites.net </t>
+  <t id="L_EXPERT_MODE" ver="11">Expert Mode</t>
+<t id="L_CURAENGINE_EXECUTABLE" ver="11">Εκτελέσιμο CuraEngine</t>
+<t id="L_CURAENGINE_INFO" ver="11">Η CuraEngine είναι ένα ξεχωριστό, εξωτερικό πρόγραμμα που αναπτύχθηκε από τον David Braam. Για περισσότερες πληροφορίες επισκεφτείτε την ιστοσελίδα https://www.ultimaker.com</t>
+<t id="L_CURAENGINE_NOT_FOUND" ver="11">Δεν βρέθηκε η CuraEngine.</t>
+  <t id="L_ANY_EXTRUDER" ver="11">Οποιοσδήποτε Extruder</t>
+  <t id="L_PUSH_MESSAGES" ver="11">Push-Messages</t>
+  <t id="L_INFORMER_ACTIVE" ver="11">Ενεργοποίησε τα  Push-Messages</t>
+  <t id="L_INFORMER_GROUP" ver="11">Informer-Group:</t>
+  <t id="L_PUSH_PRINT_FINISHED" ver="11">Ολοκλήρωση Εκτύπωσης</t>
+  <t id="L_PUSH_PRINT_PAUSED" ver="11">Παύση Εκτύπωσης</t>
+  <t id="L_PUSH_PRINT_STARTED" ver="11">Ξεκίνημα Εκτύπωσης</t>
+  <t id="L_PUSH_PRINT_STOPPED" ver="11">Σταμάτημα Εκτύπωσης</t>
+  <t id="L_PUSH_SLICING_FINISHED" ver="11">Ολοκλήρωση Τεμαχισμού</t>
+  <t id="L_PUSH_FATAL_ERRORS" ver="11">Κρίσιμα Σφάλματα</t>
+  <t id="L_PUSH_SEND_FOR" ver="11">Αποστολή Μηνυμάτων για τα Ακόλουθα Συμβάντα:</t>
+  <t id="L_TEST" ver="11">Έλεγχος</t>
+  <t id="L_INFORMER_INSTRUCTIONS" ver="11">Το Repetier-Informer είναι μία εφαρμογή  smartphone η οποία σας επιτρέπει να λαμβάνετε ειδοποιήσεις  push. Στην εφαρμογή μπορείτε να δημιουργήσετε νέες ομάδες ή να χρησιμοποιήσετε διαμοιραζόμενες ομάδες. Εδώ εισάγετε την ομάδα στην οποία θέλετε να στείλει ο υπολογιστής ειδοποίηση. Όλα τα μέλη της ομάδας θα λάβουν τα απεσταλμένα μηνύματα.</t>
+  <t id="L_VISIT_INFORMER" ver="11">Επισκεφτείτε την ιστοσελίδα του Repetier-Informer</t>
+  <t id="L_HOST_NAME:" ver="11">Όνομα Υπολογιστή:</t>
+  <t id="L_PUSH_HEAD_STARTED" ver="11">Ξεκίνημα Εκτύπωσης</t>
+  <t id="L_PUSH_MSG_STARTED" ver="11">Ξεκίνησε η εκτύπωση στον εκτυπωτή $1. Η εκτύπωση θα ολοκληρωθεί περίπου $2.</t>
+  <t id="L_PUSH_HEAD_PAUSED" ver="11">Παύση Εκτύπωσης</t>
+  <t id="L_PUSH_MSG_PAUSED" ver="11">Η εκτύπωση στον εκτυπωτή $1 σταμάτησε. Μήνυμα: $2</t>
+  <t id="L_PUSH_HEAD_FINISHED" ver="11">Ολοκλήρωση Εκτύπωσης</t>
+  <t id="L_PUSH_MSG_FINISHED" ver="11">Ολοκληρώθηκε η εκτύπωση στον εκτυπωτή $1. Χρόνος εκτύπωσης: $2. Γραμμές που έχουν σταλεί στον εκτυπωτή: $3</t>
+  <t id="L_PUSH_HEAD_KILLED" ver="11">Η Εκτύπωση Σταμάτησε</t>
+  <t id="L_PUSH_MSG_KILLED" ver="11">Η εκτύπωση του εκτυπωτή $1 σταμάτησε πριν την ολοκλήρωσή της.</t>
+  <t id="L_PUSH_HEAD_SLICING" ver="11">Ο Τεμαχισμός Ολοκληρώθηκε</t>
+  <t id="L_PUSH_MSG_SLICING" ver="11">Ο τεμαχισμός για τον εκτυπωτή $1 είναι ολοκληρωμένος.</t>
+  <t id="L_PUSH_HEAD_FATAL" ver="11">Κρίσιμο Σφάλμα</t>
+  <t id="L_PUSH_MSG_FATAL" ver="11">Παρουσιάστηκε ένα κρίσιμο Σφάλμα του εκτυπωτή $1. Μήνυμα: $2</t>
+  <t id="L_CURA_EXTRUDER_INFO" ver="11">Η CuraEngine υποστηρίζει μία διάμετρο extruder και τιμή ροής, επειδή υποθέτει ταυτόσημους extruders. Εάν έχετε πολλούς extruder με διαφορετικές ρυθμίσεις, οι τιμές του πρώτου extruder θα χρησιμοποιηθούν για όλους. Η θερμοκρασία εκτύπωσης καθορίζεται στον κώδικα-g start, έτσι η χρήση διαφορετικών θερμοκρασιών για διαφορετικά υλικά δεν είναι πρόβλημα.Για τη ψύξη χρησιμοποιούνται οι υψηλότερες τιμές όλων των extruders are used.</t>
+  <t id="L_TCPIP_CONNECTION" ver="11">Σύνδεση TCP/IP</t>
+  <t id="L_IP_ADDRESS:" ver="11">Διεύθυνση IP:</t>
+  <t id="L_INFORMER_GROUP_INFO" ver="11">Ταυτότητα (id) ομάδας προορισμού από το app.</t>
+  <t id="L_INFORMER_HOST_NAME_INFO" ver="11">Προαιρετικό. Προστίθεται στον τίτλο των αποστελλόμενων Μηνυμάτων.</t>
+  <t id="L_INFORMER_TEST_FAILED" ver="11">Δεν μπόρεσε να κληθεί ο server πληροφοριών.</t>
+<t id="L_OBJECT_GROUP_%" ver="11">Ομάδα Αντικειμένων $1</t>
+  <t id="L_NOT_COMPUTED" ver="11">Δεν Υπολογίστηκε</t>
+  <t id="L_ANALYSE" ver="11">Ανάλυσε</t>
+  <t id="L_ANALYSIS" ver="11">Ανάλυση</t>
+  <t id="L_SETTINGS" ver="11">Ρυθμίσεις</t>
+  <t id="L_FILENAME:" ver="11">Όνομα Αρχείου:</t>
+  <t id="L_ASSIGNED_EXTRUDER:" ver="11">Αντιστοιχισμένος Extruder:</t>
+  <t id="L_ASSIGNED_OBJECT:" ver="11">Αντιστοιχισμένο Αντικείμενο:</t>
+  <t id="L_EXTRACT_FROM_GROUP" ver="11">Εξαγωγή από Ομάδα</t>
+  <t id="L_SHOW_PLATER" ver="11">Εμφάνισε τον Plater μέσα στο Slic3r</t>
+  <t id="L_PRINT" ver="11">Εκτύπωση</t>
+  <t id="L_SPEED_AND_QUALITY" ver="11">Ταχύτητα και Ποιότητα</t>
+  <t id="L_EXTRUSION" ver="11">Extrusion</t>
+  <t id="L_STRUCTURES" ver="11">Δομές</t>
+  <t id="L_G-CODES" ver="11">G-Codes</t>
+  <t id="L_COOLING" ver="11">Ψύξη</t>
+  <t id="L_GENERAL_EXTRUDER_SETTINGS" ver="11">Γενικές Ρυθμίσεις Extruder</t>
+  <t id="L_INFILL" ver="11">Infill</t>
+  <t id="L_MESH_ERRORS" ver="11">Mesh Errors</t>
+  <t id="L_MULTI_EXTRUDER_SETTINGS" ver="11">Ρυθμίσεις Πολλαπλών Extruder</t>
+  <t id="L_QUALITY" ver="11">Ποιότητα</t>
+  <t id="L_RAFT" ver="11">Raft</t>
+  <t id="L_SELECTED_QUALITY_SETTING" ver="11">Ρυθμίσεις Επιλεγμένης Ποιότητας</t>
+  <t id="L_SKIRT_AND_BRIM" ver="11">Skirt and Brim</t>
+  <t id="L_SPEED" ver="11">Ταχύτητα</t>
+  <t id="L_SUPPORT" ver="11">Υποστήριξη</t>
+  <t id="L_BED_TEMPERATURE:" ver="11">Θερμοκρασία Κρεβατιού:</t>
+  <t id="L_BRIM_WIDTH:" ver="11">Πλάτος χείλους:</t>
+  <t id="L_INFILL_DENSITY:" ver="11">Πυκνότητα Γεμίσματος:</t>
+  <t id="L_INFILL_OVERLAP:" ver="11">Αλληλεπικάλυψη Γεμίσματος:</t>
+  <t id="L_INFILL_TYPE:" ver="11">Σχέδιο Γεμίσματος:</t>
+  <t id="L_MAX_FAN_SPEED:" ver="11">Max. Ταχύτητα Ανεμιστήρα:</t>
+  <t id="L_MIN_FAN_SPEED:" ver="11">Min. Ταχύτητα Ανεμιστήρα:</t>
+  <t id="L_MIN_EXTR_BEFORE_RETRACT:" ver="11">Ελάχιστη Extrusion πριν την Επιστροφή:</t>
+  <t id="L_MIN_LAYER_TIME:" ver="11">Ελάχιστος Χρόνο Επιπέδου:</t>
+  <t id="L_MIN_SKIRT_LENGTH:" ver="11">Ελάχιστο Μήκος Skirt:</t>
+  <t id="L_MIN_TRAVEL_BEFORE_RETRACT:" ver="11">Ελάχιστη Διαδρομή πριν την Επιστροφή:</t>
+  <t id="L_OVERHANG_ANGLE:" ver="11">Γωνία Overhang:</t>
+  <t id="L_PRINT_SPEED:" ver="11">Ταχύτητα Εκτύπωσης:</t>
+  <t id="L_PRINT_TEMPERATURE:" ver="11">Θερμοκρασία Εκτύπωσης:</t>
+  <t id="L_NAME:" ver="11">Όνομα:</t>
+  <t id="L_EXTRA_MARGIN:" ver="11">Επιπλέον Περιθώριο:</t>
+  <t id="L_BASE_LINE_WIDTH:" ver="11">Πάχος Γραμμής Βάσης:</t>
+  <t id="L_LINE_SPACING:" ver="11">Απόσταση Γραμμών:</t>
+  <t id="L_BASE_LINE_THICKNESS:" ver="11">Πάχος Βασικής Γραμμής:</t>
+  <t id="L_INTERFACE_LINE_WIDTH:" ver="11">Πλάτος γραμμών Διασύνδεσης:</t>
+  <t id="L_INTERFACE_THICKNESS:" ver="11">Πάχος Διασύνδεσης:</t>
+  <t id="L_RETRACTION_DISTANCE:" ver="11">Απόσταση Επιστροφής:</t>
+  <t id="L_RETRACTION_ON_EXTRUDER_SWITCH:" ver="11">Retraction on Extruder Switch:</t>
+  <t id="L_RETRACTION_SPEED:" ver="11">Ταχύτητα επιστροφής:</t>
+  <t id="L_SKIRT_DISTANCE:" ver="11">Απόσταση περιζώματος:</t>
+  <t id="L_SKIRT_LINE_COUNT:" ver="11">Αριθμός γραμμής περιζώματος:</t>
+  <t id="L_FAST" ver="11">Γρήγορα</t>
+  <t id="L_SLOW" ver="11">Αργά</t>
+  <t id="L_INNER_PERIMETER:" ver="11">Εσωτερική Περίμετρος</t>
+  <t id="L_OUTER_PERIMETER:" ver="11">Εξωτερική Περίμετρος</t>
+  <t id="L_SUPPORT_EXTRUDER:" ver="11">Support Extruder:</t>
+  <t id="L_SUPPORT_TYPE:" ver="11">Τύπος Υποστυλωμάτων:</t>
+  <t id="L_TOP/BOTTOM_THICKNESS:" ver="11">Πάχος Top/Bottom:</t>
+  <t id="L_VOLUME_OVERLAP:" ver="11">Επικάλυψη Όγκου:</t>
+  <t id="L_WIPE_AND_PRIME_VOLUME:" ver="11">Όγκος Καθαρισμού και Προετοιμασίας:</t>
+  <t id="L_Z_HOP:" ver="11">Z Hop:</t>
+  <t id="L_SHELL_THICKNESS:" ver="11">Πάχος κελύφους:</t>
+  <t id="L_DISTANCE_XY:" ver="11">Απόσταση XY:</t>
+  <t id="L_DISTANCE_Z:" ver="11">Απόσταση Z:</t>
+  <t id="L_GCODE_FLAVOUR:" ver="11">G-Code Flavour:</t>
+  <t id="L_FLOW:" ver="11">Ροή:</t>
+  <t id="L_DEFAULT_QUALITY:" ver="11">Προεπιλεγμένη Ποιότητα:</t>
+  <t id="L_FIRST_LAYER_HEIGHT:" ver="11">Ύψος Πρώτου Επιπέδου:</t>
+  <t id="L_COMBINE_EVERYTHING_A" ver="11">Combine Everything (Type A)</t>
+  <t id="L_COMBINE_EVERYTHING_B" ver="11">Combine Everything (Type B)</t>
+  <t id="L_MINIMIZE_CROSSING_PERIMETERS" ver="11">Ελαχιστοποίηση Διασταυρούμενων Περιμέτρων</t>
+  <t id="L_ENABLE_RETRACTION" ver="11">Επίτρεψη Επαναφοράς</t>
+  <t id="L_EXTENSIVE_STITCHING" ver="11">Εκτεταμένο Ράψιμο</t>
+  <t id="L_KEEP_OPEN_FACES" ver="11">Διατήρησε τις Ανοικτές Επιφάνειες</t>
+  <t id="L_CREATE_OOZE_SHIELD" ver="11">Δημιουργία Θωράκισης κατά του σταξίματος</t>
+  <t id="L_CREATE_WIPE_PRIME" ver="11">Create Wipe and Prime Tower</t>
+  <t id="L_SPIRALIZE_CONTOUR" ver="11">Spiralize Contour</t>
+  <t id="L_SOLID_TOP_INFILL" ver="11">Συμπαγές Γέμισμα Κορυφής</t>
+  <t id="L_SOLID_BOTTOM_INFILL" ver="11">Συμπαγές παραγέμισμα πάτου</t>
+  <t id="L_COOL_HEAD_LIFT" ver="11">Ανύψωση Κρύας Κορυφής</t>
+  <t id="L_FILL_AMOUNT:" ver="11">Ποσότητα Γεμίσματος:</t>
+  <t id="L_CURAENGINE_SETTINGS" ver="11">Ρυθμίσεις CuraEngine</t>
+  <t id="L_PRINT_CONFIGURATION:" ver="11">Διαμόρφωση Εκτύπωσης:</t>
+  <t id="L_ADHESION_TYPE:" ver="11">Τύπος προσκόλλησης:</t>
+  <t id="L_SPEED:" ver="11">Ταχύτητα:</t>
+  <t id="B_SAVE_AS" ver="11">Αποθήκευση Ως ...</t>
+  <t id="L_AIR_GAP:" ver="11">Κενό Αέρα:</t>
+  <t id="L_NUM_SURFACE_LAYER:" ver="11">Αριθμ. Επιφανειακό Επίπεδο:</t>
+  <t id="L_NONE" ver="11">Τίποτα</t>
+  <t id="L_BRIM" ver="11">Brim</t>
+  <t id="L_GRID" ver="11">Πλέγμα</t>
+  <t id="L_LINES" ver="11">Γραμμές</t>
+  <t id="L_TOUCHING_BED" ver="11">Touching Bed</t>
+  <t id="L_EVERYWHERE" ver="11">Παντού</t>
+  <t id="L_AUTOMATIC" ver="11">Αυτόματο</t>
+  <t id="L_CONCENTRIC_LINES" ver="11">Ομόκεντρες Γραμμές</t>
+  <t id="L_CURACODEHINTS" ver="11">
+Μπορείτε να προσθέσετε δυναμικές γραμμές, που μπορούν να αλλάζουν κατά τον τεμαχισμό.
+
+Θερμοκρασίες:
+{TEMP0}, {TEMP1}
+{BED}
+
+Ταχύτητες:
+{Z_TRAVEL_SPEED}
+{TRAVEL_SPEED}
+
+Μπορείτε να προσθέσετε γραμμή, μόνο εάν χρησιμοποιείται extruder ή κρεβάτι. Γι' αυτό προσθέστε έναν από αυτούς του κώδικες στην αρχή της γραμμής:
+{IF_BED}
+{IF_EXT0}
+
+Χρησιμοπιείστε το "Δημιουργία Προεπιλογής" ώστε να δημιουργήσετε ένα καλό script εκκίνησης το οποίο μπορείτε να προσαρμόσετε στις ανάγκες σας.
+  </t>
+  <t id="H_RETRACTION_SPEED" ver="11">
+  Το νήμα επανέρχεται με αυτήν την ταχύτητα. Υψηλότερη 
+  ταχύτητα επαναφοράς δουλεύει καλύτερα, αλλά αν είναι 
+  πολύ υψηλή, μπορεί να οδηγήσει σε φυσίματα του νήματος.
+  </t>
+  <t id="H_RETRACTION_DISTANCE" ver="11">
+    Απόσταση επιστροφής. Βάλτε 0 για μη επιστροφή.
+    Οι τυπικές τιμές εκτείνονται από 2mm για  direct extruders
+    έως 7 mm για bowden extruders.
+  </t>
+  <t id="H_FIRST_LAYER_HEIGHT" ver="11">
+    Ύψος Επιπέδου για το επίπεδο του Πάτου. Ένα παχύτερο 
+    πρώτο επίπεδο αντισταθμίζει ατέλειες του κρεβατιού 
+    εκτύπωσης.
+  </t>
+  <t id="H_CUT_OFF_OBJECT_BOTTOM" ver="11">
+    Βυθίζει το αντικείμενο στην πλατφόρμα. 
+    Αυτό μπορεί να χρησιμοποιηθεί για αντικείμενα
+    που δεν έχουν επίπεδο πάτο και έχουν πάρα
+    πολύ μικρό πρώτο επίπεδο.
+  </t>
+  <t id="H_VOLUME_OVERLAP" ver="11">
+    Με αυτό το μήκος τα διαφορετικά χρώματα ή υλικά
+    αλληλοεπικαλύπτονται με multi-extrusion, έτσι 
+    ώστε να συνδέονται καλύτερα μεταξύ τους.
+  </t>
+  <t id="H_TRAVEL_SPEED" ver="11">
+    Οι γρήγορες κινήσεις γίνονται με αυτήν την ταχύτητα.
+    Αυτό μπορεί να είναι αρκετά γρήγορο,  αλλά αν η τιμή
+    είναι πολύ υψηλή, μερικοί εκτυπωτές μπορεί να χάνουν 
+    βήματα.
+  </t>
+  <t id="H_FIRST_LAYER_SPEED" ver="11">
+    Η ταχύτητα εκτύπωσης του πρώτου επιπέδου. Πρέπει
+    να είναι χαμηλότερη για να κολλήσει καλύτερα στο 
+    κρεβάτι του εκτυπωτή.
+  </t>
+  <t id="H_INFILL_SPEED" ver="11">
+    Με αυτήν την ταχύτητα τυπώνεται το παραγέμισμα (infill).
+    Με γρηγορότερες κινήσεις μπορείτε να μειώσετε το χρόνο 
+    εκτύπωσης, αλλά αυτό μπορεί να μειώσει την ποιότητα εκτύπωσης.
+  </t>
+  <t id="H_OUTER_PERIMETER_SPEED" ver="11">
+    Με αυτήν την ταχύτητα τυπώνεται η εξωτερική περίμετρος.
+    Εκτυπώνοντας με χαμηλότερη ταχύτητα, βελτώνει την ποιότητα 
+    της επιφάνειας. Όμως μία πολύ μεγάλη μεγάλη διαφορά ανάμεσα 
+    στην ταχύτητα εκτύπωσης εσωτερικής και εξωτερικής περιμέτρου
+    μπορεί να μειώσει την ταχύτητα.
+    </t>
+  <t id="H_INNER_PERIMETER_SPEED" ver="11">
+    Η εσωτερική περίμετρος τυπώνεται με αυτή την ταχύτητα.
+    Γρηγορότερη εκτύπωση απότι στην εξωτερική περίμετρο,
+    θα ελαττώσει το χρόνο εκτύπωσης. Η ταχύτητα θα πρέπει
+    να είναι ανάμεσα στην ταχύτητα Γεμίσματος και στην
+    ταχύτητα της εξωτερικής περιμέτρου.
+  </t>
+  <t id="H_MINIMUM_LAYER_TIME_COOLING" ver="11">
+    Ο ελάχιστος χρόνος για την εκτύπωση ενός στρώματος.
+    Ο χρόνος θα πρέπει να είναι αρκετά μεγάλος, για να 
+    προλάβει ψυχθεί το στρώμα. Εάν η ταχύτητα εκτύπωσης  
+    είναι πολύ μεγάλη θα ελαττωθεί, ώστε να χρησιμοποιηθεί 
+    αυτός ο χρόνος για την εκτύπωση ενός στρώματος.
+    </t>
+  <t id="H_ENABLE_COOLING" ver="11">
+    Ενεργοποιεί τον ανεμιστήρα ψύξης κατά την εκτύπωση.
+    Αυτό μπορεί να βελτιώσει σημαντικά την ποιότητα εκτύπωσης,
+    ειδικότερα για το PLA, τις γεφυρώσεις και τις προεξοχές.
+  </t>
+  <t id="H_LAYER_HEIGHT" ver="11">
+    Με το ύψος του στρώματος σε millimeters θα καθορίσετε
+    τη διακριτικότητα της εκτύπωσης κατά τη διεύθυνση z.
+    Χαμηλότερες τιμές θα αυξήσουν την ποιότητα εκτύπωσης 
+    αλλά θα χρειαστεί περισσότερος χρόνος εκτύπωσης. 
+    Συνηθισμένες τιμές είναι ανάμεσα στο 0.1 mm και 0.4 mm.
+  </t>
+  <t id="H_SHELL_THICKNESS" ver="11">
+    Το πάχος του εξωτερικού κελύφους σε οριζόντια
+    διεύθυνση. Από αυτό, σε συνδυασμό με το μέγεθος
+    του στομίου, προσδιορίζεται ο αριθμός των γραμμών
+    της περιμέτρου.
+  </t>
+  <t id="H_ENABLE_RETRACTION" ver="11">
+    Ανάσυρση του νήματος, όταν το στόμιο κινείται
+    πάνω σε μη εκτυπώσιμη περιοχή. Αυτό βοηθάει 
+    στο να μειωθεί ή να σταματήσει το stringing.
+  </t>
+  <t id="H_TOP_BOTTOM_THICKNESS" ver="11">
+    Αυτό καθορίζει το πλήθος των συμπαγών στρωμάτων
+    στο πάνω (top) και κάτω (bottom) μέρος. Ανάλογα
+    με την πυκνότητα γεμίσματος, θα πρέπει να αυξάνετε
+    το πάχος, ώστε το παραγέμισμα να μην φαίνεται μέσα
+    από αυτά και να βελτιωθεί η ποιότητα εκτύπωσης.
+    Το  1 mm είναι συνήθως μία καλή τιμή.
+  </t>
+  <t id="H_INFILL_DENSITY" ver="11">
+    Εδώ καθορίζετε την πυκνότητα Γεμίσματος. Τα 
+    συμπαγή αντικείμενα έχουν 100%, τα άδεια 0%. Όσο
+    αυξημένο είναι το παραγέμισμα, τόσο πιο σταθερό 
+    είναι το αντικείμενο. Με χαμηλότερα γεμίσματα,
+    μπορείτε να εξοικονομήσετε χρόνο εκτύπωσης και νήμα.
+    Οι συνηθισμένες τιμές είναι ανάμεσα στο 20% και 30%,
+    εάν δεν χρειάζεστε μεγάλη σταθερότητα.
+  </t>
+  <t id="H_PRINT_SPEED" ver="11">
+    Ταχύτητα εκτύπωσης για όλα τα εξαρτήματα,
+    που δεν έχουν καθορισμένες διαφορετικές 
+    ταχύτητες εκτύπωσης.
+  </t>
+  <t id="H_PRINT_TEMPERATURE" ver="11">
+    Η θερμοκρασία εξαρτάται από το χρησιμοποιούμενο νήμα και τον 
+    εκτυπωτή. Πολλοί κατασκευαστές νημάτων καθορίζουν την περιοχή 
+    βέλτιστων θερμοκρασιών εκτύπωσης.
+   </t>
+  <t id="H_SUPPORT_TYPE" ver="11">
+    Τύποι των κατασκευαζόμενων δομών υποστύλωσης.
+    Το "None" απενεργοποιεί τα υποστυλώματα.
+    "Touching bed" είναι η πιο συνηθισμένη ρύθμιση.
+    Θα δημιουργήσει υποστυλώματα, όπου η δομή 
+    υποστύλωσης θα ακουμπά στο κρεβάτι. 
+    "Everywhere" δημιουργεί υποστυλώματα ακόμη 
+    και στο πάνω μέρος των μοντέλων.
+  </t>
+  <t id="H_ADHESION_TYPE" ver="11">
+    Βοηθάει στη βελτίωση της πρόσφυσης του αντικειμένου στο κρεβάτι.
+
+    Το "None" απενεργοποιεί αυτή τη λειτουργία.
+
+    Το "Brim" προσθέτει μία περιοχή ύψους ενός επιπέδου
+    γύρω από το αντικείμενο, η οποία μπορεί να κοπεί 
+    εύκολα στη συνέχεια.Το Brim είναι απαραίτητο, εάν
+    τα αντικείμενα παραμορφώνονται στις άκρες.
+
+    Το "Raft" προσθέτει ένα παχύ πλέγμα (raster) κάτω
+    από το αντικείμενο και μία λεπτή διαχωριστική επιφάνεια
+    ανάμεσα σε αυτό και το αντικείμενο. Η διαχωριστική 
+    επιφάνεια μπορεί να απομακρυνθεί μετά την εκτύπωση. 
+    Αυτό είναι απαραίτητο εάν το τραπέζι είναι ανώματο
+    ή έχετε τόσο μικρό αντικείμενο που δεν θα κολλούσε
+    καλά στο κρεβάτι κατά την εκτύπωση.
+  </t>
+  <t id="H_FILAMENT_DIAMETER" ver="11">
+    Η διάμετρος του νήματος πρέπει να καθοριστεί με όσο μεγαλύτερη  ακρίβεια είναι δυνατόν.
+  </t>
+  <t id="H_FLOW" ver="11">
+    Η ποσότητα νήματος του extruder πολλαπλασιάζεται με αυτήν την τιμή. Κανονικά η τιμή θα έπρεπε να είναι 100%.
+  </t>
+  <t id="L_OUTER_PERIMETER_SPEED:" ver="11">Ταχύτητα Εξωτερικής Περιμέτρου:</t>
+  <t id="L_INFILL_SPEED:" ver="11">Ταχύτητα Γεμίσματος Speed:</t>
+  <t id="L_PRINT:" ver="11">ΕΚτύπωση:</t>
+  <t id="L_SUPPORT_PATTERN:" ver="11">Σχέδιο Υποστύλωσης:</t>
+  <t id="L_TRAVEL:" ver="11">Διαδρομή:</t>
+  <t id="L_CUTOFF_BOTTOM" ver="11">Αποκοπή Πάτου Αντικειμένου:</t>
+  <t id="L_ESTIMATED_PRINTING_TIME:" ver="11">Εκτιμώμ. Χρόνος Εκτύπωσ.:</t>
+  <t id="L_LAYER_COUNT:" ver="11">Αριθμός Επιπέδου:</t>
+  <t id="L_FILAMENT_NEEDED:" ver="11">Απαιτούμενο Νήμα:</t>
+  <t id="L_FAN_FULL_AT_HEIGHT:" ver="11">Fan full at Height:</t>
+  <t id="L_MINIMUM_SPEED:" ver="11">Ελάχιστη Ταχύτητα:</t>
+  <t id="H_MINIMUM_TRAVEL_BEFORE_RETRACT" ver="11">Minimum travel distance to activate retraction.</t>
+  <t id="L_PREVIEW" ver="11">Προεπισκόπηση</t>
+  <t id="L_SCALE_OBJECT" ver="11">Κλιμάκωση Αντικειμένου</t>
+  <t id="L_ROTATE_OBJECT" ver="11">Περιστροφή ΑΝτικειμένου</t>
+  <t id="H_MINIMIZE_CROSSING_PERIMETERS" ver="11">
+    Εάν υπάρχει διαδρομή τέτοια ώστε  να μετακινηθεί
+    η κεφαλή προς το στόχο, χωρίς να εγκαταλείψει
+    το τρέχον αντικείμενο, τότε ακολουθείται αυτή η
+    διαδρομή. Εάν απενεργοποιηθεί, τότε πάντα
+    ακολουθείται η ευθεία γραμμή προς το σημείο
+    προορισμού, πράγμα το οποίο μπορεί να
+    δημιουργήσει κλωστές (strings).
+  </t>
+  <t id="H_MINIMUM_EXTRUSION_BEFORE_RETRACT" ver="11">
+    Η ελάχιστη ποσότητα  extrusion πριν γίνει η επόμενη
+    επιστροφή προς τα πίσω. Εάν χρειαστεί μία επιστροφή,
+    πριν φτάσει η ελάχιστη αυτή ποσότητα, η επιστροφή
+    αγνοείται. Εάν επιστέφετε πολύ συχνά πίσω  στο ίδιο μέρος,
+    μπορεί το νήμα να μπλοκάρει τον extruder.
+  </t>
+  <t id="H_Z_HOP" ver="11">
+    Η κεφαλή ανασηκώνεται κατά αυτήν την απόσταση κατά την επιστροφή. 
+  Αυτό έχει μερικά πλεονεκτήματα για τους εκτυπωτές 
+    με γρήγορο z-άξονα, όπως οι εκτυπωτές delta.
+  </t>
+  <t id="H_SKIRT_LINE_COUNT" ver="11">
+    Το περίζωμα είναι μία γραμμή στο πρώτο επίπεδο που ζωγραφίζεται
+    γύρω από το αντικείμενο. Αυτό βοηθάει στην προετοιμασία του
+    extruder και μπορείτε να δείτε εάν το αντικείμενο χωράει
+    στι κρεβάτι σας. Θέστε 0 για να απενεργοποιήσετε το περίζωμα.
+  </t>
+  <t id="H_SKIRT_DISTANCE" ver="11">Η απόσταση ανάμεσα στη γραμμή περιζώματος και το μοντέλο.</t>
+  <t id="H_MINIMUM_SKIRT_LENGTH" ver="11">
+    Το ελάχιστο μήκος της γραμμής  περίζωσης (skirt line).
+    Εάν κατά την περίζωση το μήκος της γραμμής δεν φτάσει
+    σε αυτό το μήκος, προστίθενται επιπρόσθετες γραμμές περίζωσης.
+    Εάν ο αριθμός των γραμμών περίζωσης τεθεί στο 0, αυτή η 
+    ρύθμιση αγνοείται.
+  </t>
+  <t id="H_FAN_FULL_ON_AT_HEIGHT" ver="11">
+    Το ύψος στο οποίο ο ανεμιστήρας ενεργοποιείται πλήρως.
+    Για τα παρακάτω επίπεδα η ταχύτητα του ανεμιστήρα μειώνεται γραμμικά και μηδενίζεται 
+    στο πρώτο επίπεδο.
+  </t>
+  <t id="H_MIN_FAN_SPEED" ver="11">
+   Αυτή είναι η ελάχιστη ταχύτητα του ανεμιστήρα για την ψύξη.
+   Εάν ο χρόνος εκτύπωσης ενός στρώματος είναι μικρότερος από
+   τον προγραμματισμένο ελάχιστο χρόνο εκτύπωσης ενός στρώματος,
+   τότε η ταχύτητα εκτύπωσης επιβραδύνεται και η ταχύτητα του
+   ανεμιστήρα παίρνει τιμές ανάμεσα στο  min. και στο max.
+   της ταχύτητάς του, ανάλογα με την επιβράδυνση της εκτύπωσης.</t> 
+  <t id="H_MAX_FAN_SPEED" ver="11">
+   Αυτή είναι η μέγιστη ταχύτητα του ανεμιστήρα για ψύξη.
+   Φτάνει σε αυτήν την ταχύτητα, εάν ο χρόνος που απαιτείται
+   για την κατασκευή του επιπέδου είναι πολύ μικρός και
+   έχει σαν συνέπεια τη μείωση της ταχύτητας εκτύπωσης για   
+   πάνω από 50%.
+  </t>
+  <t id="H_COOL_HEAD_LIFT" ver="11">
+    Lift the head if printing with minimum speed is
+    faster than minimum layer time after layer is
+    printed.
+  </t>
+<t id="H_MINIMUM_COOLING_SPEED" ver="11">
+  Ο ελάχιστος χρόνος ενός στρώματος μπορεί να επιβραδύνει
+  τον εκτυπωτή τόσο πολύ, ώστε το λιωμένο νήμα να αρχίσει
+  να στάζει. Η ελάχιστη ταχύτητα μας προστατεύει από αυτό
+  το ενδεχόμενο. Όσο και να επιβραδύνει ο εκτυπωτής,
+  η ταχύτητα δεν μπορεί να πέσει κάτω από αυτή την ελάχιστη 
+  τιμή. 
+  </t> 
+  <t id="H_SOLID_TOP_INFILL" ver="11">
+    Δημιουργεί μία συμπαγή πάνω (top) επιφάνεια.
+    Εάν απενεργοποιηθεί, χρησιμοποιείται το
+   προκαθορισμένο σχέδιο γεμίσματος. Χρήσιμο
+   για βάζα που ορίζονται σαν συμπαγείς όγκοι.
+  </t>
+  <t id="H_SOLID_BOTTOM_INFILL" ver="11">
+    Δημιουργεί συμπαγή επιφάνεια πάτου (bottom).
+    Εάν απενεργοποιηθεί, θα χρησιμοποιηθεί
+    το προκαθορισμένο γέμισμα. Χρήσιμο για κατασκευές 
+    που ορίζονται σαν συμπαγείς όγκοι.
+  </t>
+  <t id="H_INFILL_OVERLAP" ver="11">
+    Αυτό καθορίζει την αλληλοεπικάλυψη του γεμίσματος και των τοιχωμάτων.
+    Πρέπει να υπάρχει μία ελαφρά αλληλοεπικάλυψη, ώστε τα τοιχώματα να
+    συνδέονται γερά με το γέμισμα.
+  </t>
+  <t id="H_SUPPORT_PATTERN" ver="11">
+    Επιλογή ανάμεσα στα σχέδια υποστυλωμάτων:
+    "Grid" είναι πολύ δυνατό και μπορεί να ξεκολλήσει σαν ένα 
+    κομμάτι. Μερικές φορές είναι πάρα πολύ δυνατό.
+    "Lines" είναι γραμμές ενός μόνο τοιχώματος, οι οποίες σπάνε
+    μία κάθε φορά. Αυτό χρειάζεται περισσότερη δουλειά για να
+    απομακρυνθεί, αλλά είναι λιγότερο ισχυρό και σπάει ένα κάθε
+    φορά. Είναι πιό αδύναμο και δουλεύει καλύτερα με δύσκολες εκτυπώσεις.
+  </t>
+  <t id="H_OVERHANG_ANGLE" ver="11">
+    Η ελάχιστη γωνία στην οποί οι προεξοχές χρειάζονται 
+     υποστήριξη. 0° είναι οριζόντιο, 90° κάθετο.
+  </t>
+  <t id="H_SUPPORT_FILL_AMOUNT" ver="11">
+    Πυκνότητα της υποστήλωσης. Λιγότερο υλικό, καταλήγει
+    σε ασθενέστερη υποστήλωση, η οποία είναι πιο εύκολο 
+    να απομακρυνθεί. Το 15% είναι μία καλή μέση τιμή.
+  </t>
+  <t id="H_DISTANCE_XY" ver="11">
+    Απόσταση της υποστήλωσης και του αντικειμένου στη 
+    διεύθυνση  x/y. 0.8 mm είναι μία καλή απόσταση, 
+    ώστε η υποστήλωση να μην κολλά στο αντικείμενο.
+  </t>
+  <t id="H_DISTANCE_Z" ver="11">
+    Η απόσταση από το πάνω ή κάτω μέρος του υποστηλώματος
+    μέχρι το αντικείμενο. Ένα μικρό κενό, κάνει
+    ευκολότερη την απομάκρυνση του υποστηλώματος.
+  </t>
+  <t id="H_SPIRALIZE_CONTOUR" ver="11">
+    Μετατρέπει ένα συμπαγές αντικείμενο, σε ένα
+    αντικείμενο με ένα τοίχωμα, όπου το  z αυξάνει
+    συνεχώς, ώστε να δημιουργηθεί μία επιφάνεια
+    χωρίς ραφές. Είναι ιδεώδες για βάζα. 
+  </t>
+  <t id="H_BRIM_WIDTH" ver="11">
+    Το πλάτος του brim. Με πλατύτερο brim το
+    το αντικείμενο κολλάει καλύτερα στο κρεβάτι, αλλά
+    αυτό μειώνει τη διαθέσιμη περιοχή εκτύπωσης.
+  </t>
+  <t id="H_RAFT_EXTRA_MARGIN" ver="11">
+    Αυτή είναι μία επιλπέον περιοχή raft γύρω από
+    το αντικείμενο, όταν το raft είναι ενεργοποιημένο.
+    Μία μεγαλύτερη περιοχή raft θα δημιουργήσει ένα
+    ισχυρότερο raft, αλλά μειώνει τη διαθέσιμη
+    περιοχή εκτύπωσης.
+  </t>
+  <t id="H_RAFT_LINE_SPACING" ver="11">This is the distance of the raft center lines.</t>
+  <t id="H_RAFT_BASE_LINE_THICKNESS" ver="11">Αυτό είναι το πάχος του βασικού στρώματος.</t>
+  <t id="H_RAFT_BASE_LINE_WIDTH" ver="11">Αυτό είναι το πλάτος των γραμμών του βασικού στρώματος.</t>
+  <t id="H_RAFT_INTERFACE_THICKNESS" ver="11">Αυτό είναι το πάχος του επιπέδου διασύνδεσης.</t>
+  <t id="H_RAFT_INTERFACE_LINE_WIDTH" ver="11">Αυτό είναι το πλάτος των γραμμών του επιπέδου διασύνδεσης.</t>
+  <t id="H_RAFT_AIG_GAP" ver="11">
+    Αυτό είναι το κενό ανάμεσα στο αντικείμενο και το 
+    raft. Όσο μεγαλύτερο είναι το κενό, τόσο ευκολότερα
+    μπορείτε να ξεχωρίσετε το αντικείμενο, αλλά πάλι 
+    χρειάζεται μία απόσταση η οποία να κολλάει 
+    ικανοποιητικά ώστε να σταθεροποιήση το αντικείμενο
+    κατά την εκτύπωση.
+  </t>
+  <t id="H_RAFT_NUM_SURFACE_LAYER" ver="11">
+    Τα πάνω επίπεδα του raft, είναι τα επιφανειακά επίπεδα
+    του αντικειμένου.Το παραγέμισμά τους είναι 100% έτσι ώστε
+    η επιφάνεια του αντικειμένου να είναι επίπεδη.
+  </t>
+  <t id="H_COMBINE_EVERYTING_TYPE_A" ver="11">
+    Αυτή η προχωρημένη επιλογή, προσθέτει μαζί όλα
+    τα μέρη του μοντέλου. Συνήθως έχει σαν αποτέλεσμα
+    την εξαφάνιση όλων των εσωτερικών κοιλοτήτων.
+    Ανάλογα με το μοντέλο, αυτό μπορεί να είναι
+    επιθυμητό μπορεί και όχι. Η ενεργοποίηση 
+    αυτής της επιλογής γίνεται με δική σας ευθύνη.  
+    Ο Τύπος-A εξαρτάται από το μοντέλο και επιχειρεί
+    να διατηρήσεις ερισμένες εσωτερικές οπές
+    ανεπηρέαστες. Ο Τύπος-B αγνοεί όλες τις
+    εσωτερικές οπές και διατηρεί, ανά επίπεδο, το
+    εξωτερικό σχήμα.
+  </t>
+  <t id="H_COMBINE_EVERYTING_TYPE_B" ver="11">
+    Αυτή η προχωρημένη επιλογή, προσθέτει μαζί όλα
+    τα μέρη του μοντέλου. Συνήθως έχει σαν αποτέλεσμα
+    την εξαφάνιση όλων των εσωτερικών κοιλοτήτων.
+    Ανάλογα με το μοντέλο, αυτό μπορεί να είναι
+    επιθυμητό μπορεί και όχι. Η ενεργοποίηση 
+    αυτής της επιλογής γίνεται με δική σας ευθύνη.  
+    Ο Τύπος-A  εξαρτάται από τα  normals του μοντέλου
+    και επιχειρεί να διατηρήσεις μερικές εσωτερικές
+    οπές ανεπηρέαστες. Ο Τύπος-B αγνοεί όλες τις
+    εσωτερικές οπές και μόνο διατηρεί το εξωτερικό
+    σχήμα ανά επίπεδο.
+  </t>
+  <t id="H_KEEP_OPEN_FACES" ver="11">
+    Αυτή η προχωρημένη επιλογή διατηρεί όλα τα ανοικτά μέρη
+    ανεπηρέαστα. Κανονικά το Cura προσπαθεί να ράψει τις
+    μικρές τρύπες και να απομακρύνει οτιδήποτε με μεγάλα
+    ανοίγματα Όμως αυτή εδώ η επιλογή αφήνει μέρη που κανονικά
+    δεν ανήκουν πουθενά και δεν ταιριάζουν με τίποτε, αλλά
+    απλώς παρέμειναν. Αυτή η επιλογή συνήθως δεν είναι
+    αυτό που θα θέλατε, αλλά μπορεί να σας δώσει την
+    δυνατότητα να τεμαχίσετε αντικείμενα που διαφορετικά
+    δεν θα ήταν δυνατόν. Όπως με όλες τις προχωρημένες
+    επιλογές, τα αποτελέσματα μπορεί να διαφέρουν. 
+    Το χρησιμοποιείτε με δική σας ευθύνη.
+  </t>
+  <t id="H_EXTENSIVE_STITCHING" ver="11">
+    Εκτεταμένο ράψιμο: επιχειρεί να διορθώσει τρύπες 
+    κλείνοντάς τες με εφαπτόμενα πολύγωνα. Υπολογιστικά
+    ο αλγόριθμος είναι εντατικός και αυξάνει το χρόνο
+    τεμαχισμού. Όπως με όλες τις προχωρημένες
+    επιλογές, τα αποτελέσματα μπορεί να διαφέρουν. 
+    Το χρησιμοποιείτε με δική σας ευθύνη.
+  </t>
+  <t id="L_CREATE_DEFAULT" ver="11">Create Default</t>
+
+  <t id="H_NAME_SELECTED_QUALITY_SETTING" ver="11">Επιλέξτε να αποθηκεύσετε ένα περιγραφικό όνομα.</t>
+  <t id="H_INFILL_PATTERN" ver="11">
+    "Automatic" επιλέγει γραμμές ή πλέγματα σύμφωνα με την πυκνότητα.
+
+    "Grid" δίνει μία σταθερή κατασκευή.
+
+    "Lines" είναι παράλληλες και πιο κοντά μεταξύ τους.
+
+    "Concentric Lines" δίνει γραμμές με μειωμένο περίγραμμα.
+  </t>
+  <t id="H_CREATE_WIPE_AND_PRIME_TOWER" ver="11">
+    Ο πύργος καθαρισμού (wipe tower) είναι ένας πύργος
+    που τυπώνεται σε κάθε επίπεδο, όταν γίνεται
+    εναλλαγή ανάμεσα σε στόμια.  Το πρώτο στόμιο 
+    τρίβεται στον πύργο, πριν το δεύτερο στόμιο
+    χρησιμοποιηθεί για την εκτύπωση του δεύτερου
+    χρώματος. Το νέο στόμιο προετοιμάζεται στον πύργο,
+    έτσι, ώστε το νέο νήμα να τυπωθεί σωστά στο αντικείμενο.
+  </t>
+  <t id="H_OOZE_SHIELD" ver="11">
+    Η θωράκιση για τα σταξίματα είναι ένα κέλυφος πάχους
+    μιας γραμμής, το οποίο βρίσκεται σε απόσταση μερικά
+    mm από το αντικείμενο. Αυτή η θωράκιση συγκρατεί
+    τις σταγόνες του αχρησιμοποίητου στομίου στους
+    διπλούς extruder.
+  </t>
+  <t id="H_RETRACTION_ON_EXTRUDER_SWITCH" ver="11">
+    Η απόσταση επιστροφής, όταν γίνεται εναλλαγή
+    ανάμεσα στα στόμια. Έάν τεθεί 0, δεν γίνεται
+    καμμία επιστροφή.
+  </t>
+  <t id="H_WIPE_AND_PRIME_VOLUME" ver="11">
+    Η ποσότητα νήματος που τοποθετείται στον πύργο
+    καθαρισμού και τροφοδοσίας. Αυτό γίνεται σε όγκο,
+    επειδή συνήθως  θέλετε να βγάλετε συγκεκριμένο 
+    όγκο για να συνεχίσει ο extruder να κινείται, ανεξάρτητα
+    από το ύψος του επιπέδου. Με λεπτότερα επίπεδα ,ο πύργος
+    σας γίνεται μεγαλύτερος.
+  </t>
+  <t id="L_AIR_GAP_LAYER0:" ver="11">Air Gap Layer 0:</t>
+
+<t id="H_AIR_GAP_OTHER_LAYERS" ver="11">
+   Το υποτιθέμενο κενό αέρα ανάμεσα στο raft και 
+   το δεύτερο επίπεδο του αντικειμένου. Στην ιδανική
+   περίπτωση η τιμή είναι 0. Η υπόθεση είναι ότι  το
+   κενό αέρα μετά το πρώτο επίπεδο του αντικειμένου
+   είναι 0, αφού το πρώτο επίπεδο πέφτει πάνω στο raft και
+   έτσι κλείνει το κενό.
+</t> 
+   <t id="H_SLIC3R_OVERRIDE_SLIC3R_SETTINGS" ver="11">
+    Αντικαθιστά τις παραπάνω επιλεγμένες ρυθμίσεις του 
+    Slic3r με τις τιμές που φαίνονται παρακάτω.
+  </t>
+  <t id="H_SLIC3R_PE_OVERRIDE_SLIC3R_SETTINGS" ver="11">
+    Αντικαθιστά τις παραπάνω επιλεγμένες ρυθμίσεις του
+    PrusaSlicer με τις τιμές που φαίνονται παρακάτω.
+  </t>
+  <t id="H_SLIC3R_COPY_PRINT_SETTINGS_TO_OVERRIDE" ver="11">
+    Αντικαθιστά τις τιμές που φαίνονται παρακάτω με τις 
+    με τις τιμές που ορίστηκαν στις διαμορφώσεις που επιλέχτηκαν 
+    παραπάνω.
+   </t>  
+    <t id="H_SLIC3R_ENABLE_SUPPORT" ver="11">
+    Προσθέτει δομές υποστύλωσης, όπου χρειάζονται,
+    για την εκτύπωση.
+   </t> 
+    <t id="H_SLIC3R_ENABLE_COOLING" ver="11">
+    Ενεργοποιεί τον ανεμιστήρα ψύξης κατά την εκτύπωση. Αυτό μπορεί να 
+    βελτιώσει σημαντικά την ποιότητα εκτύπωσης, ειδικά για το  PLA, τις 
+    γεφυρώσεις και τα οverhangs.
+  </t>  
+    <t id="H_SLIC3R_LAYER_HEIGHT" ver="11">
+    Με το ύψος του στρώματος σε millimeters καθορίζετε την
+    διακριτικότητα εκτύπωσης στην κατεύθυνση z. Χαμηλότερες
+    τιμές θα αυξήσουν την ποιότητα εκτύπωσης, αλλά θα πάρει 
+    περισσότερο χρόνο εκτύπωσης. Οι φυσιολογικές τιμές είναι 
+    ανάμεσα στο 0.1 mm και 0.4 mm.
+  </t>  
+  <t id="H_SLIC3R_INFILL_DENSITY" ver="11">
+    Εδώ καθορίζετε την πυκνότητα γεμίσματος. Τα συμπαγή
+    αντικείμενα έχουν 100%, τα άδεια αντικείμενα 0%. Όσο
+    υψηλότερο είναι το γέμισμα, τόσο πιο σταθερό είναι το
+    αντικείμενο. Με χαμηλότερο γέμισμα μπορείτε να 
+    εξοικονομίσετε πολύ χρόνο εκτύπωσης και νήμα. 
+    Συνηθισμένες τιμές είναι  μεταξύ 20% και 30%, εάν δεν 
+    χρειάζεστε μεγάλη σταθερότητα.
+  </t>
+  <t id="H_SLIC3R_INFILL_PATTERN" ver="11">
+    Επιλέχει το σχέδιο γεμίσματος, για το εσωτερικό
+    γέμισμα.
+  </t>
+  <t id="H_SLIC3R_SOLID_INFILL_PATTERN" ver="11">
+    Αυτό επιλέγει το σχέδιο γεμίσματος του κελύφους.
+  </t>
+  <t id="B_CONFIGURE" ver="11">Διαμόρφωση</t>
+  <t id="B_CURA_FAST" ver="11">Γρήγορα</t> 
+  <t id="B_CURA_SLOW" ver="11">Αργά</t> 
+<t id="L_SCALE_TO_MAX" ver="11">Μέθυνση στο Μέγιστο</t>
+<t id="L_RESET_ROTATION" ver="11">Ακύρωση Περιστροφής</t>
+<t id="L_LAY_FLAT" ver="11">Lay Flat</t>
+  <t id="L_PREFERENCES" ver="11">Προτιμήσεις</t>
+  <t id="L_BASIC_SETTINGS" ver="11">Βασικές Ρυθμίσεις</t>
+  <t id="L_3D_VISUALIZATION" ver="11">Απεικόνιση 3D</t>
+  <t id="L_SHOW_HELP_BUBBLES" ver="11">Εμφάνισε τα Συνεφάκια Βοήθειας (Απαιτείται Επανεκκίνηση)</t>
+  <t id="L_MAX_EXTRUDER_TEMP:" ver="11">Max. Θερμοκρασία Extruder:</t>
+  <t id="L_MAX_BED_TEMP:" ver="11">Max. Θερμοκρασία Κρεβατιού:</t>
+  <t id="L_HAS_MIXING_EXTRUDER" ver="11">Ο Εκτυπωτής έχει έναν Extruder ανάμειξης (ένα στόμιο για όλα τα χρώματα)</t>
+  <t id="L_MANUAL_EXTRUSION_SPEED:" ver="11">Χειρόκίνητη Ταχύτητα Extrusion:</t>
+  <t id="L_MANUAL_RETRACTION_SPEED:" ver="11">Χειροκίνητη Ταχύτητα Επαναφοράς:</t>
+  <t id="L_INVERT_MOVEMENT_DIRECTION_FOR_MANUAL_CONTROL" ver="11">Αντιστροφή κατευθύνσεων κίνησης στο χειροκίνητο έλεγχο:</t>
+  <t id="L_X_AXIS" ver="11">X-Axis</t>
+  <t id="L_Y_AXIS" ver="11">Y-Axis</t>
+  <t id="L_Z_AXIS" ver="11">Z-Axis</t>
+  <t id="H_CONTROL_POWER" ver="11">
+    Μερικοί εκτυπωτές έχουν switchable τροφοδοσίες ισχύος,
+    που μπορούν να ενεργοποιούνται/απενεργοποιούνται με αυτή
+    τη λειτουργία.
+  </t>
+
+  <t id="H_CONTROL_MOTOR" ver="11">
+    Απενεργοποιεί το ρεύμα για όλα τα μοτέρ. 
+    Αυτό μπορεί να αλλάξει τη θέση του extruder. 
+    Μόλις ξεκινήσει μία κίνηση, το ρεύμα των 
+    αντίστοιχων κινητήρων ενεργοποιείται.
+  </t>
+
+  <t id="H_CONTROL_PARKING" ver="11">
+    Μετακινεί τον extruder στη θέση παρκαρίσματος.
+  </t>
+
+  <t id="H_CONTROL_SCRIPTX" ver="11">
+    Στέλνει το script $1 στον εκτυπωτή. Μπορείτε
+    να δείτε και να τροποποιήσετε τα scripts με 
+    δεξί κλικ  στο μπουτόν.
+  </t>
+
+  <t id="H_CONTROL_SPEED" ver="11">
+    Μεταβάλει την τρέχουσα ταχύτητα εκτύπωσης. Όλες
+    οι ταχύτητες πολλαπλασιάζονται με αυτή την τιμή.
+    Ο ρυθμός ροής δεν αλλάζει. Σημειώστε ότι υψηλές 
+    ταχύτητες εκτύπωσης, μπορούν να επηρεάσουν σοβαρά
+    την ποιότητα εκτύπωσης.
+  </t>
+
+  <t id="H_CONTROL_FLOW" ver="11">
+    Επιτρέπει την αλλαγή του ρυθμού ροής, δηλ. της
+    ποσότητας του εξωθούμενου νήματος. Υψηλότερες τιμές
+    δίνουν παχύτερη γραμμή εκτύπωσης.
+  </t>
+
+  <t id="H_CONTROL_FAN" ver="11">
+    Ελέγχει την ταχύτητα του ανεμιστήρα. Η αποτελεσματική
+    ψύξη βελτιώνει την ποιότητα εκτύπωσης ιδιαίτερα στα 
+    overhangs και τις γέφυρες.
+  </t>
+
+  <t id="H_CONTROL_BED" ver="11">
+    Ελέγχει τη θερμοκρασία του θερμαινόμενου κρεβατιού.
+    Τυπικές θερμοκρασίες για το PLA είναι ανάμεσα στους 50°C 
+    και 60°C, για ABS ανάμεσα στους 100°C και 120°C, ανάλογα
+    με την επένδυση του κρεβατιού.
+  </t>
+
+  <t id="H_CONTROL_EXTRUDER" ver="11">
+    Ελέγχει τη θερμοκρασία του extruder. Τυπικές 
+    τιμές για το PLA είναι ανάμεσα στους 180°C και220°C,
+    για το ABS ανάμεσα στους 240°C και 260°C, ανάλογα 
+    με το νήμα και τους extruders.
+  </t>
+  <t id="H_PS_CONNECTOR" ver="11">
+    Τύπος σύνδεσης του εκτυπωτή. Οι περισσότεροι
+    εκτυπωτές χρησιμοποιούν μία σειριακή θύρα. Η 
+    εικονική συνδεσμολογία παρέχει έναν εικονικό 
+    εκτυπωτή για δοκιμές.
+  </t>
+
+  <t id="H_PS_PORT" ver="11">
+    Επιλέξτε τη θύρα η οποία αντιστοιχεί στον εκτυπωτή σας.
+    Εάν δεν γνωρίζετε τη θύρα, αφαιρέστε το καλώδιο
+    USB του εκτυπωτή και κάντε κλικ στο "Ανανέωση Θυρών",
+    και να θυμόσαστε τη λίστα που εμφανίζεται στο 
+    πτυσσόμενο μενού. Συνδέστε τώρα τον εκτυπωτή στον Η/Υ
+    και ενημερώστε πάλι τη λίστα. Η νέα θύρα που προστέθηκε 
+    στη λίστα, είναι η θύρα του εκτυπωτή σας. Εάν δεν 
+    εμφανίζεται νέα θύρα, δεν έχετε εγκαταστήσει τον 
+    σωστό driver του εκτυπωτή.
+  </t>
+
+  <t id="H_PS_BAUD_RATE" ver="11">
+    Η ταχύτητα με την οποία επικοινωνεί ο εκτυπωτής σας. Η πιο 
+    συνηθισμένες ταχύτητες είναι μεταξύ 115200 και 250000.
+    Αν βάλετε μία λανθασμένη τιμή, η επικοινωνία δεν θα είναι δυνατή
+    και ο εκτυπωτής δε θα λαμβάνει εντολές. Αυτή είναι η κυριότερη
+    αιτία λαθών και προβλημάτων σύνδεσης με τον εκτυπωτή.
+  </t>
+
+  <t id="H_PS_TRANSFER_PROTOCOL" ver="11">
+    Το πρωτόκολλο μεταφοράς για την ανταλλαγή δεδομένων, 
+    ανάμεσα στον εκτυπωτή και τον υπολογιστή. Το δυαδικό
+    πρωτόκολλο είναι το καλύτερο και το γρηγορότερο αλλά
+    δουλεύει μόνο με το Repetier- Firmware. Η επιλογή 
+    "Αυτόματη Ανίχνευση" επιλέγει αυτόματα την καλύτερη μέθοδο.
+   </t>
+
+  <t id="L_AUTODETECT" ver="11">
+    Αυτόματη Ανίχνευση
+  </t>
+
+  <t id="L_REPETIER_PROTOCOL" ver="11">
+    Πρωτόκολλο Repetier
+  </t>
+
+  <t id="H_PS_RESET_ON_CONNECT" ver="11">
+    Πολλά boards επιτρέπουν το reset του board 
+    αλλάζοντας το σήμα στο DTR ή στον ακροδέκτη RTS.
+    Βασικά είναι πλεονεκτικό να ξεκινάτε μία νέα σύνδεση,
+    επειδή έτσι εξαλείφονται πιθανά προβλήματα επικοινωνίας.
+    Μερικοί εκτυπωτές δεν το υποστηρίζουν αυτό, οπότε σε 
+    αυτήν την περίπτωση, αυτό το χαρακτηριστικό,  θα πρέπει
+    να το απενεργοποιηθεί.
+  </t>
+
+  <t id="H_PS_RESET_ON_EMERGENCY" ver="11">
+    Αυτό καθορίζει τι συμβαίνει, όταν πιέζεται το πλήκτρο 
+    επείγοντος. Επειδή απαιτείται κάποιος χρόνος για
+    να ληφθεί η εντολή επείγουσας παύσης, θα πρέπει να
+    συνδυάζετε το επείγον με το stop is reset.
+  </t>
+  <t id="H_PS_RECEIVE_CACHE_SIZE" ver="11">
+    Για να προληφθούν μικροδιακοπές κατά την εκτύπωση,
+    ο υπολογιστής στέλνει πολλές εντολές ταυτόχρονα. 
+    Πρέπει να δώσετε τον αριθμό των χαρακτήρων, 
+    που μπορεί να αποθηκεύσει ο εκτυπωτης, έτσι ώστε 
+    να μην υπερφορτώνεται. Οι περισσότεροι εκτυπωτές 
+    μπορούν να αποθηκεύουν 127 bytes, αλλά ορισμένοι
+    μόνο 63 bytes. Εάν λαμβάνετε πολλά λάθη επικοινωνίας,
+    πιθανώς η τιμή που βάλατε είναι πολύ μεγάλη.
+  </t>
+
+  <t id="H_PS_USE_PING_PONG_COMMUNICATION" ver="11">
+    Σε επικοινωνία ping-pong πάντα υπάρχει μόνο μία
+    εντολή στο δρόμο προς τον εκτυπωτή. Αυτός ο τρόπος
+    επικοινωνίας είναι πολύ πιο αργός, έτσι εάν είναι 
+    δυνατόν, αυτή η επικοινωνία πρέπει να απενεργοποιείται.
+  </t>
+
+  <t id="H_PS_IP_ADDRESS" ver="11">
+    Η πρόσβαση στον Εκτυπωτή μπορεί να γίνει με αυτήν την διεύθυνση IP.
+  </t>
+
+  <t id="H_PS_IP_PORT" ver="11">
+    Η θύρα με την οποία είναι προσβάσιμος ο εκτυπωτής.
+  </t>
+
+  <t id="H_PS_VIRTUAL_BAUD_RATE" ver="11">
+    Ταχύτητα σύνδεσης του Εικονικού Εκτυπωτή. Για
+    τις 250000, δεν τοποθετούμε χρόνο αναμονής, για
+    μικτότερες τιμές εισάγονται κατάλληλοι χρόνοι
+    αναμονής.
+  </t>
+
+  <t id="H_PS_TRAVEL_FEED_RATE" ver="11">
+   Με αυτή την ταχύτητα κινείται ο extruder κατά
+   τον χειροκίνητο έλεγχο στις διευθύνσεις X και Y.
+  </t>
+
+  <t id="H_PS_Z_AXIS_FEED_RATE" ver="11">
+   Με αυτή την ταχύτητα κινείται ο extruder κατά
+   τον χειροκίνητο έλεγχο κατά τη διεύθυνση Z.
+  </t>
+
+  <t id="H_PS_MANUAL_EXTRUSION_SPEED" ver="11">
+    Το νήμα βγαίνει με αυτήν την ταχύτητα στο χειροκίνητο έλεγχο.
+  </t>
+
+  <t id="H_PS_MANUAL_RETRACTION_SPEED" ver="11">
+    Το νήμα ανασύρεται με αυτήν την ταχύτητα στο χειροκίνητο έλεγχο..
+  </t>
+
+  <t id="H_PS_DEFAULT_EXTRUDER_TEMPERATURE" ver="11">
+    Αυτή είναι η προτεινόμενη Θερμοκρασία του extruder,
+    όταν συνδέεται με τον εκτυπωτή.
+  </t>
+
+  <t id="H_PS_DEFAULT_HEAT_BED_TEMPERATURE" ver="11">
+    Αυτή είναι η προτεινόμενη Θερμοκρασία του κρεβατιού, 
+    όταν συνδέεται με τον εκτυπωτή.
+  </t>
+
+  <t id="H_PS_CHECK_EXTRUDER_AND_BED_TEMPERATURE" ver="11">
+   Αυτό είναι απαραίτητο για τον έλεγχο της
+   θερμοκρασίας και πρέπει να ενεργοποιηθεί    
+  </t>
+
+  <t id="H_PS_REMOVE_TEMPERATURE_REQUEST_FROM_LOG" ver="11">
+    Διαγράφει από το αρχείο καταγραφής τις θερμοκρασίες,
+    ώστε το αρχείο να είναι πιο κατανοητό.  
+  </t>
+
+  <t id="H_PS_CHECK_EVERY" ver="11">
+    Εδώ μπορείτε να καθορίσετε πόσο συχνά ερωτάται
+    η θερμοκρασία του extruder και του θερμαινόμενου κρεβατιού. 
+  </t>
+
+  <t id="H_PS_PARK_POSITION_X" ver="11">
+    Σε αυτή τη θέση X πηγαίνει ο εκτυπωτής κατά το παρκάρισμα.
+  </t>
+
+  <t id="H_PS_PARK_POSITION_Y" ver="11">
+    Σε αυτή τη θέση Y πηγαίνει ο εκτυπωτής κατά το παρκάρισμα.
+  </t>
+
+  <t id="H_PS_PARK_POSITION_Z_MIN" ver="11">
+    Ο extruder ανύψώνεται σε αυτό το σημείο όταν παρκάρει.
+  </t>
+
+  <t id="H_PS_SEND_ETA_TO_PRINTER_DISPLAY" ver="11">
+   Στέλνει τον υπολοιπόμενο χρόνο εκτύπωσης ή τον εκτιμώμενο χρόνο
+   ολοκλήρωσης της εργασίας εκτύπωσης. Αυτό εμφανίζεται στον 
+   υπολογιστή στην γραμμή κατάστασης και μπορεί να αλλάζει 
+   κάνοντας κλικ στο χρόνο, ανάμεσα στον υπολοιπόμενο χρόνο 
+   και το χρόνο ολοκλήρωσης   
+  </t>
+
+  <t id="H_PS_DISABLE_EXTRUDER_AFTER_JOB_KILL" ver="11">
+    Απενεργοποιεί τον extruder μετά την ολοκλήρωση της 
+    εργασίας ή όταν πιέσετε το μπουτόν επείγοντος.
+  </t>
+
+  <t id="H_PS_DISABLE_MOTORS_AFTER_JOB_KILL" ver="11">
+    Απενεργοποιεί τα μοτέρ μετά την ολοκλήρωση της εργασίας 
+    εκτύπωσης ή όταν πιέσετε το μπουτόν επείγοντος.
+  </t>
+
+  <t id="H_PS_DISABLE_HEATED_BED_AFTER_JOB_KILL" ver="11">
+    Απενεργοποιεί το θερμαινόμενο κρεβάτι μετά την ολοκλήρωση 
+    της εργασίας εκτύπωσης ή όταν πιέσετε το μπουτόν επείγοντος.
+  </t>
+
+  <t id="H_PS_ADD_TO_COMP_PRINTING_TIME" ver="11">
+    Αυξάνει τον προϋπολογισμένο χρόνο εκτύπωσης κατά 
+    αυτή την ποσότητα. Αυτό είναι απαραίτητο, επειδή
+    ο εκτυπωτής δεν μπορεί να διατηρήσει την ταχύτητα 
+    στις γωνίες και φρενάρει ανάλογα. Με αυτόν τον 
+    τρόπο είναι δυνατός ένας πιο ακριβής υπολογισμός 
+    του χρόνου εκτύπωσης, αλλά αυτός πάντα κυμαίνεται 
+    ανάλογα με το αντικείμενο και τις ρυθμίσεις του 
+    τεμαχιστή (slicer).
+  </t>
+
+  <t id="H_PS_GO_TO_PARK_POSITION_AFTER_JOB_KILL" ver="11">
+    Μετά την ολοκλήρωση της εργασίας ή όταν πιέσετε το μπουτόν 
+    επείγοντος, μετακινεί τον extruder στην θέση παρκαρίσματος.
+  </t>
+
+  <t id="H_PS_INVERT_MOVEMENT_DIRECTION" ver="11">
+   Αυτό αντιστρέφει την κατεύθυνση κίνησης,του 
+   επιλεγμένου άξονα κατά τον χειροκίνητο έλεγχο. 
+  </t>
+
+  <t id="H_PS_NUMBER_OF_EXTRUDERS" ver="11">
+    Εδώ καθορίζετε το πλήθος των extruder
+    του εκτυπωτή σας.
+  </t>
+
+  <t id="H_PS_MAX_EXTRUDER_TEMPERATURE" ver="11">
+    Εδώ εισάγετε την μέγιστη θερμοκρασία  extruder, την
+    οποία μπορείτε να ορίσετε στον χειροκίνητο
+    έλεγχο. Με αυτό τον τρόπο αποφεύγετε την κατά
+    λάθος υπερθέρμανση του extruder.
+  </t>
+
+  <t id="H_PS_MAX_BED_TEMPERATURE" ver="11">
+    Εδώ εισάγετε την μέγιστη θερμοκρασία του
+    θερμαινόμενου κρεβατιού, την οποία μπορείτε 
+    να ορίσετε στον χειροκίνητο έλεγχο. Με αυτό 
+    τον τρόπο αποφεύγετε την κατά λάθος 
+    υπερθέρμανση του θερμαινόμενου κρεβατιού.
+  </t>
+
+  <t id="H_PS_PRINTER_HAS_MIXING_EXTRUDER" ver="11">
+    Εάν χρησιμοποιείτε έναν  mixing extruder, όπου
+    όλα τα χρώματα τυπώνονται με το ίδιο στόμιο,
+    παρακαλούμε ενεργοποιείστε αυτήν την επιλογή.
+  </t>
+
+  <t id="H_PS_NAME" ver="11">
+    Αυτόματα επιλεγόμενο όνομα, το οποίο χρησιμοποιείται
+    κατά την τοποθέτηση του αντικειμένου.
+  </t>
+
+  <t id="H_PS_DIAMETER" ver="11">
+    Διάμετρος στομίου.
+  </t>
+
+  <t id="H_PS_TEMPERATURE_OFFSET" ver="11">
+  Αυτή η απόκλιση προστίθεται στις θερμοκρασίες του νήματος.
+  Αυτό σας επιτρέπει να χρησιμοποιείτε άλλο extruder με τις
+  ίδιες ρυθμίσεις νήματος.
+  </t>
+
+  <t id="H_PS_OFFSET_X" ver="11">
+    Η απόκλιση του extruder κατά την κατεύθυνση X 
+    για πολλαπλούς extruders, εάν δεν έχουν διαμορφωθεί μέσα στο firmware.
+  </t>
+
+  <t id="H_PS_OFFSET_Y" ver="11">
+    Η απόκλιση του extruder κατά την κατεύθυνση Y 
+     για πολλαπλούς extruders, εάν δεν έχουν διαμορφωθεί μέσα στο firmware.
+  </t>
+
+  <t id="H_PS_COLOR" ver="11">
+    Αυτό το χρώμα νήματος χρησιμοποιείται για προεπισκόπηση.
+  </t>
+
+  <t id="H_PS_PRINTER_TYPE" ver="11">
+    Εδώ καθορίζετε τον τύπο του εκτυπωτή.
+  </t>
+
+  <t id="H_PS_HOME" ver="11">
+    Εδώ καθορίζετε τη θέση του extruder μετά το homing.
+  </t>
+  <t id="L_PRINT_BED" ver="11">Κρεβάτι Εκτύπωσης</t>
+  <t id="L_DUMP_AREA" ver="11">Dump Area</t>
+  <t id="L_PRINTER_TYPE:" ver="11">Τύπος Εκτυπωτή:</t>
+  <t id="L_START_GCODE" ver="11">Start G-Code</t>
+  <t id="L_END_GCODE" ver="11">Τέλος Κώδικα-G</t>
+  <t id="L_BEFORE_EXTRUDER_SWITCH" ver="11">Πριν την Αλλαγή του Extruder</t>
+  <t id="L_AFTER_EXTRUDER_SWITCH" ver="11">Μετά την Αλλαγή του Extruder</t>
+<t id="L_INVERT_DIRECTION_FOR" ver="11">Αναστροφή Κατευθύνσεων στα Κοντρόλ</t>
+<t id="L_EXPORTING_MODEL_FOR_SLICING" ver="11">Εξαγωγή Μοντέλου Για Τεμαχισμό ...</t>
+  <t id="L_MAX_VOLUME_PER_SECOND" ver="11">Max. Όγκος Ανά Δευτερόλεπτο</t>
+  <t id="H_PS_MAX_VOLUME_PER_SECOND" ver="11">
+    Η τιμή αυτή μπορεί να χρησιμοποηθεί από τους Slicers για
+    να περιορίσουν την ταχύτητα εκτύπωσης, βασιζόμενοι στην 
+    απαιτούμενη παροχή όγκου. Κανονικά μπορείτε να τυπώσετε 
+    γύρω στα 12mm³/s. Όσο αυξάνεται η ταχύτητα, τόσο αυξάνεται
+    η απαιτούμενη θερμότητα και δύναμη για να ωθηθεί το νήμα 
+    μέσα από το στόμιο.
+  </t>
+  <t id="L_SHOW_TRAVEL_MOVES" ver="11">Εμφάνιση Γρήγορων Κινήσεων</t>
+  <t id="L_PRINTING_STATISTICS" ver="11">Στατιστικά Εκτύπωσης</t>
+  <t id="L_POSTPROCESSING..." ver="11">Postprocessing ...</t>
+  <t id="L_PRINTER_HAS_SD_CARD" ver="11">Ο Εκτυπωτής έχει κάρτα SD</t>
+  <t id="L_IMPORT" ver="11">Εισαγωγή</t>
+  <t id="L_EXPORT" ver="11">Εξαγωγή</t>
+  <t id="L_PRINT_SETTINGS_ALREADY_EXIST" ver="11">Υπάρχουν ήδη ρυθμίσεις Εκτύπωσης με αυτό το όνομα. Δεν αποθηκεύτηκαν.</t>
+  <t id="L_SAVE_PRINT_SETTINGS_AS" ver="11">Αποθήκευσε τις ρυθμίσεις εκτύπωσης σαν</t>
+  <t id="L_SELECT_SETTING_NAME" ver="11">Έπίλεξε όνομα Ρυθμίσεων</t>
+  <t id="L_REALLY_DELETE_FILAMENT_SETTING" ver="11">Να σβήσω τις ρυθμίσεις νήματος?</t>
+  <t id="L_SAVE_FILAMENT_SETTINGS_AS" ver="11">Αποθήκευσε τις ρυθμίσεις Νήματος σαν</t>
+  <t id="L_FILAMENT_SETTINGS_ALREADY_EXIST" ver="11">Υπάρχουν ήδη ρυθμίσεις Νήματος με αυτό το Όνομα. Δεν Αποθηκεύτηκαν.</t>
+  <t id="L_PRINTING..ETE" ver="11">Εκτύπωση...ETE $1</t>
+  <t id="L_DIAMETER:" ver="12">Διάμετρος:</t>
+  <t id="L_TEMP_OFFSET:" ver="12">Απόκλιση Θερμότητας:</t>
+  <t id="L_OFFSET_X:" ver="12">Απόκλιση X:</t>
+  <t id="L_OFFSET_Y:" ver="12">Απόκλιση Y:</t>
+  <t id="L_NOZZLE_DIAMETER:" ver="12">Διάμετρος Στομίου:</t>
+  <t id="L_0_OR_PRINTERSETTINGS:" ver="12">[mm or 0 = χρησιμοποίησε την τιμή από τις "Ρυθμίσεις Εκτυπωτή"]</t>
+  <t id="L_SEE_ALSO_PRINTERSETTINGS" ver="12">Ο slicer χρησιμοποιεί επίσης παραμέτρους που τέθηκαν στις "Ρυθμίσεις Εκτυπωτή"->"Extruders"!</t>
+  <t id="L_SHOW_QUICKSETTINGS" ver="12">Εμφάνιση Γρήγορων Ρυθμίσεων</t>
+  <t id="L_INFORMER_URL" ver="12">URL:</t>
+  <t id="L_INFORMER_URL_INFO" ver="12">Προσθέτει το παραπάνω link σε οποιοδήποτε μήνυμα. Π.Χ. την διεύθυνση url μιας δικτυακής κάμερας.</t>
+  <t id="L_PUSH_SD_STARTED" ver="12">Ξεκίνησε η εκτύπωση από την κάρτα sd στον εκτυπωτή $1.</t>
+  <t id="L_PUSH_SD_FINISHED" ver="12">Ολοκληρώθηκε η εκτύπωση από την κάρτα sd στον εκτυπωτή $1.</t>
+  <t id="L_FIRST_LAYER_EXTRUSION_WIDTH:" ver="12">Πλάτος Extrusion πρώτου Επιπέδου:</t>
+  <t id="H_FIRST_LAYER_EXTRUSION_WIDTH" ver="12">
+    Για καλύτερη πρόσφηση στο κρεβάτι, είναι συχνά ωφέλιμο να βγεί 
+    περισσότερο νήμα για το πρώτο στρώμα, ώστε να γίνει παχύτερο. 
+    Εδώ μπορείτε να καθορίσετε  πόσο πλατύτερη είναι η βασική γραμμή συγκρινόμενη με την παραδοσιακή extrusion. 
+    Η πυκνότητα των γραμμών ρυθμίζεται ανάλογα.</t>
+  <t id="L_MIRROR_OBJECT" ver="12">Κατοπρικό Αντικείμενο</t>
+  <t id="L_X_HOURS" ver="12">$1 Ώρες</t>
+  <t id="L_PUSH_MSG_PROGRESS" ver="12">Η Εκτύπωση στον $1 θα ολοκληρωθεί γύρω στις $2.</t>
+  <t id="L_PUSH_MSG_PROGRESS_SD" ver="12">Η εκτύπωση στον $1 έχει ολοκληρωθεί $2%.</t>
+  <t id="L_PUSH_HEAD_PROGRESS" ver="12">Ενημέρωση Προόδου</t>
+  <t id="L_PROGRESS_EVERY" ver="12">Πρόοδος κάθε</t>
+  <t id="L_POSITION_OBJECT" ver="12">Τοποθέτηση Αντικειμένου</t>
+  <t id="L_OBJECTS_CHANGED" ver="12">Η θέση του αντικειμένου έχει αλλάξει από τον τελευταίο τεμαχισμό. Θέλετε πράγματι να ξεκινήσετε την εργασία;</t>
+  <t id="H_SKIN_SPEED" ver="13">Ταχύτητα για το εξωτερικό πλήρες γέμισμα. Επιτρέπει να κάνετε γρήγορα εσωτερικά γεμίσματα, χωρίς να μειώσετε την ποιότητα της εξωτερικής επιφάνειας.</t>
+  <t id="L_SKIN_INFILL:" ver="13">Γέμισμα κελύφους:</t>
+  <t id="L_NEVER" ver="13">Ποτέ</t>
+  <t id="L_ALWAYS" ver="13">Πάντοτε</t>
+  <t id="L_ONLY_SKIN" ver="13">Πάντα εκτός από το Κέλυφος</t>
+  <t id="L_API_KEY:" ver="13">Api Key:</t>
+  <t id="H_PS_RS_APIKEY" ver="13">Καθολικό κλειδί api ή κλειδί api ενός χρήστη με δικαίωμα εκτύπωσης.</t>
+  <t id="L_RS_CONNECTION_INFO" ver="13">Αυτός ο Connector επιτρέπει απ' ευθείας σύνδεση σε έναν ενεργό Repetier-Server, ο οποίος τρέχει σε αυτή ή μία απομακρυσμένη συσκευή.
+ Για να συνδεθεί βάλτε την ip ή το hostname και την θύρα καθώς και το κλειδί api. Μπορείτε να χρησιμοποιήσετε το καθολικό κλειδί api ή κλειδί api ενός υπαρκτού χρήστη με δικαίωμα εκτύπωσης.
+ Το  Connect τότε θα σας συνδέσει στον server και όχι απ΄ευθείας στον εκτυπωτή. Μπορείτε να συνδεθείτε και να αποσυνδεθείτε από το server οποιαδήποτε χρονική στιγμή, ακόμα και όταν τυπώνετε!</t>
+  <t id="TAB_PRINT" ver="13">Εκτύπωση</t>
+  <t id="L_PERIMETER_BEFORE_INFILL" ver="13">Περίμετρος πριν το Παραγέμισμα</t>
+  <t id="H_PS_PERIMETER_BEFORE_INFILL" ver="13">Καθορίζει εάν θα τυπωθεί πρώτα η περίμετρος ή το παραγέμισμα</t>
+  <t id="L_OFFLINE" ver="13">Offline</t>
+  <t id="L_NO_PORT_ONLINE" ver="13">Δεν είναι διαθέσιμη καμμία θύρα για Αυτόματη Επιλογή. Παρακαλώ συνδέστε πρώτα τον Εκτυπωτή ασς!</t>
+  <t id="L_TEMPERATURE_REACHED" ver="14">Έφτασε τη θερμακρασία</t>
+  <t id="L_RS_MINVERSION" ver="14">Χριεάζετσε τουλάχιστον την έκδοση $1 του Repetier-Server για να συνδεθείτε.</t>
+  <t id="L_NO_PRINTER_SELECTED" ver="14">--- Δεν έχει επιλεγεί κανένας εκτυπωτής ---</t>
+  <t id="L_OTHER_PRINTER_CONNECTED" ver="14">Είστε συνδεμένοι με έναν άλλο εκτυπωτή. 
+  Για να συνεχίσετε πρώτα κλείστε τη σύνδεση.</t>
+  <t id="L_RS_NOAUTH" ver="14">Η Authorization στον Server απέτυχε. Παρακαλώ ελέγξτε το κλειδί Api.</t>
+  <t id="L_RS_WRONG_IP" ver="14">Δεν μπόρεσε να συνδεθεί στον  server. 
+  Παρακαλώ επιβεβαιώστε τον αριθμό IP και την θύρα
+  και ελέγξτε εάν ο server είναι ενεργοποιημένος.</t>
+  <t id="TAB_SERVER" ver="14">Server</t>
+  <t id="L_RS_COPY_INFO" ver="14">Οι περισσότερες ρυθμίσεις ανασύρθηκαν από τον server και αποθηκεύτηκαν. 
+                                  Μερικές ρυθμίσεις δεν είναι διαθέσιμες και παρέμειναν αμετάβλητες.</t>
+  <t id="L_RS_COPY_CONFIG" ver="14">Αντιγραφή δεδομένων Διαμόρφωσης του Server</t>
+  <t id="L_SERVER_DISCONNECTED" ver="14">Ο Server αποσυνδέθηκε</t>
+  <t id="L_PRINTER_OFFLINE" ver="14">Ο Εκτυπωτής είναι Απενεργοποιημένος</t>
+  <t id="L_PRINTER_DEACTIVATED" ver="14">Ο Εκτυπωτής Απενεργοποιήθηκε</t>
+  <t id="L_SAVE_TO_SERVER" ver="14">Αποθήκευση στο Server</t>
+  <t id="L_WILL_OVERWRITE_EXISTING" ver="14">Θα αντικαταστήσει το υπάρχον αρχείο!</t>
+  <t id="L_RS_NO_UPLOAD_PERMISSION" ver="14">Δεν έχετε δικαιώματα ανεβάσματος!</t>
+  <t id="L_RS_NO_PRINT_PERMISSION" ver="14">Δεν έχετε δικαιώματα εκτύπωσης!</t>
+  <t id="L_RS_NOPRINTERS" ver="14">
+    Δεν έχουν οριστεί εκτυπωτές στον Server.Δεν μπορεί
+    να γίνει σύνδεση. Παρακαλώ ορίστε πρώτα τουλάχιστον 
+    έναν εκτυπωτή και δοκιμάστε πάλι. 
+  </t>
+  <t id="L_INFO" ver="14">Πληροφορία</t>
+  <t id="T_WAITING_PRINTS">Περιμένει Εκτυπώσεις</t>
+  <t id="T_STORED_PRINTS">Αποθηκευμένες Εκτυπώσεις</t>
+  <t id="L_TIMES">times</t>
+  <t id="L_LENGTH">Μήκος</t>
+  <t id="L_WEIGHT">Βάρος</t>
+  <t id="L_COST">Κόστος</t>
+  <t id="L_FILAMENT">Νήμα</t>
+  <t id="L_PRINTED">Τυπώθηκε</t>
+  <t id="L_UPLOADED">Ανέβηκε</t>
+  <t id="L_FILE_SIZE">Μέγεθος Αρχείου</t>
+  <t id="L_VOLUMETRIC_EXTRUSION">Ογκομετρικό Extrusion</t>
+  <t id="L_PER_EXTRUDER_VALUES" ver="14">Τιμές ανά Extruder</t>
+  <t id="L_TOTAL_VALUES" ver="14">Συνολικές Τιμές</t>
+  <t id="L_EXTR" ver="14">Extr.</t>
+  <t id="L_TOTAL_PRICE:" ver="14">Συνολική Τιμή:</t>
+  <t id="L_SCRIPTS" ver="14">Scripts</t>
+  <t id="L_SCRIPT" ver="14">Script</t>
+  <t id="B_SAVE_FOR_SD_PRINT" ver="14">Save for SD Print</t>
+  <t id="L_PRINT_PREVIEW" ver="14">Προεπισκόπιση Εκτύπωσης</t>
+  <t id="TAB_SEARCH" ver="14">Αναζήτηση</t>
+  <t id="L_SEARCHTERM" ver="14">Αναζήτηση:</t>
+  <t id="L_REPLACETERM" ver="14">Αντικατάσταση:</t>
+  <t id="B_SEARCH" ver="14">Αναζήτηση</t>
+  <t id="B_REPLACE_SEARCH" ver="14">Αντικατάσταση &amp;&amp; Αναζήτηση</t>
+  <t id="B_REPLACE" ver="14">Αντικατάσταση</t>
+  <t id="L_SAVE_TO_FILE" ver="14">Save to File</t>
+  <t id="L_EDIT_GCODE" ver="14">Edit G-Code</t>
+  <t id="TAB_GCODE_SYNTAX" ver="14">Σύνταξη κώδικα-G</t>
+  <t id="M_USING_REPETIER_SERVER" ver="14">Χρήση Repetier-Server</t>
+  <t id="M_REPETIER_SERVER_MANUAL" ver="14">Εγχειρίδιο Repetier-Server</t>
+  <t id="M_START_SERVER" ver="14">Ξεκίνα τον Τοπικό Server</t>
+  <t id="M_STOP_SERVER" ver="14">Σταμάτα τον Τοπικο Server</t>
+  <t id="M_OPEN_SERVER_FRONTEND" ver="14">Open Server Frontend</t>
+  <t id="L_VIEW_CROSS_SECTION" ver="14">View Cross Section</t>
+  <t id="M_SERVER" ver="14">Server</t>
+  <t id="L_AUTO_ZOOM_OBJECTS" ver="14">Αυτόματη εστίαση σε αντικείμενα</t>
+  <t id="L_AUTO_POSITION_OBJECTS" ver="14">Αυτόματη χωροθέτηση αντικειμένου, όταν προστίθεται νέο αντικείμενο</t>
+  <t id="L_TRAVEL_ACCELERATION" ver="14">Επιτάχυνση Travel</t>
+  <t id="L_CONNECT_TO_CONTINUE" ver="14">Συνδέσου Για Συνέχεια</t>
+  <t id="L_ZOOM_SPEED_FACTOR" ver="14">Zoom Speed Factor</t>
+  <t id="L_WARN_JOB_RUNNING_CLOSE" ver="14">Μία εργασία είναι υπό εκτέλεση. Το κλείσιμο της εκτέλεσης, θα καταστρέψει την εργασία. Να την κλείσω οπωσδήποτε?</t>
+  <t id="M_SAVE_GCODE_SERVER" ver="14">Αποθήκευση του κώδικα-G-Code στο Server</t>
+  <t id="L_SAVE_GCODE_AS" ver="14">Αποθήκευση Κώδικα-G σαν</t>
+  <t id="L_WILL_OVERWRITE_EXISTING_FILE" ver="14">Θα γίνει εγγραφή σε υπάρχον αρχείο!</t>
+  <t id="L_FLIP_X_Y" ver="15">Εναλλαγή X καιY</t>
+  <t id="H_FLIP_X_Y" ver="15">Εναλλάσσει τα μπουτόν των κινήσεων x και y στο χειροκίνητο έλεγχο.</t>
+  <t id="L_SHOW" ver="15">Εμφάνιση</t>
+  <t id="L_COLOR" ver="16">Χρώμα</t>
+  <t id="L_MANAGER" ver="16">Διαχειριστής</t>
+  <t id="L_PROGRESS" ver="16">Πρόοδος</t>
+  <t id="L_COMMUNICATION_TIMEOUT" ver="16">Τέλ. Χρόν. Επικοινων..</t>
+  <t id="L_EASY_MODE" ver="16">Εύκολος Τρόπος</t>
+  <t id="L_FATAL_ERROR" ver="16">Κρίσιμο Σφάλμα</t>
+  <t id="L_FATAL_ERROR_INFO" ver="16">Ένα κρίσιμο σφάλμα στην πλευρά του εκτυπωτή, σταμάτησε την εκτύπωση μέχρι να διορθωθεί το σφάλμα. Μήνυμα Εκτυπωτή:</t>
+  <t id="E_SENSOR_DEFECT" ver="17">Σφάλμα Αισθητήρα θερμοκρασίας</t>
+  <t id="E_DECOUPLED" ver="17">Temp. sensor and heater decoupled</t>
+  <t id="E_SLIPPING" ver="17">Filament is slipping</t>
+  <t id="E_JAMMED" ver="17">Extruder is jammed</t>
+  <t id="E_JAMMED_OR_NO_FILAMENT" ver="17">Extruder jammed or out of filament</t>
+  <t id="E_OUT_OF_FILAMENT" ver="17">Τελείωσε το Νήμα</t>
+  <t id="E_UNKNOWN_ERROR" ver="17">Άγνωστο Σφάλμα</t>
+  <t id="L_SERVER_CONNECTOR_HINT" ver="17">Παρατήρηση: Έχετε μία εγκατάσταση του Repetier-Server. Συνιστούμε έντονα να χρησιμοποιήσετε, αντί γι' αυτό, τη σύνδεση   Repetier-Server. Κάντε κλικ στη  "Βοήθεια" για επιπλέον πληροφορίες.</t>
+  <t id="L_PRINTER_ERRORS" ver="17">Σφάλματα Εκτυπωτή</t>
+  <t id="L_PRINT_TIME" ver="18">Χρόνος Εκτύπωσης</t>
+  <t id="L_GROUP" ver="18">Ομάδα</t>
+  <t id="L_ADD_GROUP" ver="18">Προσθήκη Ομάδας</t>
+  <t id="L_DELETE_GROUP_X" ver="18">Διαγραφή Ομάδας $1</t>
+  <t id="L_DELETE_GROUP" ver="18">Διαγραφή Ομάδας</t>
+  <t id="L_DEL_GROUP_MOVE" ver="18">Διαγραφή Ομάδας, μετακίνηση αρχείων στην προεπιλογή</t>
+  <t id="L_DEL_GROUP_DEL" ver="18">Διαγραφή ομάδος και Σχετιζόμενων Αρχείων</t>
+  <t id="L_REPAIR_IN_PROGRESS" ver="18">Μία διεργασία επισκευής βρίσκεται σε εξέλιξη. Παρακαλώ δοκιμάστε πάλι, όταν τελειώσει.</t>
+  <t id="L_NOT_MANIFOLD_INFO_LR" ver="18">Το αντικείμενο δεν είναι manifold. Αυτό ουσιαστικά σημαίνει ότι δεν είναι στεγανό. 
+    Αυτό συνήθως δημιουργεί προβλήματα κατά τον τεμαχισμό, οδηγώντας σε ανεπιθύμητα αποτελέσματα. Συνίσταται έντονα να επισκευάσετε το αντικείμενο.</t>
+  <t id="L_REPAIRING..." ver="18">Επισκευάζει ...</t>
+  <t id="L_WEBCAM" ver="18">Webcam</t>
+  <t id="L_FILAMENT_EXTR_X" ver="18">Νήμα Extr.$1:</t>
+  <t id="L_WIPE_NOZZLE_PRIME" ver="18">Wipe Nozzle on Prime Tower</t>
+  <t id="L_PRIME_POS_X" ver="18">Prime Tower X Position:</t>
+  <t id="L_PRIME_POS_Y" ver="18">Prime Tower Y Position:</t>
+  <t id="L_SHOW_PRINTER_MODEL" ver="18">Εμφάνιση Μοντέλου Εκτυπωτή</t>
+  <t id="L_HIDE_PRINTERMODEL_BOTTOM" ver="18">Απόκρυψέτο εάν παρατηρείται από την κάτοψη</t>
+  <t id="L_SHUTDOWN_QUESTION" ver="18">Αυτό θα τερματίσει τα Windows 5 λεπτά μετά την ολοκλήρωση της Εκτύπωσης. Ο τερματισμός μπορεί να παρεμποδιστεί από άλλα προγράμματα! Η λειτουργία αυτή απενεργοποιείται στην επόμενη εκκίνηση.</t>
+  <t id="M_SHUTDOWN_WINDOWS" ver="18">Τερματισμός των  Windows μετά την εκτύπωση</t>
+  <t id="L_ENABLE_LAYERHEIGHT_EDITOR" ver="18">Ενεργοποίησε τον Editor μεταβλητού ύψους</t>
+  <t id="L_USE_VARIABLE_LAYER_HEIGHTS" ver="18">Χρήση Μεταβλητών Υψών Επιπέδων</t>
+  <t id="L_MIN_LAYER_HEIGHT" ver="18">Min. Ύψος Επιπέδου:</t>
+  <t id="L_MAX_LAYER_HEIGHT" ver="18">Max. Ύψος Επιπέδου:</t>
+  <t id="L_CURRENT_Z" ver="18">Τρέχον Z:</t>
+  <t id="L_LAYER_HEIGHT_SET" ver="18">Layer Height Set:</t>
+  <t id="L_LAYER_HEIGHT_MOUSE" ver="18">Layer Height Mouse:</t>
+  <t id="L_LAYER_INFLUENCE_HEIGHT" ver="18">Influence Height:</t>
+  <t id="L_RESET_LAYER_HEIGHTS" ver="18">Reset Heights</t>
+  <t id="L_PRESERVE_LAYERHEIGHT" ver="18">Δοκίμασε να διατηρήσεις τις θέσεις των αντικειμένων</t>
+  <t id="L_PRESERVE_LAYERHEIGHT_A" ver="18">Μεταβλητό Ύψος Επιπέδων και τεμαχισμα ανά αντικείμενο δεν είναι τότε δυνατά</t>
+  <t id="L_PRESERVE_LAYERHEIGHT_B" ver="18">Ο τεμαχισμός ανά αντικείμενο, δεν είναι τότε δυνατός</t>
+  <t id="L_SLIC3R_LAYER_INFO" ver="18">Παρακαλώ απενεργοποιείστε το checkbox 'Προσπάθησε να διατηρήσεις τη θέση του αντικειμένου'  για να χρησιμοποιήσετε μεταβλητά επίπεδα. Με ένα αντικείμενο, θα συνεχίσει να διατηρείται η θέση, αλλά με πολλά αντικείμενα το Slic3r θα τα επανατοποπετήσει.</t>
+  <t id="L_REPAIR_FAILED" ver="18">Η επισκευή απέτυχε. Διατήρηση του παλιού αντιγράφου.</t>
+  <t id="L_NUM_FANS" ver="18">Πλήθος ανεμιστήρων:</t>
+  <t id="L_SAVING___" ver="18">Αποθηκεύει ...</t>
+  <t id="L_AUTOCONNECT_ON_STARTUP">Αυτόματη σύνδεση στο Ξεκίνημα, εάν είναι Δυνατόν</t>
+  <t id="L_FILAMENTCHANGE_REQUIRED">Απαιτείται Αλλαγή του Νήματος.</t>
+  <t id="L_VELOCITY_PAINTING" ver="18">Χρωματισμός Ταχύτητας</t>
+  <t id="L_LOAD_IMAGE" ver="18">Φόρτωση Εικόνας</t>
+  <t id="L_INVERT_IMAGE" ver="18">Αναστροφή Εικόνας</t>
+  <t id="L_ROTATE_IMAGE" ver="18">Περιστροφή Εικόνας</t>
+  <t id="L_TRIGGER_SPEED:" ver="18">Trigger Speed:</t>
+  <t id="L_LOW_SPEED:" ver="18">Χαμηλή Ταχύτητα:</t>
+  <t id="L_HIGH_SPEED:" ver="18">Υψηλή Ταχύτητα:</t>
+  <t id="L_VEL_SPEED_INFO" ver="18">Μετατρέπονται μόνο extrusions με 'Trigger Speed'. Οι μαύρες εικόνες παίρνουν μικρή ταχύτητα ενώ οι  λευκές υψηλή ταχύτητα.</t>
+  <t id="L_IMAGE_SCALING" ver="18">Κλιμάκωση Εικόνας</t>
+  <t id="L_VEL_SCALING_INFO" ver="18">Μέγεθος εικόνας που χρησιμοποιήθηκε για προβολή.</t>
+  <t id="L_WIDTH:" ver="18">Πλάτος:</t>
+  <t id="L_HEIGHT:" ver="18">Ύψος:</t>
+  <t id="L_PROJECTION" ver="18">Προβολή</t>
+  <t id="L_PROJECTION_METHOD" ver="18">Μέθοδος Προβολής:</t>
+  <t id="L_XCENTER:" ver="18">X Center:</t>
+  <t id="L_YCENTER:" ver="18">Y Center:</t>
+  <t id="L_ZCENTER:" ver="18">Z Center:</t>
+  <t id="L_VEL_PROJECTION_INFO" ver="18">Το κέντρο καθορίζει την αρχή της προβολής. Για προβολ. σε επίπεδο χρησιμ. μόνο 2 τιμές. Η κυλινδρική και σφαιρική προβολή σημειώνουν το κέντρο του κυλίνδρου resp. sphere. </t>
+  <t id="L_GUESS_FROM_PROJECTION" ver="18">Μάντεψε από τη Μέθοδο Προβολής</t>
+  <t id="L_GENERATE_VELOCITY" ver="18">Δημιούργησε Χρωματισμό Ταχύτητας</t>
+  <t id="L_TUTORIAL" ver="18">Μάθημα</t>
+  <t id="L_IMAGE_PREVIEW" ver="18">Προεπισκόπηση Εικόνας</t>
+  <t id="L_VEL_PROJ0" ver="18">Κυλινδρική Προβολή</t>
+  <t id="L_VEL_PROJ1" ver="18">Προβολή στο επίπεδο X-Z</t>
+  <t id="L_VEL_PROJ2" ver="18">Προβολή στο επίπεδο Y-Z</t>
+  <t id="L_VEL_PROJ3" ver="18">Προβολή στο επίπεδο X-Y</t>
+  <t id="L_VEL_PROJ4" ver="18">Σφαιρική Προβολή</t>
+  <t id="L_PRINT_SPEEDS" ver="18">Ταχύτητες Εκτύπωσης</t>
+  <t id="L_PROVIDE_IMAGE_FIRST" ver="18">Πρώτα πρέπει να δώσετε μία εικόνα!</t>
+  <t id="L_SLICE_FIRST" var="18">Πρώτα πρέπει να τεμαχίσετε το αντικείμενο!</t>
+  <t id="L_SUGGESTIONS_BASED_ON" ver="18">Οι προτάσεις βασίζονται σε ένα μοντέλο που είναι τοποθετημένο στο κρεβάτι, με την υπόθεση ότι το αποτέλεσμα του τεμαχισμού βρίσκεται στο ίδιο σημείο. Δεν έχετε μόνο ένα αντικείμενο στο κρεβάτι!</t>
+  <t id="L_FILAMENTJAM_DETECTED" ver="18">Ανιχνεύτηκε μπλοκάρισμα του νήματος. Παρακαλώ ελέγξτε τον εκτυπωτή σας.</t>
+  <t id="L_UPD_INFO" ver="19">Το software έχει ενημερωθεί και είναι πλέον διαθέσιμες νέες ρυθμίσεις. Εάν τις εγκαταστήσετε μπορεί να βελτιώσουν τη διαμόρφωση σας, αλλά μπορεί επίσης να διαγράψουν τις αλλαγές σας. Παρακαλώ επιλέξτε πώς να συνεχίσετε.</t>
+  <t id="L_UPD_DO_NOTHING" ver="19">Να μην γίνει τίποτε, κράτα τις παλιές μου ρυθμίσεις</t>
+  <t id="L_UPD_DO_NEW" ver="19">Θέσε μόνο νέες ρυθμίσεις και Αρχεία</t>
+  <t id="L_UPD_ALL" ver="19">Ενημέρωση Όλων</t>
+  <t id="L_UPD_HEAD" ver="19">Εγκαταστάθηκε η νέα έκδοση</t>
+  <t id="L_RESET_FACTORY_QUESTION" ver="19">Η Επαναφορά στις εργοστασιακές ρυθμίσεις, θα επαναφέρει τις ρυθμίσεις του εκτυπωτή και τα προφίλ του τεμαχιστή στις αρχικές εκδόσεις. Οι εκτυπωτές και τα προφίλ που προστέθηκαν επιπλέον, δεν θα αλλάξουν. Αυτό θα επανακινήσει την εφαρμογή, για να ενημερωθούν τα δεδομένα. Να συνεχίσει?</t>
+  <t id="L_FIRMWARE_TYPE:" ver="19">Τύπος Firmware:</t>
+  <t id="L_SHOW_WEBCAM" ver="19">Εμφάνισε την Webcam</t>
+</translation>
+
